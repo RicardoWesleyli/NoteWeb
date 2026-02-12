@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Home from './pages/Home/Home';
+import Home from './pages/Home';
 import { DataProvider } from './contexts/DataProvider';
 
 function App() {

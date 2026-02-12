@@ -70,21 +70,28 @@ pnpm run build
 1. 确保你的项目已关联到 GitHub 仓库。
 2. 确保 `vite.config.ts` 中的 `base` 配置正确（如果是部署到 `https://username.github.io/repo-name/`，`base` 应设为 `./` 或 `/repo-name/`）。
 
-### 一键部署
+### 方式一：使用 GitHub Actions 自动部署（推荐）
 
-运行以下命令，系统会自动构建并将 `dist` 目录推送到远程仓库的 `gh-pages` 分支：
-
-```bash
-pnpm run deploy
-```
-
-### 开启 GitHub Pages
+本项目包含 GitHub Actions 工作流，支持代码推送后自动部署。
 
 1. 进入 GitHub 仓库页面。
 2. 点击 **Settings** -> **Pages**。
+3. 在 **Build and deployment** -> **Source** 中选择 **GitHub Actions**。
+4. 以后每次将代码推送到 `main` 分支时，GitHub 会自动构建并更新网站。
+
+### 方式二：本地手动部署
+
+如果你不使用 GitHub Actions，也可以在本地直接部署：
+
+1. 运行以下命令，系统会自动构建并将 `dist` 目录推送到远程仓库的 `gh-pages` 分支：
+
+   ```bash
+   pnpm run deploy
+   ```
+
+2. 进入 GitHub 仓库页面 -> **Settings** -> **Pages**。
 3. 在 **Build and deployment** -> **Source** 中选择 **Deploy from a branch**。
-4. **Branch** 选择 `gh-pages`，文件夹选择 `/ (root)`。
-5. 点击 **Save**。
+4. **Branch** 选择 `gh-pages`，文件夹选择 `/ (root)`，点击 **Save**。
 
 稍等片刻，即可通过 GitHub Pages 链接访问你的导航站。
 
