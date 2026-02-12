@@ -1,0 +1,1861 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": [
+    {
+      "id": 1,
+      "en": "Focus is becoming the rarest skill on the planet. Talent, intelligence, marketing, prompting, vibe coding, and whatever else doesn't matter as much as being able to channel your attention for an extended period of time into one useful thing that you want to see in the world.",
+      "zh": "专注力正成为地球上最稀缺的技能。天赋、智力、营销技巧、提示能力、直觉感知能力等等，都不如能够长时间将注意力集中到一件你想在世界上看到的有用事情上重要。"
+    },
+    {
+      "id": 2,
+      "en": "The ultimate goal is getting paid to be yourself. To solve problems you can't help but solve. To study what you can't pull yourself away from. To eliminate any work that does not challenge you creatively.",
+      "zh": "最终目标是靠做自己赚钱。去解决那些你不得不解决的问题。去研究那些你无法抗拒的东西。去摆脱任何无法激发你创造力的工作。"
+    },
+    {
+      "id": 3,
+      "en": "Grab a notebook. Write out exactly what you want in your future, don't miss a detail. Then, break it down into goals. Decades, years, months, weeks, and days. Every day, write down the 3 levers you can pull to make actual progress. Then, forget about the goals and execute.",
+      "zh": "拿个笔记本。把你对未来的所有期望都详细写下来，不要遗漏任何细节。然后，把它分解成一个个小目标，以十年、年、月、周和日为单位。每天写下你可以采取的 3 个措施来取得实际进展。然后，忘掉目标，执行就好。"
+    },
+    {
+      "id": 4,
+      "en": "The best thing you can do in today's world is practice thinking. Very few people, especially smart people, do this. Snap yourself out of your automatic patterns and stretch your mind for once. This will only become more important as AI and social media distort reality.",
+      "zh": "在当今世界，你能做的最好的事情就是练习思考。很少有人这样做，尤其是聪明人。打破你固有的思维模式，拓展一下你的思维吧。随着人工智能和社交媒体扭曲现实，这一点只会变得越来越重要。"
+    },
+    {
+      "id": 5,
+      "en": "The primary reason people don't achieve big goals is because they don't realize that the only source of truth is making mistakes. They soak up advice and theory, expecting it to be an exact match to their mind, experience, and situation just to fail once and give up completely.",
+      "zh": "人们无法实现远大目标的主要原因在于，他们没有意识到，唯有犯错才能获得真理。他们盲目吸收各种建议和理论，期望它们能完全契合自己的想法、经验和实际情况，结果却往往一次失败就彻底放弃。"
+    },
+    {
+      "id": 6,
+      "en": "You don't magically become focused. You practice it. You notice you're distracted and snap out of it, over and over again until it's second nature. Most people have not trained this muscle, and they are not anywhere close to as focused as they think they are.",
+      "zh": "专注力不会凭空出现，而是需要练习。你要不断觉察自己的分心，然后迅速调整过来，如此反复，直到成为一种本能。大多数人都没有锻炼过这种能力，所以他们的专注力远不如自己想象的那么强。"
+    },
+    {
+      "id": 7,
+      "en": "If you don't shamelessly promote your work, every day for the next 2-3 years, you will get stuck doing someone else's work until you realize that nobody is going to pay you if they have no idea who you are.",
+      "zh": "如果你不厚颜无耻地宣传自己的作品，在接下来的两三年里，你每天都会被迫做别人的工作，直到你意识到，如果别人不知道你是谁，就不会有人付钱给你。"
+    },
+    {
+      "id": 8,
+      "en": "If you have multiple interests, don't let anyone convince you that you should narrow your focus. You may be confused for a while, but if you stick it out, you will blow past everyone else.",
+      "zh": "如果你有很多兴趣爱好，不要让任何人说服你缩小关注范围。你可能会有一段时间感到迷茫，但只要坚持下去，你最终会超越所有人。"
+    },
+    {
+      "id": 9,
+      "en": "The deeper you fall into a rut the more fuel you have to launch out of it, but also the more excuses you have to stay the same. It is very important that you see through your own bullshit and choose the first option.",
+      "zh": "你越是深陷泥潭，就越有动力挣脱束缚，但同时也有越多借口继续维持现状。因此，看穿自己的谎言并选择前者至关重要。"
+    },
+    {
+      "id": 10,
+      "en": "The greatest focus hack is to know what you're working on, why you're working on it, when it needs to be done, and how exactly to get it done.",
+      "zh": "提高专注力的最大秘诀是：知道你在做什么，为什么要做这件事，什么时候需要完成，以及如何准确地完成它。"
+    },
+    {
+      "id": 11,
+      "en": "If you work so that you never have to work again, you'll be disappointed when retirement leaves you feeling empty. Find work that you would do after retirement as early as you can and you'll never feel the need to retire.",
+      "zh": "如果你努力工作是为了以后再也不用工作，那么退休后你会感到空虚和失望。尽早找到退休后愿意从事的工作，你就不会感到需要退休了。"
+    },
+    {
+      "id": 12,
+      "en": "You don't achieve the life you want then become the \"successful\" person. You become the person first, which looks cringe until it becomes normal, and success eventually catches up to you. You choose the character you want to play, and only then do the right quests appear.",
+      "zh": "你不会先过上自己想要的生活，然后才成为“成功人士”。你首先要成为你想成为的人，这起初可能让你觉得尴尬，但很快就会习以为常，而成功最终会随之而来。你​​选择自己想要扮演的角色，只有这样，合适的任务才会出现。"
+    },
+    {
+      "id": 13,
+      "en": "The fastest way to change is to obsessively reflect on what you do every day and do not lie to yourself about what kind of life that is creating.",
+      "zh": "改变最快的方法是反复反思你每天所做的事情，不要自欺欺人地看待这些事情正在创造什么样的生活。"
+    },
+    {
+      "id": 14,
+      "en": "Your life flips upside down when you realize that \"who you are\" is a program written by people who were also programmed, and unless you make the painful choice to rewrite that code, most of your thoughts and actions are not beneficial to your future, because they are not yours.",
+      "zh": "当你意识到“你是谁”是由同样被编程的人编写的程序时，你的生活就会发生翻天覆地的变化。除非你做出痛苦的选择来重写这段代码，否则你的大多数想法和行为对你的未来都没有好处，因为它们不是你自己的。"
+    },
+    {
+      "id": 15,
+      "en": "Signs you're on the right track: Work energizes you Learning doesn't take effort Discipline doesn't need to be forced You think in decades, not days You're excited to wake up You relate to very few people, but the relationships you do form are irreplaceable.",
+      "zh": "表明你走在正确道路上的迹象：工作让你充满活力学习并不需要付出努力。纪律无需强迫。你以十年为单位思考，而不是以天为单位。你很兴奋地醒来你真正能产生共鸣的人不多，但你建立的这些关系却是无可替代的。"
+    },
+    {
+      "id": 16,
+      "en": "When your days become too mundane, you need to change something fast. You need chaos. You need novelty. You need the experiences and ideas that inspire you to go on your next quest. Build something new. Rip apart your daily routine. Do anything but the same thing.",
+      "zh": "当你的生活变得过于单调乏味时，你需要迅速做出改变。你需要混乱，你需要新鲜感，你需要那些能激发你开启下一段征程的体验和想法。去创造新的事物，打破你日复一日的惯例，去做任何事，就是不要再重复同样的事情。"
+    },
+    {
+      "id": 17,
+      "en": "If you aren't building something that leads to the life you want, even if it's \"only\" 30-60 minutes a day, you will by default stay in the same life you're in, building things that allow others to live the life they want. 30 minutes can, in fact, start the snowball.",
+      "zh": "如果你没有在打造自己想要的生活，哪怕每天只花30-60分钟，你也会默认地继续过着现在的生活，转而打造一些让别人过上他们想要的生活的东西。事实上，30分钟就能引发连锁反应。"
+    },
+    {
+      "id": 18,
+      "en": "If you're bored, create something. Anything. Software. Designs. Photos. Videos. Writing. A business. A body. A relationship. A mind. How can you not be excited to wake up when you have the ability to create.",
+      "zh": "如果你感到无聊，那就创作点什么吧。任何事物。软件。设计。照片。视频。写作。一项事业。一个身体。一段关系。一个思想。拥有创造的能力，怎能不兴奋地醒来呢？"
+    },
+    {
+      "id": 19,
+      "en": "Chat interfaces suck. And you need to copy paste between 10 tabs to do anything worthwhile. So we created a canvas for notes, files, YouTube videos, and chats that can branch off of each other. Eden is only open to the public through black friday weekend.",
+      "zh": "聊天界面太糟糕了。而且，要想做任何有意义的事情，都需要在 10 个标签页之间复制粘贴。因此，我们创建了一个画布，用于存放笔记、文件、YouTube 视频和聊天记录，这些内容可以相互关联。伊甸园仅在黑色星期五周末对公众开放。"
+    },
+    {
+      "id": 20,
+      "en": "You can't improve what doesn't exist. The ideas in your head. The business you dream of building. The plans you keep putting off. All are worthless until you test them against reality. You're afraid of failure and glorify perfection when the opposite is what determines success.",
+      "zh": "你无法改进不存在的东西。你脑海中的想法，你梦想建立的企业，你一再搁置的计划，所有这些只有经过现实检验才有价值。你害怕失败，崇尚完美，但恰恰相反，成功才取决于此。"
+    },
+    {
+      "id": 21,
+      "en": "You only need 1 hour. 1 hour of building. 1 hour of writing. 1 hour of lifting. 1 hour of studying. 1 hour of anything but distracting yourself from the life you are trying to change. 1 hour feels like nothing until you look back 365 hours later and everything's changed.",
+      "zh": "你只需要1个小时。1 小时用于建造。1 小时用于写作。1 小时用于举重。1 小时用于学习。1 小时用于做任何事，只要不让自己分心，就能专注于你想要改变的生活。1 小时感觉很短暂，但 365 小时后回头看，一切都变了。"
+    },
+    {
+      "id": 22,
+      "en": "If you don't have something important to care about, you will naturally care about things that make you stupid, angry, and depressed.",
+      "zh": "如果你没有什么重要的事情值得关心，你自然就会关心那些让你变得愚蠢、愤怒和沮丧的事情。"
+    },
+    {
+      "id": 23,
+      "en": "Most people's lives are determined by how they choose to cure their boredom.",
+      "zh": "大多数人的生活取决于他们如何选择打发无聊时光。"
+    },
+    {
+      "id": 24,
+      "en": "If you understood that you become what you read, watch, listen to, or the people you surround yourself with, you wouldn't be doing 90% of what you do.",
+      "zh": "如果你明白你会变成你读的东西、看的东西、听的东西，或者你身边的人，你就不会做你现在所做的事情的90%了。"
+    },
+    {
+      "id": 25,
+      "en": "The glaring problem with schools is that a topic could take 1 week to learn, but it’s stretched across 3-4 months because that’s how long the course must be. Even worse, the learning doesn’t involve doing, so most people don’t learn a thing until they graduate.",
+      "zh": "学校教育最大的问题在于，一个知识点可能一周就能学完，却要拉长到三四个月，因为课程时长必须达到这个要求。更糟糕的是，学习过程中缺乏实践环节，所以大多数人直到毕业都什么都没学到。"
+    },
+    {
+      "id": 26,
+      "en": "You don't need to focus harder. Focus is the byproduct of a lack of distractions. You simply need to be in the right environment (mentally and physically) and have a clear set of tasks that you have the knowledge and skill to execute. Ignore everything but that.",
+      "zh": "你无需刻意集中注意力。专注力源于排除干扰。你只需身处合适的环境（身心两方面），并明确列出你具备完成任务的知识和技能。除此之外，其他一切都无关紧要。"
+    },
+    {
+      "id": 27,
+      "en": "The best way to stand out as a creator, in my eyes, is to take a weird topic you're passionate about and make it palatable to a larger audience. Don't follow the trends, but take the principles of human nature that make the trends work and apply them to your personal interests.",
+      "zh": "在我看来，创作者脱颖而出的最佳途径是，将你热衷的某个冷门话题转化为更易于被大众接受的内容。不要盲目追随潮流，而是汲取潮流背后的人性规律，并将其运用到你个人的兴趣领域。"
+    },
+    {
+      "id": 28,
+      "en": "The worst life is to wake up and have nothing you want to do. The best life is not being able to stop yourself from launching out of bed, working on a project that's important to you, and having so much clarity that stress and worry can't even find their way into your brain.",
+      "zh": "最糟糕的生活莫过于醒来后无所事事。最好的生活莫过于迫不及待地起床，投入到对你而言重要的项目中，并且头脑无比清醒，压力和焦虑根本无法侵入你的大脑。"
+    },
+    {
+      "id": 29,
+      "en": "Learn how to do it yourself before you let AI do it for you. If you don't, you will not understand why it was done that way, why it got results, or why it didn't. You will become more and more dependent on a tool rather than your own creative ability.",
+      "zh": "在让 AI 代劳之前，先学会自己动手。否则，你将无法理解为什么会那样做，为什么会取得某种结果，或者为什么会失败。你会越来越依赖工具，而不是依靠自己的创造力。"
+    },
+    {
+      "id": 30,
+      "en": "If you struggle to think clearly, or struggle to generate big creative ideas, give yourself permission to fuck off for 3 days. No work. No laptop. Just sit around. Discover what it’s like to feel bored again. Have a pen and paper ready.",
+      "zh": "如果你思维混乱，或者难以迸发出伟大的创意，那就允许自己彻底放松三天。不工作，不碰电脑，就这么闲着。重新体验一下无聊的感觉。准备好笔和纸。"
+    },
+    {
+      "id": 31,
+      "en": "You don’t need to dream big. You need to imagine a life so depressing that the only option in your mind is to achieve big.",
+      "zh": "你不需要怀揣远大的梦想。你需要想象一种极其压抑的生活，在这种生活中，你唯一的选择就是取得巨大的成就。"
+    },
+    {
+      "id": 32,
+      "en": "How to know if you need to make a big change: You stay up late, every night, because you feel like you haven't gotten enough out of the day.",
+      "zh": "如何判断你是否需要做出重大改变：你每天晚上熬夜，因为你觉得白天没有过足觉。"
+    },
+    {
+      "id": 33,
+      "en": "When you combine the internet (access to opportunity), social media (access to people), and AI (access to intelligence) you give high agency people the ability to achieve more, faster, and low agency people a reason to complain, more.",
+      "zh": "当互联网（获取机会）、社交媒体（接触人脉）和人工智能（获取智能）结合在一起时，就赋予了自主性高的人更快、更高效地取得更大成就的能力，也让自主性低的人有了更多抱怨的理由。"
+    },
+    {
+      "id": 34,
+      "en": "Your potential would substantially increase if you understood that the limits of your perspective are not the limits of what's possible.",
+      "zh": "如果你明白你的视野局限并不等于可能性的局限，你的潜力将会大大提升。"
+    },
+    {
+      "id": 35,
+      "en": "The obvious trap here is mental masturbation. This probably won't work if you aren't already intensely committed to building out your vision for the future. That being said, more work isn't always the answer. You need to unfuck your psychology.",
+      "zh": "这里显而易见的陷阱是精神上的自慰。如果你还没有全身心投入到构建未来愿景的过程中，这种方法可能不会奏效。话虽如此，增加工作量并非总是解决问题的办法。你需要调整好自己的心理状态。"
+    },
+    {
+      "id": 36,
+      "en": "The best way to learn something is to write about it, in public, but only if you care about learning. When you write, you are forced to organize thoughts into words. When you teach someone else, you feel obligated to understand the topic.",
+      "zh": "学习某件事的最佳方法是把它写下来，公开分享，但前提是你真的想学习。写作时，你会被迫将想法组织成文字。而教别人时，你会感到有义务去理解所教的内容。"
+    },
+    {
+      "id": 37,
+      "en": "You need to go through an extended period of investing their time into self education and skill acquisition before you can expect any kind of unaverage success. The sooner you stop putting off the 1-3 years of trial and error the better.",
+      "zh": "你需要让他们投入相当长的时间进行自学和技能习得，才能期待取得任何非凡的成功。你越早停止拖延这1-3年的试错过程，就越好。"
+    },
+    {
+      "id": 38,
+      "en": "One of the greatest feelings is seeing your faith in yourself pay off. To keep experimenting even when nothing has yet gotten results. To see the first bit of effort turn into success. Once you get that taste you can never go back to your old life.",
+      "zh": "最棒的感觉之一，莫过于看到自己对自身的信念最终获得回报。即使一无所获，也要坚持尝试。看着最初的努力最终转化为成功，那种感觉无与伦比。一旦尝到成功的滋味，就再也回不到过去的生活了。"
+    },
+    {
+      "id": 39,
+      "en": "It’s crazy how you can just learn anything you want and become so good people can’t ignore you if you stop getting distracted.",
+      "zh": "令人难以置信的是，只要你不再分心，你就能学会任何你想学的东西，并且变得非常优秀，以至于人们无法忽视你。"
+    },
+    {
+      "id": 40,
+      "en": "If you were secretly recorded during your next \"deep work\" session and had to watch it after, you'd probably find that 90% of the work you're doing is unnecessary, and most of the needle-moving tasks could be done in 2-3 hours, maximum.",
+      "zh": "如果你在下次“深度工作”期间被秘密录制下来，事后观看，你可能会发现你所做的 90% 的工作都是不必要的，而大多数真正有突破性的任务最多只需 2-3 小时就能完成。"
+    },
+    {
+      "id": 41,
+      "en": "You don't have ideas because you don't read. You can't articulate ideas because you don't write. You can't leverage ideas because you don't build. You feel bored, anxious, or overwhelmed because your mind wants ideas to flow but you won't let them.",
+      "zh": "你没有想法是因为你不读书。你无法清晰表达自己的想法，因为你不写作。你无法利用创意，因为你没有付诸实践。你感到无聊、焦虑或不知所措，是因为你的大脑渴望灵感涌现，但你却不让它们涌现。"
+    },
+    {
+      "id": 42,
+      "en": "It's liberating once you realize that the mind can be trained to do anything you want. That most of what you lack can be changed with knowledge, skill, and a logical sequence of steps that victims will attempt to convince you don't exist.",
+      "zh": "一旦你意识到思维可以被训练成任何你想做的事，你就会感到无比轻松。你所缺乏的大部分东西都可以通过知识、技能和一系列合乎逻辑的步骤来改变，而受害者会试图让你相信这些步骤并不存在。"
+    },
+    {
+      "id": 43,
+      "en": "You're not struggling with productivity. You're struggling with not having a project worth being productive for. If you were working on the right thing, you wouldn't be able to stop thinking, working, obsessing.",
+      "zh": "你并非缺乏效率，而是缺乏值得你投入精力去完成的项目。如果你在做正确的事情，你就会停不下来思考、工作、甚至全神贯注。"
+    },
+    {
+      "id": 44,
+      "en": "You're allowed to be motivated by money. Scratch that, you are motivated by money. But you hide it because your parents, teachers, and peers convinced you it was a bad thing to pursue. You work, right now, for money, to survive. Don't apologize for wanting to live well.",
+      "zh": "你可以受金钱驱动。算了，你就是受金钱驱使。但你把它藏起来，因为你的父母、老师和同龄人都让你相信追求金钱是不好的。你现在工作是为了赚钱，为了生存。想要过上好日子，无需道歉。"
+    },
+    {
+      "id": 45,
+      "en": "Your past is just an image in your mind. But you decide to live as if that image were your reality. Even worse, you Photoshop that image. You make it worse than it was and it slowly dims the future image you could create.",
+      "zh": "你的过去只是你脑海中的一个影像。但你却选择像对待现实一样去生活。更糟糕的是，你还用 Photoshop 修改这个影像，让它变得比原本更糟，这慢慢地模糊了你本可以创造的未来。"
+    },
+    {
+      "id": 46,
+      "en": "Do whatever you want. When you do, you will make mistakes. At that point, if you are smart, you no longer want it, and begin to slowly course correct toward what you really want. If you always do what others want for you, you will never discover what you want.",
+      "zh": "你想做什么就做什么。当你这样做的时候，你会犯错。到那时，如果你足够聪明，你就会不再想要那样的生活，并开始慢慢地调整方向，朝着你真正想要的东西前进。如果你总是按照别人的意愿行事，你永远不会发现自己真正想要的是什么。"
+    },
+    {
+      "id": 47,
+      "en": "You solve a problem by obsessing over it (without letting it destroy your mind). Any problem, huge or small, can eventually be solved if you sit with it long enough. When a problem is your lens for reality, you subconsciously pick up information and piece together the solution.",
+      "zh": "你通过专注地思考问题（但不要让它摧毁你的心智）来解决问题。任何问题，无论大小，只要你有足够的时间去思考，最终都能得到解决。当问题成为你观察现实的视角时，你会下意识地接收信息并拼凑出解决方案。"
+    },
+    {
+      "id": 48,
+      "en": "The solution to imposter syndrome is to produce so much that your body of work speaks for itself.",
+      "zh": "克服冒名顶替综合症的办法就是创作出足够多的作品，让作品本身说话。"
+    },
+    {
+      "id": 49,
+      "en": "You don't set a goal to achieve something, you set a goal to become someone. Most people fail because they want the reward without the change that comes with it. If you have a burning desire to change, you'll achieve any goal you want.",
+      "zh": "你设定目标不是为了达成某个目标，而是为了成为某个人。大多数人失败是因为他们想要回报，却不愿接受随之而来的改变。如果你内心渴望改变，你就能实现任何你想要的目标。"
+    },
+    {
+      "id": 50,
+      "en": "You're distracted because you don't have responsibilities, priorities, or goals so important that you have no choice but to focus on them. You're afraid to commit so you drown in options.",
+      "zh": "你之所以分心，是因为你没有必须专注的责任、优先事项或目标。你害怕做出承诺，所以才会被各种选择淹没。"
+    },
+    {
+      "id": 51,
+      "en": "The most powerful habit you can adopt: Using the first hour of your day to build, write, or produce something of value.",
+      "zh": "你能养成的最强大的习惯：利用一天中的第一个小时来创造、写作或制作有价值的东西。"
+    },
+    {
+      "id": 52,
+      "en": "If you don't have anyone to talk about your interests and passions with, start writing on the internet and you'll find them.",
+      "zh": "如果你找不到人倾诉你的兴趣爱好，那就开始在网上写作，你就会找到他们。"
+    },
+    {
+      "id": 53,
+      "en": "Everyone needs to learn about survival. Humans are unique because (unlike animals) we survive on the psychological level.  We feel threatened when our beliefs, values, ideas, or worldview are challenged. We literally feel the fear and pain even when nothing is there.",
+      "zh": "每个人都需要学习生存技能。人类的独特之处在于（与动物不同），我们依靠心理层面生存。当我们的信仰、价值观、理念或世界观受到挑战时，我们会感到威胁。即使实际上并无任何威胁，我们也会真切地感受到恐惧和痛苦。"
+    },
+    {
+      "id": 54,
+      "en": "You aren't where you want to be because you don't have the mind of the person who would be in that position. You don't have the knowledge, skill, or experience, obviously. Changing that is in your control.",
+      "zh": "你之所以没能达到你想要的高度，是因为你缺乏胜任那个职位的人应有的思维方式。显然，你缺乏相关的知识、技能和经验。但改变这一切，完全掌握在你手中。"
+    },
+    {
+      "id": 55,
+      "en": "If you're lost, start solving problems. The problems that are staring you straight in the face. Your fitness, health, finances, mindset, work, or anything preventing you from having control over your life. Experiment until you become obsessed and watch your life change.",
+      "zh": "如果你迷路了，那就开始解决问题。那些摆在你面前的问题：你的体能、健康、财务状况、心态、工作，或者任何阻碍你掌控自己生活的因素。不断尝试，直到你对此着迷，然后你会发现生活发生了改变。"
+    },
+    {
+      "id": 56,
+      "en": "You don't need experience to start because you only gain experience by starting.",
+      "zh": "你不需要经验就可以开始，因为只有通过实践才能获得经验。"
+    },
+    {
+      "id": 57,
+      "en": "When it's time to work, work. When it's time to rest, rest. Most people are always thinking about rest while working and work while resting. An empty life is one lived in your head.",
+      "zh": "该工作的时候就工作。该休息的时候就休息。大多数人总是想着工作时休息，想着休息时工作。空虚的人生就是活在自己的思绪里。"
+    },
+    {
+      "id": 58,
+      "en": "My innocent little wife now wants a gun + classes for self protection and is deeply questioning the mental health of much of the population. She has never been the type to get wrapped up in this stuff. Make of this what you will. Something changed yesterday.",
+      "zh": "我那天真无邪的小妻子现在想要一把枪，还想参加自卫课程，并且开始深深质疑很多人的精神健康状况。她以前从来不是那种会纠结于这些事情的人。你自己看着办吧。昨天发生了一些变化。"
+    },
+    {
+      "id": 59,
+      "en": "Do what you love, but study psychology, human behavior, and persuasion so people actually care about what you do enough to pay you for it.",
+      "zh": "做你喜欢的事，但要学习心理学、人类行为学和说服技巧，这样人们才会真正关心你所做的事情，并愿意为此付钱给你。"
+    },
+    {
+      "id": 60,
+      "en": "If you feel lost, write down: 1) Who you want to become 2) Who you don't want to become 3) The 3-5 things you can do today You're lost because you don't have a direction to work toward, an enemy to work away from, and tasks that move the needle toward your goals.",
+      "zh": "如果你感到迷茫，请写下：1）你想成为什么样的人2）你不想成为什么样的人3）你今天可以做的3-5件事你之所以迷失方向，是因为你没有努力的方向，没有需要摆脱的敌人，也没有能够推动你实现目标的任务。"
+    },
+    {
+      "id": 61,
+      "en": "You don't find what you're passionate about. You create it. You build it. You invest energy into a goal. You become great at something. You stick with it whether you feel like it or not. You aren't going to be passionate about something you have zero experience in.",
+      "zh": "你找不到自己热爱的事业。你创造它，你建设它，你为目标投入精力，你在某方面变得卓越，无论你是否愿意，你都要坚持下去。你不可能对一无所知的事情充满热情。"
+    },
+    {
+      "id": 62,
+      "en": "Most people aren't afraid to fail. They're afraid to succeed because that would require them to change. It would require them to become the person who was capable of success. It would require them to let go of the pleasures they are silently addicted to.",
+      "zh": "大多数人并不害怕失败，他们害怕的是成功，因为成功意味着改变，意味着成为能够成功的人，意味着放弃那些他们默默沉迷的享乐。"
+    },
+    {
+      "id": 63,
+      "en": "Pay close attention to the times when you can't stop having ideas, thinking about a project, or obsessively taking notes. You're being pulled into a new chapter of life and the worst thing you can do is let that spark die out.",
+      "zh": "密切留意那些你灵感迸发、思绪万千、或者不停地记笔记的时刻。你正被拉入人生的新篇章，最糟糕的事情莫过于让这股热情熄灭。"
+    },
+    {
+      "id": 64,
+      "en": "You used to want it. You used to be hungry. You used to love the challenge. But then you got soft. Life became dull. You became numb. At some point you're going to have to get so sick of it that your spark comes back.",
+      "zh": "你曾经渴望成功。你曾经充满斗志。你曾经热爱挑战。但后来你变得软弱。生活变得乏味。你变得麻木。总有一天，你会厌倦这一切，直到你重新燃起激情。"
+    },
+    {
+      "id": 65,
+      "en": "Everyone is playing one of three money games: - Survival – Make enough to not die. Money as master. - Success – Make enough to matter. Money as scoreboard. - Sacred – Make enough to authentically create. Money as energy. Money is evil at level 1. Money is good at level 3.",
+      "zh": "每个人都在玩以下三种金钱游戏中的一种：生存——挣足够的钱活下去。金钱至上。成功——赚到足够的钱，让自己变得有影响力。金钱是衡量成功的标准。神圣的——赚足够的钱去进行真正的创作。金钱即能量。金钱在第一级是邪恶的，在第三级是善良的。"
+    },
+    {
+      "id": 66,
+      "en": "Just solve problems. Your problems first. Then others' problems. That's how you learn, become valuable, become high-agency, earn an income, practice creativity, and improve the quality of your mind, body, spirit, finances, relationships. Get distracted and life starts to crumble.",
+      "zh": "只管解决问题。先解决自己的问题，再解决别人的问题。这样你才能学习、提升自身价值、增强自主性、获得收入、发挥创造力，并改善你的心智、身体、精神、财务状况和人际关系。一旦分心，生活就会开始崩塌。"
+    },
+    {
+      "id": 67,
+      "en": "The desire to succeed is more important than knowing how to succeed because the person with the strongest desire will figure it out no matter the cost.",
+      "zh": "渴望成功比知道如何成功更重要，因为渴望最强烈的人无论付出多大的代价都会找到成功的方法。"
+    },
+    {
+      "id": 68,
+      "en": "My editor has hit that point where he finally gets it. Started writing a fiction book and can’t stop thinking about it. Got on a real training program and dialed in his diet. Complete mentality and energy shift. Video games became boring overnight. Fell back in love with life.",
+      "zh": "我的编辑终于明白了。他开始写小说，而且一直想着它。他参加了一个正规的训练计划，并调整了饮食。他的心态和精力都发生了彻底的转变。一夜之间，电子游戏变得索然无味。他重新爱上了生活。"
+    },
+    {
+      "id": 69,
+      "en": "Most people have no clue how bad they feel because that’s “normal” to them. Train, walk, and eat well for 2 weeks (vertical diet for simplicity) and your mind will be blown by how much different you feel.",
+      "zh": "大多数人根本不知道自己感觉有多糟糕，因为对他们来说，那已经是“正常”状态了。坚持锻炼、散步，并健康饮食两周（为了简单起见，这里采用垂直饮食法），你会惊讶于自己感觉的巨大变化。"
+    },
+    {
+      "id": 70,
+      "en": "The best thing about a writing habit is that it makes you realize how stupid you really are. Most people think they have clear ideas, but since they’ve never written them out in physical space, they’ve never thoroughly examined their thinking.",
+      "zh": "写作习惯最大的好处在于，它能让你意识到自己有多愚蠢。大多数人认为自己思路清晰，但由于从未将这些想法写下来，他们也从未彻底审视过自己的思维。"
+    },
+    {
+      "id": 71,
+      "en": "If you have to force yourself to do hard things, you're not going to make it. I can't think of one successful person who hated their entire way to the top. Their desire to succeed was so much stronger than their desire for comfort that they couldn't help but do the hard thing.",
+      "zh": "如果你必须强迫自己去做难事，你就不会成功。我想不出有哪个成功人士是一路走来都充满怨恨的。他们对成功的渴望远远超过了对安逸的追求，所以他们不得不去做那些艰难的事情。"
+    },
+    {
+      "id": 72,
+      "en": "Pro bodybuilders don't force themselves to train and eat healthy, they can't imagine a life where they don't. That doesn't mean it isn't hard or uncomfortable, but their relationship with pain is completely different from the average person. Discipline is an identity problem.",
+      "zh": "职业健美运动员不会强迫自己训练和健康饮食，他们无法想象没有这些的生活。这并不意味着他们不会感到痛苦或不舒服，但他们对疼痛的感受与普通人完全不同。纪律是一个身份认同问题。"
+    },
+    {
+      "id": 73,
+      "en": "The only thing standing between where you are and where you want to be is a series of decisions that most people refuse to make.",
+      "zh": "横亘在你现在位置和你理想位置之间的，只有一系列大多数人拒绝做出的决定。"
+    },
+    {
+      "id": 74,
+      "en": "If you feel lost, the solution is counterintuitive. Throw yourself into the unknown and become even more lost. Move locations. Read new books. Upskill for a new job. Force yourself into a place where you CAN gain clarity and interest. Then, discover your way out.",
+      "zh": "如果你感到迷茫，解决方法可能与你的直觉相反。投身未知，让自己更加迷失。换个地方住。读新书。提升技能，找份新工作。强迫自己到一个能够让你获得清晰​​思路和兴趣的地方。然后，想办法出去。"
+    },
+    {
+      "id": 75,
+      "en": "Nobody is coming to save you. Your parents, friends, or government may try, but then you don't learn a thing. You aren't actually saved. And you'll need to be saved over and over again until you decide to take control of your life.",
+      "zh": "没有人会来救你。你的父母、朋友或政府或许会尝试，但你什么也学不到。你并没有真正得救。你需要一次又一次地被拯救，直到你决定掌控自己的人生。"
+    },
+    {
+      "id": 76,
+      "en": "Learning is one of the few superpowers that everyone has, but most people view it as a way to prepare themselves to earn an income, then they become too busy, or attach themselves to rigid beliefs, and stop. It's simple, but learning one new thing every day can change your life.",
+      "zh": "学习是每个人都拥有的少数几种超能力之一，但大多数人却把它当作谋生的手段，然后因为忙碌或固守成见而停止学习。其实很简单，每天学习一件新事就能改变你的人生。"
+    },
+    {
+      "id": 77,
+      "en": "You'll learn a lot more by saying \"fuck it,\" shutting your mind off, and doing the thing rather than reading 10 new books that fill your mind with noise and make it easy to do nothing.",
+      "zh": "与其读 10 本新书，让思绪充满噪音，使你很容易什么都不做，不如说“去他妈的”，关掉你的大脑，去做这件事，你会学到更多。"
+    },
+    {
+      "id": 78,
+      "en": "The more I write and create stuff on the internet, the more I'm realizing that my job isn't to help people succeed with my super special advice. It's to help them fail by giving them something to try. That way they can start to understand what *they* want and take their own path.",
+      "zh": "我在网上写的东西越多，就越意识到我的工作不是用我那些独门秘籍帮助别人成功，而是通过提供一些尝试来帮助他们经历失败。这样他们才能开始明白自己真正想要的是什么，并找到属于自己的道路。"
+    },
+    {
+      "id": 79,
+      "en": "This is somewhat counterintuitive, because you have to be confident and polarizing. That's what gives people the clarity to act. Nuance absolutely has its place, but it often just leads to people being overwhelmed with options and provides justification to do nothing.",
+      "zh": "这有点违反直觉，因为你需要自信且观点鲜明。正是这种特质才能让人们清晰地做出行动。细微差别固然重要，但它往往只会让人们面对过多的选择而不知所措，并为他们不作为找到借口。"
+    },
+    {
+      "id": 80,
+      "en": "A sign of a well designed life is that you don't want to take a day off because that would be far less enjoyable than your average day.",
+      "zh": "精心设计的生活的一个标志是，你不想休息一天，因为休息日远不如你平常的一天那么愉快。"
+    },
+    {
+      "id": 81,
+      "en": "I am once again telling you if you can spend 8 hours building someone else's dreams you can spend 1 hour building your own.",
+      "zh": "我再次告诉你们，如果你能花 8 个小时去实现别人的梦想，那么你也能花 1 个小时去实现自己的梦想。"
+    },
+    {
+      "id": 82,
+      "en": "If you don't choose your own game, society will assign you one, and society's games are incredibly boring. Same quest. Same routine. For 40 years until you win a mediocre prize. You don't want freedom from rules. You want the freedom to create your own.",
+      "zh": "如果你不选择自己的游戏，社会就会给你安排一个，而社会安排的游戏极其无聊。同样的任务，同样的流程，持续四十年，最终只赢得一个平庸的奖品。你想要的不是摆脱规则的自由，而是创造规则的自由。"
+    },
+    {
+      "id": 83,
+      "en": "I am once again asking you to start and never stop. What the fuck else are you going to do? You AREN'T going to reach your potential? You're just going to sit in front of your little screen all day? You're just going to keep making life hard instead of doing something hard?",
+      "zh": "我再次恳求你开始，并且永不放弃。不然你还能干什么？难道你不想发挥你的潜力吗？难道你只想整天坐在你的小屏幕前吗？难道你只想让生活变得更艰难，而不是去做一些有挑战性的事情吗？"
+    },
+    {
+      "id": 84,
+      "en": "You can log 8 hours of World of Warcraft or staring at your phone without blinking an eye but can't focus for 30 minutes on work that will change your life. You don't have a focus problem. You just don't see your life as a game and don't treat your goals as quests.",
+      "zh": "你可以连续玩8个小时《魔兽世界》或者盯着手机屏幕而不眨眼，却无法集中精力完成30分钟足以改变你人生的工作。你并非注意力不集中，只是你没有把生活当成游戏，也没有把目标当作任务来对待。"
+    },
+    {
+      "id": 85,
+      "en": "Get absolutely dialed for a month. Life becomes a game when you pay a 'delusional' amount of attention to the details. Track your food. Track your lifts. Track your steps. Track your revenue. Progressive overload each week. Ignore everything else. You'll enjoy progress again.",
+      "zh": "一个月内全身心投入。当你过度关注细节，甚至到了“不切实际”的地步时，生活就变成了一场游戏。记录你的饮食。记录你的举重。记录你的步数。记录你的收入。每周逐步增加训练量。忽略其他一切。你会再次享受进步的喜悦。"
+    },
+    {
+      "id": 86,
+      "en": "This only becomes overwhelming if you don't know how to move any of those numbers. Most people drown with anxiety looking at analytics because they don't instantly decide to acquire new skills and learn how to move the numbers. They play the game but refuse to gain experience.",
+      "zh": "只有当你不知道如何运用这些数字时，才会感到不知所措。大多数人面对分析数据时焦虑不已，是因为他们没有立即下定决心学习新技能，掌握运用这些数字的方法。他们只是参与游戏，却拒绝积累经验。"
+    },
+    {
+      "id": 87,
+      "en": "Quitting bad habits is easy if you research their negative impacts to the point where you're disgusted with them and hate the thought of doing them.",
+      "zh": "如果你深入研究不良习惯的负面影响，以至于对它们感到厌恶，甚至一想到要去做就恨之入骨，那么戒掉坏习惯就很容易了。"
+    },
+    {
+      "id": 88,
+      "en": "Everything meaningful in life is downstream of self-direction. Pursuing your own goals (not the ones society assigned you), making mistakes, correcting them, discovering new knowledge, and falling in love with that process so you never fall into a depressing stagnation.",
+      "zh": "人生中一切有意义的事情都源于自我引导。追求自己的目标（而不是社会赋予你的目标），犯错，改正错误，发现新知识，并爱上这个过程，这样你就不会陷入令人沮丧的停滞不前。"
+    },
+    {
+      "id": 89,
+      "en": "You don't know what to do with your life because you thought about your future for 30 seconds and called it a day. You need to think about it every day. For the rest of your life. You need to ruthlessly eliminate what you don't want and refine what you want.",
+      "zh": "你不知道自己的人生该何去何从，因为你只思考了未来 30 秒就结束了一天的计划。你需要每天都思考这个问题，直到生命的尽头。你需要毫不留情地剔除你不想要的东西，并提炼出你想要的东西。"
+    },
+    {
+      "id": 90,
+      "en": "For the next 6 months, every time you blame someone else or try to change them, try accepting the blame and changing yourself even if you aren't at fault. Your life will turn around faster than you can imagine.",
+      "zh": "接下来的六个月里，每当你责怪别人或试图改变别人时，试着承担责任并改变自己，即使你并没有错。你的生活会发生翻天覆地的变化，速度之快超乎你的想象。"
+    },
+    {
+      "id": 91,
+      "en": "Work when it's time to work and rest when it's time to rest. Work is a narrow state of mind while rest is an open state. If your life is dominated by work, you miss out on the ideas and creativity that lead to higher-paying meaningful work. This is why most people are stuck.",
+      "zh": "该工作的时候就工作，该休息的时候就休息。工作是一种狭隘的思维状态，而休息则是一种开放的状态。如果你的生活被工作占据，你就会错过那些能带来高薪且有意义的工作的想法和创造力。这就是为什么大多数人会陷入困境。"
+    },
+    {
+      "id": 92,
+      "en": "If it doesn't lead to something you'd want to take over your life, don't do it.",
+      "zh": "如果它不能让你拥有想要掌控自己人生的事业，那就不要去做。"
+    },
+    {
+      "id": 93,
+      "en": "Nobody cares about your niche. They care about your point of view. They don't want regurgitated information they can get from chat gpt or google. They want your opinion. They want your conviction. They want to feel the excitement and despair happening in your unique mind.",
+      "zh": "没人关心你的细分领域。他们在乎的是你的观点。他们不想要那些从聊天记录或谷歌上就能找到的陈词滥调。他们想要的是你的意见。他们想要的是你坚定的信念。他们想要感受你独特内心深处涌动的兴奋与绝望。"
+    },
+    {
+      "id": 94,
+      "en": "People drastically underestimate how much one single hour per day on 1-2 needle-moving tasks can compound. It doesn't feel like much each day, and it can be demotivating, but sometimes an hour is all you have, and 365+ hours can build something incredible.",
+      "zh": "人们严重低估了每天花一两个小时专注于一两项关键任务所能产生的累积效应。每天的时间看似不多，甚至可能令人沮丧，但有时你只有一小时，而一年365小时甚至更长时间的积累，就能创造出惊人的成就。"
+    },
+    {
+      "id": 95,
+      "en": "The single greatest productivity tip I could give is to wake up an hour earlier and get straight to work on the single most important thing that will move the needle toward your goals. Preferably before most people are even awake. People are the biggest source of distractions.",
+      "zh": "我能给出的最有效的提高效率的秘诀就是：早起一个小时，然后直接投入到那件能让你朝着目标迈进的最重要的事情上。最好是在大多数人还没起床的时候就开始。人是最大的干扰源。"
+    },
+    {
+      "id": 96,
+      "en": "Competition is largely an illusion. 95% of people don't even try to do great things. 0.1% of the people are loud, so you overestimate how many people there are. The rest get stuck worrying about competition and quitting after 2 weeks.",
+      "zh": "竞争很大程度上是一种错觉。95%的人甚至都没尝试去做伟大的事。只有0.1%的人声音大，所以你高估了真正做事的人的数量。其余的人则深陷于对竞争的焦虑中，两周后就放弃了。"
+    },
+    {
+      "id": 97,
+      "en": "Discipline is about getting clear on what you want. Once you know with absolute conviction that you don't want the life that your current habits are leading to, you hate the thought of doing them. Staying the same becomes more painful than pursuing an uncertain goal.",
+      "zh": "自律的本质在于明确自己想要什么。一旦你确信自己不想要目前习惯所带来的生活，你就会厌恶继续做这些事。维持现状比追求一个充满未知的目标更加痛苦。"
+    },
+    {
+      "id": 98,
+      "en": "Don't identify with a tool because tools change and get replaced. Identify with what the tools allow you to do: create. That's what you love doing. It doesn't matter if you do it with a paintbrush, camera, Photoshop, or AI. What matters is the vision you bring into reality.",
+      "zh": "不要执着于某种工具，因为工具会不断变化和被取代。要执着于工具赋予你的能力：创造。那是你热爱的事业。至于你用的是画笔、相机、Photoshop 还是人工智能，都无关紧要。重要的是你将愿景变为现实。"
+    },
+    {
+      "id": 99,
+      "en": "Discipline is a feature of identity. Meaning, you are already disciplined based on what you view as important. Some people play 12 hours of video games, others have no issue eating healthy and going to the gym. Discipline isn't forced, it's native to who you are.",
+      "zh": "自律是身份认同的一个特征。也就是说，你已经根据自己认为重要的事情养成了自律的习惯。有些人一天玩12个小时的电子游戏，而有些人则能轻松地健康饮食并去健身房锻炼。自律不是强加的，而是你与生俱来的。"
+    },
+    {
+      "id": 100,
+      "en": "The reason you're not happy is because you think happiness = euphoria so if you aren't maxing out on dopamine all the time you think you're doing something wrong. Happiness, most of the time, is being calm and in a good mood.",
+      "zh": "你不快乐的原因是你认为快乐=欣快感，所以如果你不能一直获得最大的多巴胺分泌，你就会认为自己做错了什么。大多数时候，幸福就是平静和心情愉悦。"
+    },
+    {
+      "id": 101,
+      "en": "One of the most important things you can understand is that school trains you to learn a specific way, and that way is extremely slow. Learning allows you to be useful and get what you want. It should be a top priority to learn how to learn, practice it, and master it.",
+      "zh": "你需要明白的最重要的一点是，学校训练你用一种特定的方式学习，而这种方式极其缓慢。学习的目的是让你变得有用，并实现你的目标。因此，学习如何学习、练习并掌握它应该是你的首要任务。"
+    },
+    {
+      "id": 102,
+      "en": "As much as people want to argue that physical appearance doesn’t matter, it does. A lot. It’s 24/7 non-verbal communication of your values. Most people aren’t unattractive, they just don’t put a shred of effort into taking care of themselves.",
+      "zh": "尽管人们总是争辩说外表无关紧要，但事实并非如此。它非常重要。它是一种24小时不间断的非语言沟通，传递着你的价值观。大多数人并不丑，只是他们根本不注重保养自己。"
+    },
+    {
+      "id": 103,
+      "en": "You can learn anything in 2 weeks. If you can't, you're trying to learn too much at once. Break the goal down and focus solely on doing what's necessary to reach it. If your learning doesn't involve doing, most of what you learn is disappearing the second you learn it.",
+      "zh": "两周内你可以学会任何东西。如果你做不到，说明你试图一次性学习太多东西。把目标分解开来，专注于完成实现目标所必需的步骤。如果你的学习不包含实践，那么你学到的大部分知识会在你学会的那一刻就消失殆尽。"
+    },
+    {
+      "id": 104,
+      "en": "Everyone wants a great story to tell (but not the catastrophic failure that makes it worth telling).",
+      "zh": "每个人都想讲述一个精彩的故事（但不是那种让故事值得讲述的灾难性失败）。"
+    },
+    {
+      "id": 105,
+      "en": "There is a very rare type of idea. When it pops into your mind, you feel like you can't help yourself. You're forced by some higher instinct to act on it. You cancel all plans. The vision is clear. You must protect it at all costs. These are the ideas that change your life.",
+      "zh": "有一种极其罕见的想法。当它突然出现在你的脑海中时，你感觉自己无法控制。某种更高的本能驱使着你付诸行动。你取消了所有计划。愿景清晰无比。你必须不惜一切代价守护它。这些想法，足以改变你的人生。"
+    },
+    {
+      "id": 106,
+      "en": "Your work is unlikely to be noticed until your skill matches your taste. You know what “good” looks like, but you need to practice until what you produce is at that level. That’s when things take off.",
+      "zh": "只有当你的技能与你的品味相匹配时，你的作品才有可能被人注意到。你知道“好”是什么样子，但你需要不断练习，直到你的作品达到那个水平。那时，你的事业才会腾飞。"
+    },
+    {
+      "id": 107,
+      "en": "If you want to achieve anything great, it needs to become your one true priority. The only thing on your mind. Nobody accidently got rich. Nobody accidently built a great physique. They were obsessed with it for multiple years until they no longer had to think about it.",
+      "zh": "如果你想成就一番伟业，就必须把它当作你唯一的目标，让你满脑子都是它。没有人是偶然致富的，也没有人是偶然练就一身健硕的身材的。他们都为此痴迷多年，直到无需再为此费心。"
+    },
+    {
+      "id": 108,
+      "en": "For those who need to hear it: getting rich is a perfectly viable goal. People who have a poor relationship with money will try to convince you that it isn't a meaningful way to live, but that couldn't be further from the truth. You can do great things and make great money.",
+      "zh": "对于那些需要听到这句话的人：致富是一个完全可行的目标。那些与金钱关系糟糕的人会试图说服你，致富不是一种有意义的生活方式，但这与事实相去甚远。你可以成就一番伟业，同时也能赚到丰厚的财富。"
+    },
+    {
+      "id": 109,
+      "en": "It's painful to watch young people treat youth as a currency rather than investment capital. The time, energy, and focus you have when you're young are extremely valuable and disappear fast. You're forming habits that will come back and hit you like a truck when you turn 30.",
+      "zh": "看着年轻人把青春当作货币而不是投资资本，真是令人痛心。年轻时拥有的时间、精力和专注力极其宝贵，而且转瞬即逝。你正在养成的这些习惯，会在你30岁时像卡车一样狠狠地击垮你。"
+    },
+    {
+      "id": 110,
+      "en": "Be careful listening to anyone who doesn’t have the life you want. Those people are rare. 1% of the population. The other 99% will blabber about how you should live your life when they’ve wasted their own. I'm sure they're kind people, but they have no idea what's best for you.",
+      "zh": "要谨慎听取那些没有过上你想要的生活的人的意见。这样的人很少，只占人口的1%。剩下的99%的人只会喋喋不休地告诉你该如何生活，而他们自己却虚度光阴。我相信他们心地善良，但他们根本不知道什么才是对你最好的。"
+    },
+    {
+      "id": 111,
+      "en": "You're going to miss out on 99% of the experiences life has to offer. That's just how it is. In other words, you're not missing out on anything by focusing on a few important things.",
+      "zh": "你会错过人生中99%的精彩体验。事实就是如此。换句话说，专注于几件重要的事情，你不会错过任何事情。"
+    },
+    {
+      "id": 112,
+      "en": "There is always more that can be done. Lost people can't figure out what to do. Drained people try to do it all. Happy people choose a few things they deeply care about and dedicate the entirety of their mental, physical, and financial energy toward that.",
+      "zh": "总有更多的事情可以做。迷失的人不知所措。精疲力竭的人试图面面俱到。快乐的人会选择几件自己真正关心的事情，并将全部的精力、体力和财力投入其中。"
+    },
+    {
+      "id": 113,
+      "en": "Life is hard because you don't know what you want. That's 90% of the battle. Once you have extreme clarity on what you want, after 5-10 calculated risks, everything else is quite simple. If you can reach that before you turn 25, you're in the top 1%.",
+      "zh": "人生艰难，是因为你不知道自己想要什么。这已经解决了90%的问题。一旦你对想要的东西有了极其清晰的认识，并在经过5到10次经过深思熟虑的风险尝试后，剩下的就简单多了。如果你能在25岁之前做到这一点，你就跻身顶尖1%的行列。"
+    },
+    {
+      "id": 114,
+      "en": "Your life is determined by a series of 10-12 bold decisions to shift the trajectory you were given by your parents and teachers. If you don’t, you stall out. You wake up 10 years later wondering why your life got worse even though you’ve done everything you were told to do.",
+      "zh": "你的人生由 10-12 个大胆的决定决定，这些决定将改变你的父母和老师为你设定的人生轨迹。如果你不这样做，你就会停滞不前。十年后，你会醒来，疑惑为什么你的生活变得更糟，尽管你已经按照指示做了所有事情。"
+    },
+    {
+      "id": 115,
+      "en": "The best decisions you will make are the ones that everyone else will say are stupid, risky, or crazy. And they’re right. To normal people, they are, but that’s exactly why you’re doing it. You deeply understand that it’s the only way to never end up like them.",
+      "zh": "你做出的最佳决定，往往是那些在别人看来愚蠢、冒险或疯狂的决定。他们说得没错。在普通人眼里，这些决定的确如此，但这正是你坚持下去的原因。你深知，这是你避免落得和他们一样下场的唯一途径。"
+    },
+    {
+      "id": 116,
+      "en": "There is no better place to be than under an immense amount of pressure from a challenge that you chose to take on.",
+      "zh": "没有什么比在自己选择接受的挑战所带来的巨大压力下更棒的了。"
+    },
+    {
+      "id": 117,
+      "en": "You don’t find your calling. You listen for it. Because it’s always calling you. But most people can't hear it. Too many tasks, bills, and responsibilities they never really chose to take on. The most important task in your life is to listen for it and act without hesitation.",
+      "zh": "你不是去寻找你的使命，而是去倾听它。因为它一直在召唤你。但大多数人听不到这些。他们背负着太多他们从未真正选择承担的任务、账单和责任。你生命中最重要的事情就是倾听它，并毫不犹豫地采取行动。"
+    },
+    {
+      "id": 118,
+      "en": "Be a loser. Let your parents think you are stupid for not following their path. Start a business and embrace failure after failure. Study the interests that make you feel like an outcast. Where most people conform is where greatness is born.",
+      "zh": "做个失败者吧。就让你的父母觉得你不走他们走过的路很傻吧。去创业，坦然接受一次又一次的失败。去探索那些让你觉得自己格格不入的兴趣。大多数人循规蹈矩的地方，往往是伟大诞生的地方。"
+    },
+    {
+      "id": 119,
+      "en": "The easiest way to get ahead in life is to commit to a period of skill development. 6-12 months. Pure focus for 2-4 hours a day. Learning and building. Not just binge watching tutorials, but creating quality projects that you, others, or businesses could actually benefit from.",
+      "zh": "人生中最简单的成功之道就是投入一段时间进行技能提升。6-12个月，每天专注2-4小时，学习并实践。不是盲目地观看教程，而是创造出真正能让你、他人或企业受益的高质量项目。"
+    },
+    {
+      "id": 120,
+      "en": "If you can spend 4 years getting a degree to do something you don’t care about you can spend 1 year reeducating yourself to build your own thing. A lack of perspective is why most quit after 2 weeks.",
+      "zh": "如果你能花四年时间拿到一个自己不感兴趣的学位，那么你也完全可以花一年时间重新学习，打造属于自己的事业。缺乏远见卓识是大多数人两周后就放弃的原因。"
+    },
+    {
+      "id": 121,
+      "en": "Your brain works against you until you give it a meaningful goal to wire itself around.",
+      "zh": "你的大脑会一直与你作对，直到你给它一个有意义的目标，让它围绕这个目标运转。"
+    },
+    {
+      "id": 122,
+      "en": "Ask yourself, \"What would the average person do?\" Then do the opposite.",
+      "zh": "问问自己，“普通人会怎么做？”然后反其道而行之。"
+    },
+    {
+      "id": 123,
+      "en": "This may sound obvious but if you don’t feel inspired, you need to surround yourself with inspiration. Books that inspire your thinking and articulation. Businesses that inspire your vision and strategy. It gets the cogs turning in your brain. You can feel the boost in energy.",
+      "zh": "这听起来或许显而易见，但如果你感觉缺乏灵感，就需要让自己置身于灵感之中。阅读能激发你思考和表达能力的书籍，了解能启发你愿景和战略的企业。这能让你的大脑运转起来，你会感受到能量的提升。"
+    },
+    {
+      "id": 124,
+      "en": "Don’t feel bad for being picky about who you allow into your life.",
+      "zh": "不要因为对进入你生活的人很挑剔而感到内疚。"
+    },
+    {
+      "id": 125,
+      "en": "It's only difficult because you are sitting around thinking about how difficult it is.",
+      "zh": "之所以觉得难，是因为你一直在想它有多难。"
+    },
+    {
+      "id": 126,
+      "en": "You're bored because you don't have a quest. You played the game up until getting a job, spouse, or house and didn't realize that was just the tutorial phase.",
+      "zh": "你感到无聊是因为你没有任务。你玩游戏玩到找到工作、结婚或买房，却没意识到那只是新手教程阶段。"
+    },
+    {
+      "id": 127,
+      "en": "Working in paradise is extremely overrated. You can't even see your screen from the sun glare on the beach. Wifi connection is always spotty. Can rarely find a place without distractions. I'd take a home office with nothing in it every day of the week.",
+      "zh": "在天堂工作被严重高估了。沙滩上阳光太刺眼，屏幕都看不清。无线网络信号总是断断续续。很难找到一个不受干扰的地方。我宁愿每天都待在一个空荡荡的家庭办公室里。"
+    },
+    {
+      "id": 128,
+      "en": "If you don't know what to write about, write about the difficult thing you've been trying to learn, because it will help you learn it so much faster.",
+      "zh": "如果你不知道该写些什么，那就写写你一直在努力学习的难点，因为这会帮助你更快地学会它。"
+    },
+    {
+      "id": 129,
+      "en": "Luck is a percentage that increases with the number of people who know what you do and how well you do it.",
+      "zh": "运气是一个百分比，随着了解你所做的事情以及你做得有多好的人越来越多而增加。"
+    },
+    {
+      "id": 130,
+      "en": "You're bored because you haven't developed a skill set that allows you to take on interesting challenges.",
+      "zh": "你感到无聊是因为你还没有培养出能够让你迎接有趣挑战的技能。"
+    },
+    {
+      "id": 131,
+      "en": "Grab a notebook. Write out exactly what you want in your future, don't miss a detail. Then, break it down into goals. Decades, years, months, weeks, and days. Every day, write down the 3 levers you can move to create your vision. Then, forget about the goals and execute.",
+      "zh": "拿个笔记本。把你对未来的所有期望都详细写下来，不要遗漏任何细节。然后，把它分解成一个个小目标，以十年、年、月、周和日为单位。每天写下你可以采取哪些措施来实现你的愿景的 3 个关键因素。然后，忘掉目标，执行就好。"
+    },
+    {
+      "id": 132,
+      "en": "Get excited over the small things. The bland but healthy food. The difficult but rewarding last rep. The uncomfortable but necessary silence of being alone. All of it. The highs, lows, bigs, and smalls of life are going to pass whether you enjoy them or not.",
+      "zh": "要为生活中的小事感到兴奋。平淡但健康的食物。艰难但充满成就感的最后一组动作。独处时令人不适但又必不可少的沉默。所有的一切。人生中的高潮、低谷、大事小事都会过去，无论你是否喜欢它们。"
+    },
+    {
+      "id": 133,
+      "en": "It can be as simple as 4 habits. One for mind. One for body. One for finances. One for relationships. Choose a habit for each that gets 80% of the results with 20% of the effort. Stick with them for a year and you'll be ahead of most people.",
+      "zh": "它可以很简单，比如养成 4 个习惯。一个关乎心灵，一个关乎身体，一个关乎财务，一个关乎人际关系。为每个人选择一个习惯，用 20% 的努力就能获得 80% 的结果。坚持一年，你就会领先于大多数人。"
+    },
+    {
+      "id": 134,
+      "en": "As a creator who doesn't like AI doing all of your writing, scripting, idea generation, what has been the most useful AI workflow you've come across? I see the value in businesses having all of that done for them, but for \"idea workers\" so to say, what have you found?",
+      "zh": "作为一名不喜欢让 AI 包揽写作、剧本创作和创意构思等所有工作的创作者，你遇到过的最有用的 AI 工作流程是什么？我理解企业享受这些服务带来的价值，但是对于所谓的“创意工作者”来说，你们有什么发现呢？"
+    },
+    {
+      "id": 135,
+      "en": "How to be productive as fuck: - Find something you deeply care about - Do everything in your power to do that full time - Say no to anything that pulls you away from those Most people use deep work tactics to compensate for a lack of work they can't pull themselves away from.",
+      "zh": "如何才能高效到爆：找到你真正关心的事情尽你所能全职从事这项工作拒绝任何让你远离那些……的事情。大多数人使用深度工作策略来弥补他们无法抽身的工作不足。"
+    },
+    {
+      "id": 136,
+      "en": "It's better to have conviction in a bad idea and fail than to nuance yourself into irrelevance.",
+      "zh": "与其因过于讲究而变得无关紧要，不如坚持一个糟糕的想法即使失败也好。"
+    },
+    {
+      "id": 137,
+      "en": "Spill your mind onto the internet for a year and see where it takes you.",
+      "zh": "在互联网上畅所欲言一年，看看会发生什么。"
+    },
+    {
+      "id": 138,
+      "en": "The minute I become too frugal or money conscious is the moment it starts to control me and becomes difficult to make. When I spend almost carelessly, it seems to find its way back. A poor psychological relationship with money will ruin you.",
+      "zh": "一旦我变得过于节俭或过于在意金钱，金钱就开始控制我，让我难以赚钱。而当我几乎不加节制地花钱时，钱似乎又会以某种方式回到我身边。与金钱建立糟糕的心理关系会毁了你。"
+    },
+    {
+      "id": 139,
+      "en": "If you want to have great ideas, surround yourself with people who have great ideas. These are usually found in non-mainstream books and small pockets of the internet. Once it hits mainstream it gets tainted.",
+      "zh": "如果你想获得绝妙的想法，那就多和那些拥有绝妙想法的人在一起。这些想法通常存在于非​​主流书籍和互联网的小众领域。一旦进入主流视野，它们就会被污染。"
+    },
+    {
+      "id": 140,
+      "en": "You don't need an insane sales funnel. You need to build a world. A small-scale Marvel with movies (long form), shows (short form), and action figures (products) for people to binge and explore. Posting for 2 weeks then giving up doesn't give people a chance to trust you.",
+      "zh": "你不需要一个复杂的销售漏斗。你需要构建一个世界。一个小型的漫威世界，包括电影（长篇）、剧集（短篇）和玩偶（产品），供人们尽情观看和探索。连续发帖两周就放弃，这样别人就没有机会信任你了。"
+    },
+    {
+      "id": 141,
+      "en": "You aren't passionate about the skill. You're passionate about creating things. Skills change as technology accelerates. Don't latch onto them. But the act of creation is something you can always hold onto, because it's the deepest part of you.",
+      "zh": "你对这项技能没有热情。你对创造充满热情。随着科技飞速发展，技能也在不断变化，不要固守于旧技能。但创造力却可以永远保留，因为它源于你内心深处。"
+    },
+    {
+      "id": 142,
+      "en": "Find something you're deeply excited about. Obsess over it. Rip it apart, study it, and put it back together, but in your own way. Share it where billions of people hang out. Get one person to care about it as much as you do. Then five. Then a thousand. Then you're set.",
+      "zh": "找到让你真正兴奋的事情。痴迷于它。把它拆解开来，研究它，然后用你自己的方式重新构建它。把它分享到数十亿人聚集的地方。让一个人像你一样关心它。然后是五个。然后是一千个。然后你就成功了。"
+    },
+    {
+      "id": 143,
+      "en": "The safer you try to be, the more vulnerable you become, because you don't create that safety. You seek certainty in a job, a belief system, a nice little path someone else has laid out for you. A good life stems from how much uncertainty you're willing to embrace.",
+      "zh": "你越是想让自己安全，就越容易受到伤害，因为安全感并非你主动创造的。你试图从工作、信仰体系，以及别人为你规划好的美好未来中寻求确定性。美好生活源于你愿意接受多少不确定性。"
+    },
+    {
+      "id": 144,
+      "en": "Your life isn’t good because you’ve spent years learning skills to advance your career, but you haven’t spent a day learning how to live. They are completely different things.",
+      "zh": "你的生活之所以美好，并非因为你花了多年时间学习技能以提升事业，而是因为你从未花时间学习如何生活。这两者完全是两回事。"
+    },
+    {
+      "id": 145,
+      "en": "Being productive and being creative are two entirely different states. Productivity demands narrow focus, order, deadlines, urgency, stress. Creativity demands an open mind, the right amount of chaos, and a lack of focus on outcomes. They work together for the best results.",
+      "zh": "高效工作和富有创造力是两种截然不同的状态。提高生产力需要高度集中精力、秩序井然、设定截止日期、紧迫感和压力。创造力需要开放的心态、适度的混乱以及对结果的漠视。他们齐心协力，力求取得最佳成果。"
+    },
+    {
+      "id": 146,
+      "en": "The only real safety net in today's world is a body of work that's impossible to ignore.",
+      "zh": "在当今世界，唯一真正的安全网就是一系列令人无法忽视的作品。"
+    },
+    {
+      "id": 147,
+      "en": "One of the most beneficial things to spend your time on is transcending the fear response that you're programmed to have. You aren't fighting a bear. You're sitting down to type at a computer. You're not in danger and it isn't a threat to try something new with your life.",
+      "zh": "把时间花在克服你与生俱来的恐惧反应上，是最有益的事情之一。你又不是在和熊搏斗，你只是坐在电脑前打字。你没有身处险境，尝试一些新的事物也并非威胁。"
+    },
+    {
+      "id": 148,
+      "en": "The secret you're looking for is found in the experience you gain by not looking for secrets.",
+      "zh": "你所寻找的秘密，就藏在你不去寻找秘密所获得的经验之中。"
+    },
+    {
+      "id": 149,
+      "en": "You can either build a strong mind through the hardships of doing nothing with your life or through the hardships of doing something with your life, but at least the second option makes life fun, lucrative, and interesting along the way.",
+      "zh": "你可以选择在无所事事的苦难中磨练意志，也可以选择在有所作为的苦难中磨练意志，但至少后者会让生活充满乐趣、财富和精彩。"
+    },
+    {
+      "id": 150,
+      "en": "The difference between greatness and mediocrity is the difference between doing what you want while correcting mistakes and doing what you want while not even being aware that you made a mistake because you don't have goals that the mistakes prevent you from achieving.",
+      "zh": "伟大与平庸的区别在于：前者是在做自己想做的事的同时纠正错误，而后者则是在做自己想做的事时甚至没有意识到自己犯了错误，因为你没有目标，所以错误不会阻碍你实现目标。"
+    },
+    {
+      "id": 151,
+      "en": "Everything worthwhile in life is deeply counterintuitive. The things that seem most logical to the average mind are often the exact opposite of what actually works. This is why doing the opposite of what most people do is often the quickest path to the results you want.",
+      "zh": "生活中所有值得拥有的事物都与直觉相悖。在普通人看来最合乎逻辑的事情，往往与实际有效的事情恰恰相反。这就是为什么反其道而行之往往是获得理想结果的最快途径。"
+    },
+    {
+      "id": 152,
+      "en": "If you need to force yourself to work, you're working on the wrong thing.",
+      "zh": "如果你需要强迫自己工作，那说明你做错了事。"
+    },
+    {
+      "id": 153,
+      "en": "Prioritize self-reliance. For the first time in history people have an overwhelming amount of choices, and that will ruin the people who are dependent on being told what to learn, what to do, and who do it for without caring about why they're doing it in the first place.",
+      "zh": "优先考虑自力更生。历史上第一次，人们拥有了海量的选择，这将毁掉那些依赖别人告诉他们该学什么、该做什么，以及不关心自己为什么这么做的人。"
+    },
+    {
+      "id": 154,
+      "en": "If you're good at your job, your boss will give you more work. If you answer emails fast, people email you more because you seem available. If you're effective at what you do, guard your time because people will fill it up as much as they can. Act busy but don't be busy.",
+      "zh": "如果你工作做得好，老板就会给你更多的工作。如果你回复邮件很快，人们会更频繁地给你发邮件，因为你看起来好像随时都能联系到你。如果你工作出色，就要珍惜时间，因为人们会想方设法填满你的时间。装作很忙，但不要真的忙。"
+    },
+    {
+      "id": 155,
+      "en": "The best way to use AI as a beginner is to get unstuck. Ask it to teach you what to do next for a project, reveal gaps in your thinking, etc. You learn the most when your mind is ready to apply the information to a problem. The accelerated progress is nice too.",
+      "zh": "对于初学者来说，使用人工智能的最佳方法是先解决遇到的问题。让它告诉你接下来该怎么做，揭示你思维中的不足等等。当你的思维准备好将信息应用于问题时，你才能学到最多。进展加速也令人欣喜。"
+    },
+    {
+      "id": 156,
+      "en": "Give yourself permission to let your life get worse before it gets better. Most people are trapped in limbo because they don't know what goal to pursue, but when you've experienced the negative outcome firsthand, the goal becomes clear and you can't help but work toward it.",
+      "zh": "允许自己经历一段艰难时期，然后再慢慢好转。大多数人之所以陷入迷茫，是因为他们不知道该追求什么目标；但当你亲身经历过负面结果之后，目标就会变得清晰，你会不由自主地朝着它努力。"
+    },
+    {
+      "id": 157,
+      "en": "The creator's paradox: Creativity is the result of not trying to be creative.",
+      "zh": "创造者的悖论：创造力并非刻意追求，而是自然而然产生的。"
+    },
+    {
+      "id": 158,
+      "en": "If AI sucks at a task (which it does for most) you need to summarize the exact steps (from a PDF, book, YT vid, etc) and give examples to the AI to do the task like you would. This should be obvious, but typing one sentence into AI will probably disappoint you.",
+      "zh": "如果人工智能在某项任务上表现不佳（大多数情况下都是如此），你需要总结出具体的步骤（来自 PDF、书籍、YouTube 视频等），并给人工智能提供示例，让它像你一样完成这项任务。这应该很明显，但你只要在人工智能中输入一句话，它很可能会让你失望。"
+    },
+    {
+      "id": 159,
+      "en": "One most important task in life is to experiment until you find that one thing that feels like play but is worth paying for, because most of life's stress comes from the feeling of work for minimal reward, and that drastically dampens your health, relationships, and mind.",
+      "zh": "人生最重要的任务之一就是不断尝试，直到找到一件既像玩乐又值得付出代价的事情，因为生活中大部分的压力都来自于付出却得不到多少回报的感觉，这会极大地损害你的健康、人际关系和精神状态。"
+    },
+    {
+      "id": 160,
+      "en": "Everyone has a mind that no one else has access to. You will lose if you try to be anyone but yourself.",
+      "zh": "每个人都拥有别人无法触及的内心世界。如果你试图成为别人而不是你自己，你就会失败。"
+    },
+    {
+      "id": 161,
+      "en": "AI doesn't replace creativity. It allows you to store your creative processes as a digital cognitive model (systematic prompts + curated knowledge base) that you can reuse at any time, freeing up the ability to think at higher levels of creativity.",
+      "zh": "人工智能并不会取代创造力。它允许你将你的创作过程存储为数字认知模型（系统提示+精心整理的知识库），你可以随时重复使用，从而解放你的思维能力，让你能够进行更高层次的创造性思考。"
+    },
+    {
+      "id": 162,
+      "en": "It takes about 1-2 months of confusion, feeling lost, and being on the verge of giving up for the right amount of vision to form where you have absolute clarity and launch into a new way of life.",
+      "zh": "大约需要 1-2 个月的困惑、迷茫和想要放弃的阶段，才能形成足够的远见，让你拥有绝对的清晰目标，并开启新的生活方式。"
+    },
+    {
+      "id": 163,
+      "en": "When I stop trying to \"write content\" and start trying to clarify my thoughts instead, the right people find their way to my content.",
+      "zh": "当我不再试图“创作内容”，而是开始尝试理清思路时，合适的人就会找到我的内容。"
+    },
+    {
+      "id": 164,
+      "en": "How I've been using AI: - Choose a task - Find YT expert that teaches it - Have AI summarize their video - Add examples / context - Have AI turn that into a meta prompt - Test, refine, and reuse that prompt This has led to the best results in almost everything I have AI do.",
+      "zh": "我如何使用人工智能：选择一项任务- 找到一位教授这门课程的 YouTube 专家- 让人工智能总结他们的视频- 添加示例/上下文- 让 AI 将其转化为元提示- 测试、改进并重复使用该提示这使得我在几乎所有人工智能任务中都取得了最佳结果。"
+    },
+    {
+      "id": 165,
+      "en": "Reject the busy life. Always doing, never being. Always stressed and worried, never giving your mind a chance to breathe. The most successful people I know aren't the busiest, they're the ones who protect their thinking time as if everyone is out to steal it, because they are.",
+      "zh": "拒绝忙碌的生活。总是忙忙碌碌，却从未真正存在过。总是压力重重，忧心忡忡，从未给心灵喘息的机会。我认识的最成功的人并不是最忙的，而是那些非常珍惜自己思考时间的人，就好像每个人都想偷走他们的时间一样，因为事实的确如此。"
+    },
+    {
+      "id": 166,
+      "en": "Animals and AI cannot select, create, or pursue new goals. This alone shines a light on what humans should lean into: imagination, creativity, agency.",
+      "zh": "动物和人工智能都无法选择、创造或追求新的目标。仅此一点就足以说明人类应该着重培养什么：想象力、创造力和自主性。"
+    },
+    {
+      "id": 167,
+      "en": "If you want to do great things you need time to think. Time alone. No people. You need to remove yourself from any form of external information that could interrupt the important work your subconsious is doing. Since they are always busy, most people don't understand this luxury.",
+      "zh": "如果你想成就一番伟业，你需要时间思考。独处的时间。没有其他人。你需要让自己远离任何可能干扰你潜意识重要工作的外部信息。由于潜意识总是忙碌不堪，大多数人并不理解这种奢侈。"
+    },
+    {
+      "id": 168,
+      "en": "You can't focus because you aren't alone, physically and mentally, with the work you need to do. You may think you aren't distracted, but you simply haven't identified removed the things that are sapping your mental energy.",
+      "zh": "你无法集中注意力，是因为你并非独自一人，无论在身体上还是精神上，都与需要完成的工作息息相关。你或许认为自己没有分心，但你只是没有找出并消除那些消耗你精力的因素。"
+    },
+    {
+      "id": 169,
+      "en": "Not caring what other people think is mostly about realizing that others' minds work in the same way that yours does.",
+      "zh": "不在乎别人怎么想，主要是意识到别人的思维方式和你一样。"
+    },
+    {
+      "id": 170,
+      "en": "Your brain wants to use the familiar path of least resistance. The same habits. The same places. The same people. But if you want to change your life, you need to consciously take the dirt road, over and over again, until it becomes as smooth as a highway.",
+      "zh": "你的大脑倾向于选择阻力最小的熟悉路径。同样的生活习惯。同样的地方。同样的人。但如果你想改变自己的人生，你需要有意识地一次又一次地走泥泞路，直到它变得像高速公路一样平坦。"
+    },
+    {
+      "id": 171,
+      "en": "It takes practice, but you can train your mind to flip into a good mood in an instant by realizing that most of your bad moods come from holding onto things that don't matter and can't be changed. You can choose to frame your situation in a way that leads to more happiness.",
+      "zh": "这需要练习，但你可以通过意识到大多数坏心情都源于执着于那些无关紧要且无法改变的事情，来训练自己瞬间切换到好心情。你可以选择以一种能带来更多快乐的方式来看待你的处境。"
+    },
+    {
+      "id": 172,
+      "en": "Your life becomes what you pay attention to, and if everyone had a spreadsheet of it all, they'd understand why they are where they are.",
+      "zh": "你关注什么，你的生活就会变成什么样；如果每个人都有一张记录所有事情的表格，他们就会明白自己为什么会身处现在的位置。"
+    },
+    {
+      "id": 173,
+      "en": "Moved to San Diego yesterday. What are the best spots? Best gyms? Best food? Any creator/entrepreneur hotspots?",
+      "zh": "昨天搬到了圣地亚哥。最佳去处有哪些？最好的健身房有哪些？最好的餐厅有哪些？有哪些创作者/创业者聚集的热点地区？"
+    },
+    {
+      "id": 174,
+      "en": "Your old self must die a painful death for your new self to emerge. Most people aren't willing to face that pain head-on, so it becomes their master for the rest of their lives.",
+      "zh": "旧我必须经历痛苦的​​死亡，新我才能诞生。大多数人都不愿意直面这种痛苦，于是痛苦便成了他们余生的主宰。"
+    },
+    {
+      "id": 175,
+      "en": "Obstacles aren't in your path, they are your path, and when you try to avoid them, you end up going nowhere.",
+      "zh": "障碍物不是挡在你路上的，它们就是你的路；当你试图避开它们时，最终只会一事无成。"
+    },
+    {
+      "id": 176,
+      "en": "If the average person sees work as a curse and work is a necessary part of life then there isn't anything better to do than to focus for 2-4 years on creating your own work that doesn't feel like work.",
+      "zh": "如果普通人把工作视为一种诅咒，而工作又是生活中必不可少的一部分，那么最好的办法莫过于花 2-4 年时间专注于创作自己不觉得是工作的作品。"
+    },
+    {
+      "id": 177,
+      "en": "A job is work you do to survive, but often unpleasant. A career is work you tolerate for the eventual promise of more status and money. A calling is work you discover and can't pull yourself away from. Even if it takes years, try everything until you find that one thing.",
+      "zh": "工作是为了生存而做的，但往往并不愉快。事业就是为了最终获得更高的地位和金钱而忍受的工作。使命感就是你发现自己从事的工作，然后就无法自拔。即使要花上数年时间，也要尝试各种方法，直到找到那件事为止。"
+    },
+    {
+      "id": 178,
+      "en": "Successful people don't feel the constant need to retire or take unnecessary vacations because they've filled their day with work that they don't want to escape from.",
+      "zh": "成功人士不会因为工作繁忙而感到需要退休或休假，因为他们不想逃离工作。"
+    },
+    {
+      "id": 179,
+      "en": "Self-confidence comes in 2 parts: 1) Convincing your mind to see a different perspective that makes self-doubt seem irrational. 2) Doing the uncomfortable thing over and over again until you realize it wasn't that uncomfortable in the first place.",
+      "zh": "自信由两部分组成：1）说服你的大脑从不同的角度看待问题，使自我怀疑显得不理性。2）反复做那件让你不舒服的事，直到你意识到它一开始并没有那么不舒服。"
+    },
+    {
+      "id": 180,
+      "en": "The fastest path to making better choices is to think about your ideal life before every single decision you make until it becomes a habit.",
+      "zh": "提高决策效率的最快途径是在做每一个决定之前，先思考一下你理想的生活，直到这成为一种习惯。"
+    },
+    {
+      "id": 181,
+      "en": "If you want non-self-help books that will fundamentally change how you think about the world, people, and everything else in your life, read: - Spiral Dynamics - The Evolving Self - Sex, Ecology, and Spirituality Study them for a year and you will think on a much deeper level.",
+      "zh": "如果你想读一些非自助类的书籍，它们将从根本上改变你对世界、人以及生活中一切事物的看法，请阅读：螺旋动力学不断进化的自我性、生态与灵性认真研读一年，你的思维就会变得更加深刻。"
+    },
+    {
+      "id": 182,
+      "en": "Reason to read: Most of your ideas are triggered by other people’s ideas. You have thousands of dormant ideas waiting to present themselves and reading is a great way to activate ideas you forgot about or didn’t know you had.",
+      "zh": "阅读理由：你的大部分想法都源于他人的想法。你心中有成千上万个沉睡的想法等待着被激发出来，而阅读是激活那些你忘记的或你不知道自己拥有的想法的好方法。"
+    },
+    {
+      "id": 183,
+      "en": "Subtle reminder that you're supposed to feel overwhelmed. It means you're doing something new. You're taking a new path. You're learning. Growing. You branched into the unknown. It will be frustrating. You will feel lost. It will be painful, but staying the same is even worse.",
+      "zh": "委婉地提醒你，感到不知所措是正常的。这意味着你在做一件新的事情，走上一条新的道路，学习，成长，踏入了未知的领域。这会令人沮丧，你会感到迷茫，会很痛苦，但原地踏步更糟糕。"
+    },
+    {
+      "id": 184,
+      "en": "Good things happen to people who understand that through deliberate and persistent practice, the bursts of progress will inevitably come, even if it feels like you are stuck spinning your wheels for months or years at a time.",
+      "zh": "那些明白通过刻意和坚持不懈的练习，即使感觉自己几个月甚至几年都在原地打转，进步的浪潮也必然会到来的人，就会有好事发生。"
+    },
+    {
+      "id": 185,
+      "en": "If you don't shamelessly promote your work, every day for the next 10-20 years, you will get stuck doing someone else's work until you realize that nobody is going to pay you if they have no idea who you are.",
+      "zh": "如果你不厚颜无耻地宣传自己的作品，那么在接下来的 10 到 20 年里，你每天都会被迫做别人的工作，直到你意识到，如果别人不知道你是谁，就不会有人付钱给你。"
+    },
+    {
+      "id": 186,
+      "en": "How people think learning works: You make linear progress, every time you study and practice you get better. How learning actually works: Long and frustrating plateaus followed by bursts of progress where everything clicks. Learn to enjoy the periods where you feel stuck.",
+      "zh": "人们如何看待学习：你的进步是线性的，每次学习和练习都会让你进步。学习的实际运作方式：漫长而令人沮丧的停滞期之后，会迎来突飞猛进的进步，一切都迎刃而解。学会享受那些感觉停滞不前的时期。"
+    },
+    {
+      "id": 187,
+      "en": "One of the most difficult yet life changing skills to develop is knowing when to drop everything and execute on idea as fast as possible. Quick and accurate decision making. No hesitation. No ego. Pure flow state to make it happen.",
+      "zh": "培养一项既难又足以改变人生的技能，就是懂得何时放下一切，以最快的速度执行想法。快速而精准的决策，毫不犹豫，抛开自我，进入纯粹的心流状态，才能成就一切。"
+    },
+    {
+      "id": 188,
+      "en": "The best skill to learn is any skill paired with a personality that values agency, adaptability, learning, persistence, iteration, and creating something that not only you enjoy, but something others can't live without.",
+      "zh": "最好的技能是任何与重视自主性、适应性、学习能力、坚持不懈、不断迭代以及创造自己喜欢且他人离不开的事物的个性相结合的技能。"
+    },
+    {
+      "id": 189,
+      "en": "Every single post, book, video, or conversation you consume changes your mental DNA which goes on to influence the decisions you make and how good or bad your life is. You become what you consume, but most don't care because it takes 2-3 years for the damage to really show.",
+      "zh": "你阅读的每一篇文章、每一本书、每一个视频、每一次对话都会改变你的思维模式，进而影响你的决定以及你的人生好坏。人如其食，但大多数人并不在意，因为这种危害需要 2-3 年才会真正显现出来。"
+    },
+    {
+      "id": 190,
+      "en": "A clear vision + daily learning + daily building + persistence & iteration = how you achieve anything you want.",
+      "zh": "清晰的愿景 + 每日学习 + 每日实践 + 坚持不懈和迭代 = 你如何实现任何目标。"
+    },
+    {
+      "id": 191,
+      "en": "If you hesitate on an idea it dies and will almost never be found again.",
+      "zh": "如果你对某个想法犹豫不决，它就会消亡，而且几乎永远不会再被找到。"
+    },
+    {
+      "id": 192,
+      "en": "People get stuck because they let limiting beliefs take control of their mind as they age that convince them they can’t do difficult things, even when they’ve learned something as complex as speaking English, which is as difficult as playing something like Beethoven on the piano.",
+      "zh": "随着年龄增长，人们往往会陷入思维定势，因为他们让一些限制性信念控制了自己的思想，这些信念让他们相信自己无法完成困难的事情，即使他们已经学会了像说英语这样复杂的事情，而说英语的难度堪比在钢琴上演奏贝多芬的作品。"
+    },
+    {
+      "id": 193,
+      "en": "The best way to do this, by far, is writing. • Write posts on social media • Start a free newsletter • Write a small book for others to read The more feedback you have, the better. Building an audience to support the project you're building doesn't hurt either.",
+      "zh": "目前为止，最好的方法莫过于写作。• 在社交媒体上发布帖子• 开始免费订阅• 写一本小书供他人阅读反馈越多越好。建立一个支持你正在开发项目的受众群体也很有帮助。"
+    },
+    {
+      "id": 194,
+      "en": "Think bigger. Because that alone will open your mind to possibilities you didn't even know existed. Your choices shift in a way that start getting results. Big or small. You can limit yourself and say you don't want to achieve big things, but that only guarantees that you wont.",
+      "zh": "要有更大的格局。因为仅仅这一点就能让你打开思路，看到你以前从未想过的可能性。你的选择会发生转变，并开始产生结果，无论大小。你可以限制自己，说你不想成就大事，但这只会让你注定一事无成。"
+    },
+    {
+      "id": 195,
+      "en": "I've started writing down every single thing that could go wrong when I start something new and it's insane how much clarity it brings.",
+      "zh": "我开始把开始做新事情时可能出现的所有问题都写下来，这带来的清晰度简直令人难以置信。"
+    },
+    {
+      "id": 196,
+      "en": "Your life changes when you realize that failure isn't something to avoid, but the only way to learn in a way that is tailored to you.",
+      "zh": "当你意识到失败不是应该避免的事情，而是以适合自己的方式学习的唯一途径时，你的生活就会发生改变。"
+    },
+    {
+      "id": 197,
+      "en": "The reason people don't achieve big goals is because they don't realize that the only source of truth is making mistakes. They soak up advice and theory, expecting it to be an exact match to their mind, experience, and situation just to fail once and give up completely.",
+      "zh": "人们无法实现远大目标的原因在于，他们没有意识到，真理的唯一来源就是犯错。他们盲目吸收各种建议和理论，期望它们能够完全契合自己的想法、经验和实际情况，结果却往往一次失败就彻底放弃。"
+    },
+    {
+      "id": 198,
+      "en": "Normalize ignoring trends and hype that don't align with your goals. Those are the literal definition of a distraction. And if you don't have goals (that you chose to pursue, not ones assigned to you) you are by definition always distracted.",
+      "zh": "要养成忽略那些与你的目标不符的潮流和炒作的习惯。这些正是干扰的本质。如果你没有自己选择追求的目标（而不是别人强加给你的目标），那么从定义上讲，你永远都会处于分心状态。"
+    },
+    {
+      "id": 199,
+      "en": "“Everyone is going to make their own apps with AI” My friend you don’t even make your own food. You’ll still pay a few bucks to use an app.",
+      "zh": "“每个人都会用人工智能开发自己的应用程序”我的朋友，你连饭都不自己做，却还要花几块钱用外卖 app。"
+    },
+    {
+      "id": 200,
+      "en": "If you need discipline to work, you're either neglecting your health, working on things you don't care about, or are so numbed to the work that you can't see the good sides of it anymore. Mind, body, spirit. Fix them.",
+      "zh": "如果你需要自律才能工作，要么是你忽视了自己的健康，要么是你做着自己不感兴趣的事情，要么是你对工作麻木不仁，看不到它的好处了。身心都需要调整。"
+    },
+    {
+      "id": 201,
+      "en": "Learn how to learn. Learn how to think. Learn how to live. Learn how to adapt. Learn how to perceive. Learn how to persist. Learn how to iterate. Learn how to fail. Learn how to let go. Learn how to be. Learn how to disagree. Learn how to do (without permission).",
+      "zh": "学会如何学习。学会思考。学会如何生活。学会适应。学会感知。学会坚持不懈。学习如何迭代。学会如何面对失败。学会放手。学会如何做人。学会如何表达不同意见。学习如何（未经许可）进行操作。"
+    },
+    {
+      "id": 202,
+      "en": "Everyone has a TV, radio, library, and newspaper in their pockets. You, as an individual, now have an outlet to promote your message and work. You can just hit \"send.\" There is no gatekeeper. Posts, podcasts, newsletters, videos. We're in the age of one-person media companies.",
+      "zh": "每个人口袋里都装着电视、收音机、图书馆和报纸。现在，作为个人，您有了一个宣传自身信息和作品的渠道。您只需点击“发送”即可。没有任何把关人。文章、播客、新闻简报、视频。我们正处于一人媒体公司时代。"
+    },
+    {
+      "id": 203,
+      "en": "Prioritization should feel bad because you’re sacrificing something you could do for something you must do.",
+      "zh": "优先排序应该让人感到不舒服，因为你为了做一件必须做的事而牺牲了一件你可以做的事。"
+    },
+    {
+      "id": 204,
+      "en": "If you want to improve the value of your current skills, stack the skill that helps you articulate the value of those skills (so people actually care enough to pay you). Learn to write.",
+      "zh": "如果你想提升现有技能的价值，那就提升那些能帮助你清晰阐述这些技能价值的技能（这样人们才会真正重视你，愿意为你付费）。学习写作。"
+    },
+    {
+      "id": 205,
+      "en": "If you don't know what to learn, start writing. Not because writing is a great skill to learn, but because writing teaches you how to think, how to learn, and how to inspire people to care about what you do—and those are the only skills that will save your future.",
+      "zh": "如果你不知道该学什么，那就开始写作吧。不是因为写作是一项值得学习的技能，而是因为写作能教会你如何思考、如何学习，以及如何激励人们关心你所做的事情——而这些才是拯救你未来的唯一技能。"
+    },
+    {
+      "id": 206,
+      "en": "If you don't know what to write next, use a: - Pain point - Example - Personal story - Statistic - Metaphor - Quote - What, how, why Writing is legos with ideas. Piece them together into an email, article, video script, chapter... or write a tweet or reel with each.",
+      "zh": "如果你不知道接下来该写什么，请使用：痛点- 例子- 个人故事- 统计- 隐喻- 引用是什么、如何做、为什么写作就像用想法搭建乐高积木。将它们组合成电子邮件、文章、视频脚本、章节……或者用每条推文或短视频来创作。"
+    },
+    {
+      "id": 207,
+      "en": "Making real-world mistakes is the only way to learn. Once you realize this, whenever you want to learn something new, you just start doing it. You don't get wrapped up in books and tutorials. You love the feeling of that first failure because it pinpoints exactly where you suck.",
+      "zh": "只有在现实世界中犯错，才是学习的唯一途径。一旦你意识到这一点，每当你想要学习新东西时，就直接去做。你不会再沉迷于书本和教程。你会喜欢第一次失败的感觉，因为它能精准地指出你的不足之处。"
+    },
+    {
+      "id": 208,
+      "en": "If you aren't building something that leads to the life you want, even if it's \"only\" 30-60 minutes every morning, you will by default stay in the same life you're in, building things that allow others to live the life they want.",
+      "zh": "如果你没有创造能让你过上自己想要的生活的东西，即使每天早上“仅仅”花 30-60 分钟，你也会默认地继续过着现在的生活，创造一些能让别人过上他们想要的生活的东西。"
+    },
+    {
+      "id": 209,
+      "en": "Just realized, most of those reading this probably have no idea what Cursor is as I don't have an audience of programmers. Good sign.",
+      "zh": "我突然意识到，读到这篇文章的大多数人可能都不知道光标是什么，因为我的读者群里没有程序员。好兆头。"
+    },
+    {
+      "id": 210,
+      "en": "The easiest shift to a fulfilling life is to start building something of your own. Nobody likes building things they're assigned. What to learn in school. What projects to build for clients. What tasks to do at work. Build something on the side. It may turn into something great.",
+      "zh": "通往充实人生的最简单方法就是开始创造属于自己的东西。没有人喜欢做别人分配给他们的事情。比如在学校里学什么，为客户做什么项目，在工作中完成什么任务。业余时间做点什么，说不定会发展成很棒的事业。"
+    },
+    {
+      "id": 211,
+      "en": "If you're bored, create something. Anything. Software. Designs. Photos. Videos. Writing. A business. A body. A relationship. A new way of thinking. How can you not feel electric to wake up and have the ability to do whatever you want.",
+      "zh": "如果你感到无聊，那就创作点什么吧。任何事物。软件。设计。照片。视频。写作。一项事业。一个身体。一段关系。一种新的思维方式。醒来就能随心所欲，怎能不感到兴奋不已？"
+    },
+    {
+      "id": 212,
+      "en": "When things get static, you need to change something. Anything. You need chaos. You need novelty. You need the experiences and ideas that fuel forward progress. Build something new. Test test test. Rip apart your daily routine. Do anything but the same thing.",
+      "zh": "当一切停滞不前时，你需要做出改变。任何改变都行。你需要混乱。你需要新鲜感。你需要那些能推动进步的经验和想法。创造新的事物。反复测试。彻底打破你的日常惯例。做任何事，就是不要再做同样的事情。"
+    },
+    {
+      "id": 213,
+      "en": "The greatest trap is the guarantee. Degrees don't guarantee jobs. A 401K doesn't guarantee retirement. The only real guarantee is that there is no guarantee, and you're on your own to figure it out.",
+      "zh": "最大的陷阱就是保证。学历并不能保证找到工作。401K 退休金计划也不能保证退休后的生活。唯一可以确定的是，没有任何保证，一切都得靠你自己去摸索。"
+    },
+    {
+      "id": 214,
+      "en": "I've been testing prompts for writing posts, newsletters, and threads for the past few months so that kortex AI is good. (Not to replace writing, but to improve ideas) The outputs are good all around, but Claude scares me with how much better it is than other models.",
+      "zh": "过去几个月我一直在测试用于撰写帖子、新闻简报和主题帖的提示，所以 Kortex AI 的表现不错。（并非为了取代写作，而是为了改进思路）整体输出效果都不错，但克劳德的表现比其他模型好太多了，这让我感到害怕。"
+    },
+    {
+      "id": 215,
+      "en": "People are realizing the safe and secure path is now the least safe and secure (always has been). Become a deep generalist and do many things. Those who can handle the most uncertainty win.",
+      "zh": "人们逐渐意识到，曾经安全稳妥的道路如今反而是最不安全可靠的（其实一直如此）。要成为一名博学多才的通才，涉猎广泛。能够应对最大不确定性的人才能最终胜出。"
+    },
+    {
+      "id": 216,
+      "en": "I make the most progress when I put myself into situations where I'm forced to sink or swim. Moving into a place I can't afford so I have to make the business work. Launching a product when it's not ready so I have to follow through. Tactical stress works.",
+      "zh": "当我把自己置于必须奋力拼搏的境地时，我才能取得最大的进步。搬进了我负担不起的房子，所以我必须努力让生意做起来。产品还没准备好就上市了，所以我得继续跟进。战术压力有效。"
+    },
+    {
+      "id": 217,
+      "en": "You need to experiment endlessly until you get a little hint of momentum, then do everything in your power to make it last as long as possible by not getting distracted.",
+      "zh": "你需要不断尝试，直到找到一点进展的迹象，然后竭尽全力保持这种势头，不要分心。"
+    },
+    {
+      "id": 218,
+      "en": "The right idea can solve any problem. But stress and anxiety puts your mind in a box making it difficult to conceive the right idea. So most of the time, the answer isn't more work, but more rest.",
+      "zh": "正确的想法可以解决任何问题。但压力和焦虑会使你的思维变得僵化，难以产生正确的想法。所以大多数时候，答案不是增加工作量，而是增加休息时间。"
+    },
+    {
+      "id": 219,
+      "en": "There is something you can do for 30-60 minutes a day that will move the needle toward the life you want (and get more results than those who work 12-16 hours a day), but you have to find what that something is through obsessive experimentation.",
+      "zh": "每天花 30-60 分钟做一些事情，就能让你离理想的生活更近一步（而且比那些每天工作 12-16 小时的人取得更大的成果），但你必须通过不断尝试才能找到这件事。"
+    },
+    {
+      "id": 220,
+      "en": "If you want to learn more about yourself, pay more attention to your mind. How it reacts on autopilot. How it says things you probably didn't mean to say. How it's default state is distraction and pleasure unless trained to focus. Awareness. Practice awareness.",
+      "zh": "如果你想更了解自己，就多关注你的内心世界。它在自动驾驶模式下会如何反应？它会说出你可能本不想说的话？除非经过训练才能集中注意力，否则它的默认状态是分散注意力和带来愉悦感。觉察。练习觉察。"
+    },
+    {
+      "id": 221,
+      "en": "I am very proud of this video. Please watch. The internet is the greatest gift and we can save it.",
+      "zh": "我对这个视频非常满意。请观看。互联网是上天赐予我们最伟大的礼物，我们可以拯救它。"
+    },
+    {
+      "id": 222,
+      "en": "If you don't like your situation, you shouldn't be worried about how long it will take to change it. You have nothing better to do than to work on something meaningful. Who cares if it takes 12 months or 12 years when you would have wasted that time anyway.",
+      "zh": "如果你不喜欢自己的处境，就不应该担心改变现状需要多长​​时间。既然没有比做些有意义的事情更好的选择，那就去做吧。就算要花12个月或12年，你又有什么关系呢？反正你最终也会浪费掉这些时间。"
+    },
+    {
+      "id": 223,
+      "en": "There is no better feeling than knocking out a lever moving task before most people wake up.",
+      "zh": "在大多数人醒来之前完成一项需要移动杠杆的任务，这种感觉真是太棒了。"
+    },
+    {
+      "id": 224,
+      "en": "Focus is like a battery. If you rest for short intervals, you can work in intense bursts. If you rest for a day or two, you can focus longer and harder. If you rest for too long, you overcharge. Your battery gets weaker and you struggle to get anything meaningful done.",
+      "zh": "专注力就像电池。如果休息时间短，就能高效工作。如果休息一两天，就能更长时间、更专注。但如果休息时间过长，就会过度充电，导致电池电量下降，难以完成任何有意义的工作。"
+    },
+    {
+      "id": 225,
+      "en": "30 minutes of reading. 30 minutes of writing. Read to discover ideas. Write to share ideas. Those two habits alone can change your mind, your career, and the quality of your life.",
+      "zh": "阅读30分钟。写作30分钟。阅读以发现想法。写信分享想法。仅仅这两个习惯就能改变你的想法、你的事业和你的生活质量。"
+    },
+    {
+      "id": 226,
+      "en": "If you don't know what to do, build something. Anything. That's what happy humans do. Unlike animals who only survive in one niche, we gather knowledge and build tools to thrive in any. Solve a problem. Create something. Share it with someone. You'll discover purpose.",
+      "zh": "如果你不知道该做什么，那就创造点什么。任何事物。这就是快乐的人会做的事。与只能在单一生态位生存的动物不同，我们人类会积累知识并制造工具，以便在任何生态位中都能茁壮成长。解决问题。创造一些东西。与他人分享。你会发现人生的意义。"
+    },
+    {
+      "id": 227,
+      "en": "Nobody knows what the future will be, but we know two things for certain: 1. Problems are infinite 2. Problems are soluble Problems are the source of happiness because happiness is the intersection of progress being made and a contribution to something greater than yourself.",
+      "zh": "没有人知道未来会怎样，但我们确信两件事：1. 问题无穷无尽。2. 问题是可以解决的问题是幸福的源泉，因为幸福是进步与为比自身更伟大的事物做出贡献的交集。"
+    },
+    {
+      "id": 228,
+      "en": "Signs you're on the right track: Time moves differently Work energizes you Money becomes secondary Learning doesn't take effort Discipline is the default You think in decades, not days Waking up is a blessing You feel like you don't belong, but you wouldn't change a thing.",
+      "zh": "表明你走在正确道路上的迹象：时间流逝的方式不同工作让你充满活力金钱变得次要学习并不需要付出努力。纪律是默认的。你以十年为单位思考，而不是以天为单位。醒来是一种恩赐你觉得自己格格不入，但你不会改变任何事情。"
+    },
+    {
+      "id": 229,
+      "en": "Stop wondering what to do with your life. Start trying everything until you find the one thing that makes you forget to eat. The thing that makes you lose track of time. The thing that keeps you up at night because the ideas won't stop coming. Give everything for that one thing.",
+      "zh": "别再迷茫人生方向了。开始尝试一切，直到找到那件让你忘记吃饭、忘记时间、夜不能寐、灵感源源不断的事情。为之倾尽所有。"
+    },
+    {
+      "id": 230,
+      "en": "Ideas are the most valuable resource because a decent idea gets decent results and a genius idea gets genius results. One person can work 16 hours while the other works 30 minutes, and if the latter has a better idea, they will get better results. Ideas are leverage.",
+      "zh": "创意是最宝贵的资源，因为一个不错的想法只能带来不错的结果，而一个天才的想法则能带来天才般的结果。一个人可能工作16个小时，而另一个人只工作30分钟，但如果后者有一个更好的想法，他就能取得更好的结果。创意就是杠杆。"
+    },
+    {
+      "id": 231,
+      "en": "The first step to being creative is not trying to be creative.",
+      "zh": "创造力的第一步就是不要刻意去追求创造力。"
+    },
+    {
+      "id": 232,
+      "en": "If you're a beginner, nobody knows who you are. You have to prove your worth before people start caring enough to pay you. Make noise. Be annoying. Show your work in public. Do everything you can to get in front of the right people. All you need is one bite to change everything.",
+      "zh": "如果你是新手，没人认识你。你必须先证明自己的价值，别人才会开始重视你，愿意付钱给你。要敢于发声，甚至有点招人烦。公开展示你的作品。想尽一切办法去接触那些真正懂行的人。你只需要一次机会，就能改变一切。"
+    },
+    {
+      "id": 233,
+      "en": "How to have a brilliant idea: Flood your mind with as much as it can tolerate until you feel like you're going insane, then fuck off. Let go of it all and watch the perfect idea surface right when you need it.",
+      "zh": "如何产生绝妙的点子：让你的大脑尽可能地吸收信息，直到你感觉自己快要疯掉，然后就彻底放松。放下一切，你会发现，当你最需要的时候，完美的想法就会自然而然地浮现出来。"
+    },
+    {
+      "id": 234,
+      "en": "The best way to reduce the anxiety of a big task is to start with the smallest possible action. If you can stick with it for 5 minutes, most of your worries vanish.",
+      "zh": "减轻面对大任务焦虑的最佳方法是从最小的行动开始。如果你能坚持5分钟，大部分的担忧就会消失。"
+    },
+    {
+      "id": 235,
+      "en": "A pattern found in famous creatives: They balance intense intellectual work with deep rest. They embody the work hard play hard mentality. When its time to work, they work. When it's time to rest, they do not think about work, and surprisingly, that's when their best ideas come.",
+      "zh": "在知名创意人士身上发现的一种模式：他们能平衡高强度脑力劳动和深度休息，真正践行“努力工作，尽情玩乐”的生活理念。工作时，他们全力以赴；休息时，他们完全不去想工作，而令人惊讶的是，他们最好的创意往往正是在休息时迸发的。"
+    },
+    {
+      "id": 236,
+      "en": "If you wouldn’t switch places with them, take their opinion lightly.",
+      "zh": "如果你自己都不愿意和他们交换位置，那就不要太在意他们的意见。"
+    },
+    {
+      "id": 237,
+      "en": "Ideas are so cool. You just sit there minding your own business and boom you have a completely new direction to take your life.",
+      "zh": "灵感真是太棒了。你本来只是坐在那里做自己的事，突然间，你的人生就有了全新的方向。"
+    },
+    {
+      "id": 238,
+      "en": "Learning comes from struggle, not memorization. Start the project. No, don't watch 20 tutorials beforehand. Let it expose the gaps in your knowledge. Try to figure it out. Search for the answer when your mind is most likely to remember it. Publish the project. Repeat for life.",
+      "zh": "学习源于实践，而非死记硬背。开始项目吧。别事先看20个教程。让它暴露你知识上的不足。试着自己解决问题。在你最容易记住答案的时候去寻找答案。发布项目。终身重复此操作。"
+    },
+    {
+      "id": 239,
+      "en": "Being miserable is a choice. You choose to hold a perspective that is incomplete. You choose to narrow in on the problem. You choose to ignore the solution. You give up control of your mind to externalities. There is a way you can view the situation that gives you control.",
+      "zh": "痛苦是一种选择。你选择持有不完整的观点。你选择只关注问题本身。你选择忽略解决方案。你放弃了对自身思想的控制，任由外界因素摆布。你可以换个角度看待这个问题，从而掌控局面。"
+    },
+    {
+      "id": 240,
+      "en": "Filter every thought, emotion, decision, habit, problem, or goal through your vision and drop them without question if they don't align.",
+      "zh": "将你的每一个想法、情绪、决定、习惯、问题或目标都与你的愿景进行比对，如果它们与你的愿景不符，就毫不犹豫地放弃它们。"
+    },
+    {
+      "id": 241,
+      "en": "Anti-vision is the future you refuse to accept. The dumb mind. The robotic work. The soft body. The numb relationships. Let a terrible image build up in your mind. Remind yourself of it every day. Then, channel everything you have into the complete opposite.",
+      "zh": "反愿景是你拒绝接受的未来。愚钝的头脑，机械的工作，软弱的躯体，麻木的人际关系。让这可怕的画面在你的脑海中不断累积，每天都提醒自己。然后，将你所有的精力都投入到完全相反的事情上。"
+    },
+    {
+      "id": 242,
+      "en": "You don't magically become focused. You practice it. You notice you're distracted and snap out of it immediately, over and over again until it's second nature. Most people have not trained this muscle, and they are not anywhere close to as focused as they think they are.",
+      "zh": "专注力并非凭空而来，而是需要练习。你要不断觉察自己的分心，并立即回过神来，如此反复，直到成为一种本能。大多数人没有锻炼过这种能力，所以他们的专注力远不如自己想象的那么强。"
+    },
+    {
+      "id": 243,
+      "en": "If you want to take control of your life: - Wake up an hour earlier - 30 minutes moving your body - 30 minutes building a skill or business - Practice mindfulness at each second of the day Swap an hour at night (when motivation is zero) for lever-moving tasks in the morning.",
+      "zh": "如果你想掌控自己的人生：早起一小时- 30分钟运动- 30分钟打造一项技能或业务- 每天每时每刻都要练习正念把晚上（动力全无的时候）的一个小时换成早上能推动变革的任务。"
+    },
+    {
+      "id": 244,
+      "en": "The worst place you can be is not loving your life, but at the same time, not hating it enough to do something great.",
+      "zh": "最糟糕的状态莫过于不热爱生活，但同时又不够憎恨生活到去做一些伟大的事情。"
+    },
+    {
+      "id": 245,
+      "en": "The 2 hours you spend scrolling each day (or 730 hours each year) could have produced a book, a business, or a body you don't currently have.",
+      "zh": "你每天花在浏览网页上的 2 小时（或每年 730 小时）本可以用来写一本书、创办一家公司，或者拥有你现在还没有的身材。"
+    },
+    {
+      "id": 246,
+      "en": "Most people think their dream is to become a YouTuber when that's just their soul begging them to create something, anything, and share it with the world because happiness stems from the intersection of a challenge and connection to something greater than yourself.",
+      "zh": "大多数人认为自己的梦想是成为一名 YouTuber，但实际上这只是他们内心深处渴望创造一些东西，任何东西，并与世界分享，因为幸福源于挑战与超越自身的事物之间的联系。"
+    },
+    {
+      "id": 247,
+      "en": "It will never be perfect. Launch it. Post it. Put it out into the world when it’s 90% of the way there and let people think what they want to think. If you're doing anything worthwhile, you must publish your work consistently, and if you can't even do that once... good luck.",
+      "zh": "它永远不会完美。发布它。把它发布出去。当它完成90%的时候，就把它推向世界，让人们自由地思考。如果你在做任何有价值的事情，你就必须持续发表你的作品；如果你连一次都做不到……祝你好运。"
+    },
+    {
+      "id": 248,
+      "en": "Early morning or late night. Pick one. Those are the only times when the world doesn't demand your energy. Those are the times when you're going to do your best work. Those are when you move the needle toward the life you want.",
+      "zh": "清晨或深夜。选一个。只有在那些时候，世界才不需要你付出精力。那些时候，你才能发挥出最佳水平。那些时候，你就能朝着自己想要的生活迈进。"
+    },
+    {
+      "id": 249,
+      "en": "Those who control their inner experience (how they interpret and order the chaos in their heads) control their quality of life.",
+      "zh": "那些能够掌控自己内心体验（如何解读和整理脑海中的混乱）的人，就能掌控自己的生活质量。"
+    },
+    {
+      "id": 250,
+      "en": "What I mean is if you aren't making progress, you need to experiment... not quit.",
+      "zh": "我的意思是，如果你没有取得进展，你需要尝试新的方法……而不是放弃。"
+    },
+    {
+      "id": 251,
+      "en": "3-6 months of beginner hell (making close to zero progress and questioning whether it's worth it) is a natures way of filtering out people who weren't serious in the first place.",
+      "zh": "3-6 个月的初学者地狱（几乎没有任何进步，并且开始怀疑这一切是否值得）是大自然筛选掉那些一开始就不认真的人的一种方式。"
+    },
+    {
+      "id": 252,
+      "en": "You aren't where you want to be because you haven't put yourself in the situations that would force you to get there.",
+      "zh": "你之所以没有达到你想要的高度，是因为你没有让自己置身于那些会迫使你达到目标的境地。"
+    },
+    {
+      "id": 253,
+      "en": "Block out 1 hour a day. Work on 1 meaningful project. Aim for 1 vision for your future. Take it 1 day at a time, for 1 year. 1 hour of deep work is better than 0 hours, and you can drastically change your life in 365 hours.",
+      "zh": "每天抽出1小时。参与一个有意义的项目。为你的未来设定一个愿景。一天一天地来，坚持一年。1 小时的深度工作胜过 0 小时，你可以在 365 小时内彻底改变你的人生。"
+    },
+    {
+      "id": 254,
+      "en": "You lack confidence because you only expose yourself to the respectable sides of other people. You don't see their humanity. You don't see their struggles and shortcomings. You become confident when you can see people outside of the fake mental image you've created of them.",
+      "zh": "你缺乏自信是因为你只看到别人光鲜亮丽的一面，看不到他们的人性，看不到他们的挣扎和缺点。当你能够透过自己臆想出来的虚假形象去看清别人时，你就会变得自信。"
+    },
+    {
+      "id": 255,
+      "en": "AI only ruins creativity for those who don't know what creativity is. If AI can be as creative as you, you weren't very creative in the first place.",
+      "zh": "人工智能只会扼杀那些不懂创造力的人的创造力。如果人工智能能和你一样有创造力，那说明你一开始就没什么创造力。"
+    },
+    {
+      "id": 256,
+      "en": "I absolutely despise bullet point summary culture. \"Can you condense this into 5 key points so I can get my dopamine hit and move on to the next?\" No. I want the fluff. I want the context. I want the random and chaotic thought process that contains lessons that can't be taught.",
+      "zh": "我极其厌恶要点式总结文化。“你能把这些内容浓缩成5个要点吗？这样我就能获得快感，然后继续下一个问题了。”不，我想要的是那些无关紧要的细节。我想要的是背景信息。我想要的是那种随机而混乱的思考过程，其中包含着无法被教授的教训。"
+    },
+    {
+      "id": 257,
+      "en": "Once you understand this discipline becomes a lot easier: If you don't want to do something, but that something leads to what you want to do, then you want to do it.",
+      "zh": "一旦你理解了这一点，学习就变得容易多了：如果你不想做某件事，但这件事能让你最终做成你想做的事，那么你就会想做这件事。"
+    },
+    {
+      "id": 258,
+      "en": "It starts as curiosity, turns into interest, slowly becomes purpose, is sustained with profit, and evolves into mastery.",
+      "zh": "它始于好奇，转变为兴趣，逐渐演变为目标，以盈利为动力，最终发展成为精通。"
+    },
+    {
+      "id": 259,
+      "en": "Pay attention to where you stop short. The point where it gets too uncomfortable and you fall back into your normal life. The point where all the negative thoughts flood in and you can't handle them. The point where all the magic happens if you learn to enjoy pushing through.",
+      "zh": "注意你何时戛然而止。当这种状态变得太不舒服，你就会重新回到正常的生活。当所有负面想法涌上心头，而你又无法应对时，就是这种感觉。如果你学会享受坚持不懈的过程，所有奇迹就会发生。"
+    },
+    {
+      "id": 260,
+      "en": "If you aren't where you want to be, the most important thing in your life is one hour of needle-moving effort (when your energy is highest) on a project that wasn't assigned to you by parents, teachers, or employers.",
+      "zh": "如果你还没有达到你想要的目标，那么你生命中最重要的事情就是在你精力最充沛的时候，花一个小时全力以赴地完成一个并非父母、老师或雇主分配给你的项目。"
+    },
+    {
+      "id": 261,
+      "en": "Schedule interruptions in your day to help you remember that your daily mindless string of tasks aren't life. Think about your death. Go on a walk and stare at the sky. Close your eyes and listen to a beautiful song. Snap yourself out of mechanical living.",
+      "zh": "在日常生活中安排一些干扰，帮助你记住，你每天机械重复的任务并非生活的全部。想想死亡。出去散散步，看看天空。闭上眼睛，听一首动听的歌。让自己从机械的生活中抽离出来。"
+    },
+    {
+      "id": 262,
+      "en": "The solution to most of your problems is perspective.",
+      "zh": "大多数问题的解决之道在于换个角度看问题。"
+    },
+    {
+      "id": 263,
+      "en": "I know that everyone wants to build a note-taking/writing/productivity app. I know that we're stupid for doing it. I know we're going to waste a lot of time and money. I know that we could make 100x more, faster, doing something else. Don't care. Still doing it. Team is hungry.",
+      "zh": "我知道每个人都想开发一款笔记/写作/效率类应用。我知道我们这样做很愚蠢。我知道我们会浪费大量的时间和金钱。我知道如果我们做其他事情，可以更快地赚到百倍的利润。不在乎。照样做。团队渴望胜利。"
+    },
+    {
+      "id": 264,
+      "en": "The best way to learn is to commit to a real world project that forces you to learn what can't be taught in schools: skills that get non-linear results, how to navigate failure, and how to think outside the box.",
+      "zh": "学习的最佳方法是投身于现实世界的项目，迫使你学习学校里学不到的东西：获得非线性结果的技能、如何应对失败以及如何跳出思维定式。"
+    },
+    {
+      "id": 265,
+      "en": "You aren't lost. You're too used to what you know. New becomes normal very quick. When you feel lost, the solution is to become more lost. Throw yourself out of your current way of life and I promise you'll find something to grab onto.",
+      "zh": "你并没有迷路，只是太习惯于熟悉的事物了。新的事物很快就会变成常态。当你感到迷茫时，解决办法就是让自己更加迷茫。跳出你现有的生活方式，我保证你会找到可以依靠的东西。"
+    },
+    {
+      "id": 266,
+      "en": "They won't believe in you. The business. The crazy idea. The aspirations so large that most people's minds don't have any other option but to call you delusional. And you are, but only if you don't make it happen.",
+      "zh": "他们不会相信你。这家公司。这个疯狂的想法。这些雄心壮志如此之大，以至于大多数人除了认为你异想天开之外，别无选择。没错，但前提是你不让它发生。"
+    },
+    {
+      "id": 267,
+      "en": "The single thing that keeps most people stuck is that they do what they want but never self-reflect and realize they don't actually want that.",
+      "zh": "大多数人之所以停滞不前，是因为他们做了自己想做的事，却从不进行自我反思，也从未意识到自己实际上并不想要那样的生活。"
+    },
+    {
+      "id": 268,
+      "en": "Don't look for goals. Look for interesting problems and the right goal will emerge.",
+      "zh": "不要刻意寻找目标，而要寻找有趣的问题，合适的目标自然会浮现。"
+    },
+    {
+      "id": 269,
+      "en": "Your goals determine what opportunities you can see, but most people run on a set of unconscious goals installed by their parents and peers, so they never notice the ideas in everyday situations, conversations, books, and content that could change their life.",
+      "zh": "你的目标决定了你能看到哪些机会，但大多数人都是按照父母和同龄人灌输的一套无意识目标行事，所以他们从未注意到日常生活、对话、书籍和内容中那些可能改变他们生活的想法。"
+    },
+    {
+      "id": 270,
+      "en": "If you want to see a quick jump in quality of life start going on a 15 minute walk first thing in the morning, right after you wake up, no matter what the weather is.",
+      "zh": "如果你想快速提高生活质量，那就每天早上醒来后第一件事就是进行 15 分钟的散步，无论天气如何。"
+    },
+    {
+      "id": 271,
+      "en": "When your vision is clear nothing else matters. You drop everything. Books aren't interesting. Routines hold you back. If your mind wants to focus on reaching the next peak, don't slow it down. Let it consume you.",
+      "zh": "当你的目光清晰时，其他一切都不重要了。你会放下一切。书籍不再有趣。循规蹈矩只会阻碍你前进。如果你的思绪渴望攀登下一个高峰，那就不要让它停下。让它全神贯注于你。"
+    },
+    {
+      "id": 272,
+      "en": "If you want to attract people to you, focus on your mission. People gravitate toward those who know what they want.",
+      "zh": "如果你想吸引人们，就专注于你的使命。人们会被那些知道自己想要什么的人所吸引。"
+    },
+    {
+      "id": 273,
+      "en": "The plan for 2025 is to write, walk, read, build, train, and adapt as usual.",
+      "zh": "2025 年的计划是照常写作、行走、阅读、建设、训练和适应。"
+    },
+    {
+      "id": 274,
+      "en": "The difference between where you are and where you want to be is knowledge because if you knew how to get there (and actually wanted to) you wouldn't be able to think or do anything else.",
+      "zh": "你现在所处的位置和你想要到达的位置之间的区别在于知识，因为如果你知道如何到达那里（并且真的想去那里），你就不会去思考或做其他任何事情了。"
+    },
+    {
+      "id": 275,
+      "en": "Start wide, try everything. Notice signal, ignore noise. Go deep, master it. Create something, anything. Share it with others. Enjoy and repeat.",
+      "zh": "从最宽的范围开始，尝试所有方法。只关注信号，忽略噪声。深入钻研，精通它。创作一些东西，任何东西都可以。分享给其他人。尽情享用，反复体验。"
+    },
+    {
+      "id": 276,
+      "en": "Nothing beats having a buildup of meaningful ideas to write about, throwing on headphones, blaring music so you're forced to drown it out, and emptying your mind just to do it all over again. Nothing beats being a vessel for creativity.",
+      "zh": "没有什么比积累了一堆值得写作的精彩想法，然后戴上耳机，播放震耳欲聋的音乐，强迫自己屏蔽掉这些想法，最后清空思绪，再重复一遍更棒的了。没有什么比成为创造力的容器更棒的了。"
+    },
+    {
+      "id": 277,
+      "en": "You don't need more knowledge because you already know what you need to do. You're studying level 5 at level 1 and it's only adding more things to forget about when you decide to start..",
+      "zh": "你不需要更多知识，因为你已经知道自己该做什么了。你现在在1级就学5级的内容，这只会让你在真正开始学习的时候忘记更多东西。"
+    },
+    {
+      "id": 278,
+      "en": "You don't find passion. You become passionate according to the amount of energy you invest in an interest.",
+      "zh": "你找不到激情。你对某项兴趣投入的精力越多，你就会越充满热情。"
+    },
+    {
+      "id": 279,
+      "en": "Your audience doesn't want information. They want YOUR perspective on information. 10 people can share the same idea. Only one will say it in a way that changes minds.",
+      "zh": "你的听众并不想获取信息。他们想听听你对信息的看法。十个人可能持有相同的想法，但只有一个人能用一种能改变别人想法的方式表达出来。"
+    },
+    {
+      "id": 280,
+      "en": "You didn't start this to become another \"personal brand.\" You started because you wanted freedom. Meaningful income. The ability to create work that sets your soul on fire. Take your mind, without the labels, and stream it where anyone can watch.",
+      "zh": "你开始做这件事并不是为了打造另一个“个人品牌”。你创业的初衷是渴望自由、获得有意义的收入，以及创造能让你充满激情的工作。抛开一切标签，将你的思想自由表达，让所有人都能观看。"
+    },
+    {
+      "id": 281,
+      "en": "Most \"content creators\" are just search engines with profile pictures. Publish work that makes people question their existence.",
+      "zh": "大多数“内容创作者”只不过是换了头像的搜索引擎，发布一些让人质疑自身存在意义的作品。"
+    },
+    {
+      "id": 282,
+      "en": "If you never contradict yourself, you're probably too attached to a limiting belief, and it's holding you back from reaching the next level.",
+      "zh": "如果你从不自相矛盾，那你可能太执着于某种限制性信念，而这种信念会阻碍你达到更高的层次。"
+    },
+    {
+      "id": 283,
+      "en": "Learning from a mistake the first time is how you blow past everyone else who spend years in stagnation because their ego is too big to accept their faults.",
+      "zh": "第一次就从错误中吸取教训，你就能超越那些因为自负而多年停滞不前的人，因为他们无法接受自己的错误。"
+    },
+    {
+      "id": 284,
+      "en": "Your feelings don't have to dictate your behavior. You can do the right thing, and you can do it well, even if you don't feel like doing it. This is the ultimate skill you can practice that spills over into the entirety of your life.",
+      "zh": "你的感受不必决定你的行为。即使你不想做，你仍然可以做正确的事，而且可以做得很好。这是你可以练习的终极技能，它将对你生活的方方面面产生深远的影响。"
+    },
+    {
+      "id": 285,
+      "en": "The ultimate goal is to have a life so beautifully designed that work, rest, and play cease to exist. They all blur together and are indistinguishable.",
+      "zh": "最终目标是拥有一个设计得如此完美的生活，以至于工作、休息和娱乐不再存在。它们融为一体，难以区分。"
+    },
+    {
+      "id": 286,
+      "en": "Your life's work is to reach your potential. Plain and simple. Anything that leads to decay is a distraction that must be wrestled with and eliminated.",
+      "zh": "你毕生的使命就是发挥你的潜能。就这么简单。任何导致衰败的事物都是必须与之抗争并消除的干扰因素。"
+    },
+    {
+      "id": 287,
+      "en": "The only people who will ultimately be replaced by AI are those who are incapable (or unwilling) to learn how to run a business.",
+      "zh": "最终会被人工智能取代的，只有那些没有能力（或不愿意）学习如何经营企业的人。"
+    },
+    {
+      "id": 288,
+      "en": "You can't live a new life with your old actions. Once you finally realize that, you'll stop gripping on so tightly to the pleasures that don't serve you. If you really want to change, you will. Most people just fantasize about a better life as another source of pleasure.",
+      "zh": "你不可能用过去的行为开启新生活。一旦你真正意识到这一点，你就会停止紧紧抓住那些对你无益的享乐不放。如果你真的想改变，你就能做到。大多数人只是把对美好生活的幻想当作另一种享乐来源。"
+    },
+    {
+      "id": 289,
+      "en": "If you don't know where to start, start with yourself. Your fitness. Your nutrition. Your money. Your skill set. Your mindset. Solve one little pain point in your life and I promise you'll know what to do next.",
+      "zh": "如果你不知道从哪里开始，那就从自己开始。你的健康状况。你的营养状况。你的钱。你的技能。你的心态。解决生活中一个小小的痛点，我保证你就会知道接下来该做什么了。"
+    },
+    {
+      "id": 290,
+      "en": "Balance is found in the extremes. Pushing to failure. Prioritizing recovery. Deep focused work. Worry-free rest. Periods of intensity for rapid and rare progress followed by periods of consistency to maintain new baselines. Stuck in the middle is a slow and average death.",
+      "zh": "平衡存在于极端之中。挑战极限。重视恢复。深度专注的工作。无忧休息。高强度训练期以取得快速而难得的进步，随后是稳定训练期以维持新的基准线。夹在中间是一种缓慢而平庸的死亡。"
+    },
+    {
+      "id": 291,
+      "en": "You aren't disciplined because you keep putting yourself in environments that give you a chance to be undisciplined.",
+      "zh": "你缺乏自律，是因为你总是把自己置于容易放纵自己的环境中。"
+    },
+    {
+      "id": 292,
+      "en": "The only thing more difficult than pursuing the best version of yourself is not pursuing the best version of yourself.",
+      "zh": "唯一比追求成为最好的自己更难的，就是不去追求成为最好的自己。"
+    },
+    {
+      "id": 293,
+      "en": "You need to move. Your body. Your mind. Your projects. Your relationships. Your finances. Because if you don't, you don't stay the same, you slowly decay without realizing it until you reach the point where it's much, much harder to dig back out. Entropy waits for no one.",
+      "zh": "你需要搬家。你的身体。你的思想。你的事业。你的人际关系。你的财务状况。因为如果你不这样做，你就不会保持现状，你会慢慢衰败而不自知，直到你意识到这一点时，再也很难从中恢复过来。熵不会等人。"
+    },
+    {
+      "id": 294,
+      "en": "I hate to break it to you, but most of your beliefs are wrong. If you don't look back on your mind 10 years from now and laugh, you are just like that closed minded person you secretly despise. Beliefs are tools. Grip onto them and act, but let go when they don't serve you.",
+      "zh": "我很遗憾地告诉你，你的大部分信念都是错的。如果你十年后回首往事时没有一笑置之，那你就会变成你暗地里鄙视的那种思想封闭的人。信念只是工具。你可以紧紧抓住它们并付诸行动，但当它们不再对你有益时，就应该放手。"
+    },
+    {
+      "id": 295,
+      "en": "Pain is a great teacher because it helps you realize two things: what's worth suffering for and what you never want to experience again. Pain gives you direction. That's why most people are lost.",
+      "zh": "痛苦是一位伟大的导师，因为它能让你明白两件事：什么值得你为之受苦，以及什么是你永远不想再经历的。痛苦会指引你方向。这就是为什么大多数人会迷失方向。"
+    },
+    {
+      "id": 296,
+      "en": "The best writing isn't about stringing words together in a way that sounds smart. It's about hunting for great ideas, letting them marinate in your subconscious, and synthesizing them into something worth reading.",
+      "zh": "最好的写作并非是把文字堆砌得听起来高深莫测，而是去寻找绝妙的想法，让它们在潜意识里酝酿发酵，最终将它们提炼成值得一读的作品。"
+    },
+    {
+      "id": 297,
+      "en": "Working on a project and need help. Has to do with going on a walk. How has walking helped with your ideas, creativity, health, relationships, general quality of life, or anything else? What's your \"walking\" story?",
+      "zh": "我正在做一个项目，需要一些帮助。和散步有关。步行对你的想法、创造力、健康、人际关系、整体生活质量或其他方面有何帮助？你的“行走”故事是什么？"
+    },
+    {
+      "id": 298,
+      "en": "Your life changes when you finally realize that anything is possible (on a long enough time scale) as long as you build the steps that lead to it being possible.",
+      "zh": "当你最终意识到只要你采取必要的步骤，任何事情都有可能发生（从足够长的时间尺度来看），你的生活就会发生改变。"
+    },
+    {
+      "id": 299,
+      "en": "Those who struggle with money struggle with awareness. You pay people daily. You do work that pays you some and others more. Your life is filled with items you paid for. You're a part of the process but not aware of the process, so you're dependent on it and can't replicate it.",
+      "zh": "那些在金钱方面遇到困难的人，往往缺乏理财意识。你每天都要付钱给别人。你做的工作有的报酬低，有的报酬高。你的生活中充满了你花钱买来的东西。你是这个过程的一部分，但你并不了解这个过程，所以你依赖于它，却无法复制它。"
+    },
+    {
+      "id": 300,
+      "en": "You're overwhelmed because you're holding 1 year's worth of skill acquisition, work, and growth in your head rather than the 1 thing you can do right now to get there.",
+      "zh": "你感到不知所措，是因为你脑子里想的是一年的技能习得、工作和成长，而不是你现在可以做的那件能达到目标的事情。"
+    },
+    {
+      "id": 301,
+      "en": "You're unhappy because your mind becomes what you pay attention to, and you pay attention to what you think is important, and people have told you what you should think is important your entire life, but you haven't realized that maybe they don't know what they're talking about.",
+      "zh": "你之所以不快乐，是因为你的思想变成了你关注的东西，而你关注的是你认为重要的东西，人们在你一生中都在告诉你什么才是重要的，但你却没有意识到，也许他们根本不知道自己在说什么。"
+    },
+    {
+      "id": 302,
+      "en": "Having a plan B is for people who don't trust their ability to learn, build, and adapt.",
+      "zh": "制定备选方案的人，往往是不相信自己学习、建设和适应能力的人。"
+    },
+    {
+      "id": 303,
+      "en": "The average person feels cheated by the dream they were sold. School didn't prepare them for this. The job didn't give them enough money, time, or security. Since that's all they were taught, they don't see another way to live, so they drown in anything that will numb the pain.",
+      "zh": "普通人感觉自己被灌输的梦想欺骗了。学校教育没有让他们做好面对现实的准备。工作也无法给他们带来足够的金钱、时间和保障。由于他们从小接受的教育仅限于此，他们看不到其他的生活方式，于是沉溺于任何能麻痹痛苦的事物中。"
+    },
+    {
+      "id": 304,
+      "en": "If you can't solve a problem with hard work, you can probably solve it by going on a walk.",
+      "zh": "如果努力工作解决不了问题，或许出去散散步就能解决。"
+    },
+    {
+      "id": 305,
+      "en": "Do whatever you want. When you do, you will make massive mistakes. At that point, you no longer want it, and slowly course correct toward what you really want. If you always do what others want for you, you will never discover what you want.",
+      "zh": "随心所欲吧。但那样做，你会犯下大错。到那时，你就会不再想要那样的生活，并慢慢调整方向，朝着你真正想要的方向前进。如果你总是按照别人的意愿行事，你永远也发现自己真正想要的是什么。"
+    },
+    {
+      "id": 306,
+      "en": "If you struggle with mental clarity: - Pull out a piece of paper - Write down all of your thoughts - Cross out all of the distractions - Focus on what’s left A clear head can be as simple as putting your mind on paper and organizing it.",
+      "zh": "如果你难以保持思维清晰：掏出一张纸把你所有的想法都写下来。排除所有干扰因素专注于剩下的事情保持头脑清醒其实很简单，只需把你的想法写在纸上并整理好即可。"
+    },
+    {
+      "id": 307,
+      "en": "You actually can do whatever you want whenever you want, and if you have a decent set of values, you should.",
+      "zh": "实际上，你可以随时随地做任何你想做的事，如果你有一套良好的价值观，你就应该这样做。"
+    },
+    {
+      "id": 308,
+      "en": "You are learning every millisecond of the day. Your mind is a sponge soaking in information. Being programmed. Being conditioned. Being told what to do and how to do it. For most people, this is unconscious. If you were to learn, consciously, your life would turn around fast.",
+      "zh": "你每时每刻都在学习。你的大脑就像一块海绵，不断吸收信息，被灌输各种观念，被驯化，被告知该做什么以及该怎么做。对大多数人来说，这一切都是无意识的。如果你能有意识地学习，你的生活会很快发生改变。"
+    },
+    {
+      "id": 309,
+      "en": "Dopamine tells you when something is important to your survival-wired brain. Companies exploit this by testing combinations of fat, sugar, salt, fear, pleasure, and conviction to addict you. Very few things are important, and it's your duty to discover and pursue them.",
+      "zh": "多巴胺会告诉你，当某件事对你那颗以生存为本的大脑来说很重要时，它就会发出信号。公司利用这一点，通过测试脂肪、糖、盐、恐惧、快乐和信念的组合来让你上瘾。真正重要的事寥寥无几，而发现并追求它们是你的责任。"
+    },
+    {
+      "id": 310,
+      "en": "Most new wealth is being generated in the digital space because its barrier of entry is skill, not money or location.",
+      "zh": "大部分新增财富都是在数字领域创造的，因为数字领域的准入门槛是技能，而不是金钱或地域。"
+    },
+    {
+      "id": 311,
+      "en": "You aren't fulfilled because your mind makes sense of the world in stories and you stopped living your own.",
+      "zh": "你之所以感到不满足，是因为你的思维习惯用故事来理解世界，而你却停止了过自己的生活。"
+    },
+    {
+      "id": 312,
+      "en": "Go on more walks. Walk for no reason. Walk to solve a problem. Walk to blow off steam. Walk to get outside. Walk to listen, read, and learn. Walk to escape distractions. Walk to improve your health. Walk to think. A simple walking habit can change absolutely everything.",
+      "zh": "多散步。无缘无故地散步。散步解决问题。散步释放压力。散步亲近自然。散步聆听、阅读和学习。散步摆脱干扰。散步改善健康。散步思考。一个简单的散步习惯可以彻底改变一切。"
+    },
+    {
+      "id": 313,
+      "en": "The death of your business happens when you obsess over a website, logo, LLC, and taxes before you actually start getting customers.",
+      "zh": "当你在真正开始获得客户之前，就过分关注网站、标志、有限责任公司和税务问题时，你的企业就会走向衰亡。"
+    },
+    {
+      "id": 314,
+      "en": "If you're okay with 10 cents in your bank account, you won't see that as a problem. If you're okay with 20 pounds of extra body fat, you won't do anything to change it. Your standards – your settling point – will ruin you if they are absymally low.",
+      "zh": "如果你觉得银行账户里只有10美分没什么问题，你就不会觉得这是个问题。如果你能接受身上多余的20磅脂肪，你就不会采取任何措施去改变它。如果你的标准——你的底线——低得离谱，那将会毁了你。"
+    },
+    {
+      "id": 315,
+      "en": "Many successful people are born out of an overwhelming amount of negativity that they chose to use as fuel, not an excuse.",
+      "zh": "许多成功人士都是在经历了大量的负面情绪后才成长起来的，他们选择将负面情绪转化为动力，而不是借口。"
+    },
+    {
+      "id": 316,
+      "en": "Normalize disappearing for 1 hour a day to build a better future for yourself.",
+      "zh": "每天抽出1小时时间，为自己创造更美好的未来，这已经成为一种常态。"
+    },
+    {
+      "id": 317,
+      "en": "How to start a billion dollar business: Don't. Start a one-person business. Build enough cash flow to leave your job. Build enough of an audience to fuel that dream company you want to start. Focus on the skills and interests you can already help people with.",
+      "zh": "如何打造一家价值十亿美元的企业：不。创办一家一人企业。积累足够的现金流，以便辞职。建立足够多的受众群体，为你想要创办的梦想公司提供动力。专注于你已经拥有的技能和兴趣，并利用这些技能和兴趣帮助他人。"
+    },
+    {
+      "id": 318,
+      "en": "Most people end up 50 years old with the emotional maturity of a 15 year old.",
+      "zh": "大多数人到了50岁，情感成熟度却只有15岁左右。"
+    },
+    {
+      "id": 319,
+      "en": "If you're in your 20s: - Experiment with new paths - Start your business failures now - Study the opposite of your beliefs - Challenge yourself with new interests The worst thing you can do is stop learning, growing, and changing your mind after leaving the school system.",
+      "zh": "如果你正值二十多岁：- 尝试新的路径现在就开始你的创业失败吧研究与你信念相反的事物尝试培养新的兴趣爱好离开学校教育体系后，最糟糕的事情就是停止学习、成长和改变想法。"
+    },
+    {
+      "id": 320,
+      "en": "It's okay to disappear and build the thing you've been putting off (that will make you a better person when you come back).",
+      "zh": "消失一段时间，去做你一直拖延的事情（当你回来时，这将使你成为一个更好的人），这没什么不好。"
+    },
+    {
+      "id": 321,
+      "en": "I've talked about Tactical Stress in-depth multiple times in The Koe Letter. Don't miss another issue by joining below. I'll also send you a Simple Life Reset template for free.",
+      "zh": "我在《科伊通讯》中多次深入探讨了战术压力。立即加入，不错过任何一期精彩内容。我还会免费赠送你一份“极简生活重置”模板。"
+    },
+    {
+      "id": 322,
+      "en": "If you enjoyed this thread, share the first post so others can get through their negative emotions.",
+      "zh": "如果你喜欢这个帖子，请分享第一条帖子，让其他人也能摆脱负面情绪。"
+    },
+    {
+      "id": 323,
+      "en": "Reason #2 Parkinson's Law: Work expands so as to fill the time allotted for completion. When you launch yourself into the unknown, you threaten your survival, and you have less time to become a success.",
+      "zh": "原因二帕金森定律：工作量会不断增加，直至填满规定的完成时间。当你投身于未知领域时，你的生存就会受到威胁，而且你获得成功的时间也会更少。"
+    },
+    {
+      "id": 324,
+      "en": "Reason #3 The Theme Of Going Full Circle. Imagine a straight line with black on one end and white on another blended with a gradient. Now, connect the two ends so it forms a circle. There is an instant flip from black to white.",
+      "zh": "原因三循环往复的主题。想象一条直线，一端是黑色，另一端是白色，并带有渐变效果。现在，将两端连接起来，形成一个圆圈。黑色瞬间变成白色。"
+    },
+    {
+      "id": 325,
+      "en": "Stop trying to learn \"skills.\" Nothing valuable is built with ONE skill. Instead, learn individual techniques that allow you to build a project that others find useful. Stack techniques, not skills, and you'll slowly reduce your chances of being replaced.",
+      "zh": "别再试图学习“技能”了。任何有价值的东西都不是靠一项技能就能创造出来的。相反，你应该学习一些能够让你构建出对其他人有用的项目的个人技巧。积累技术，而不是技能，你就能逐渐降低被取代的风险。"
+    },
+    {
+      "id": 326,
+      "en": "The mind is always listening. If you're always focused on failure, you will fail. If you're always focused on success, you will succeed. Your mind absorbs information that conditions you to acheive your goals, but most people's goal is to fail, they just aren't conscious of it.",
+      "zh": "人的大脑时刻都在倾听。如果你总是想着失败，你就会失败；如果你总是想着成功，你就会成功。你的大脑会吸收信息，从而形成条件反射，帮助你实现目标，但大多数人的目标却是失败，他们只是没有意识到这一点。"
+    },
+    {
+      "id": 327,
+      "en": "If you haven't started the project, most of your learning is a wasteful mental masturbation.",
+      "zh": "如果你还没有开始做项目，那么你的大部分学习都只是浪费时间的脑力自慰。"
+    },
+    {
+      "id": 328,
+      "en": "Your mind is wired for survival. *It remembers things that helps solve a problem, resolve a pain, or connect a pattern.* When you build a project and get stuck, THAT'S when your mind wants to remember anything that can help.",
+      "zh": "你的大脑天生具有生存本能。它能记住有助于解决问题、缓解疼痛或建立联系的信息。当你构建一个项目却遇到困难时，你的大脑就会想要回忆起任何可能有所帮助的东西。"
+    },
+    {
+      "id": 329,
+      "en": "The problem isn't that you don't know what to work on. It's that you haven't tried anything outside of what your parents, teachers, and boss have assigned to you. You haven't experimented with life to the point of finding that one thing you can't help but work on.",
+      "zh": "问题不在于你不知道该做什么，而在于你除了父母、老师和老板分配给你的任务之外，从未尝试过其他任何事情。你没有真正体验过生活，以至于找不到那件让你情不自禁想要去做的事情。"
+    },
+    {
+      "id": 330,
+      "en": "If you aren't building toward something, most of your actions are meaningless and repetitive. Your relationships stay surface-level. Your work becomes robotic. Your health starts to slip. You need direction. Because without it, the only option is to get distracted.",
+      "zh": "如果你没有朝着某个目标努力，那么你的大部分行为都是毫无意义且重复的。你们的关系始终停留在表面。你的工作变得机械化了。你的健康状况开始恶化。你需要方向。因为没有方向，你只会分心。"
+    },
+    {
+      "id": 331,
+      "en": "It's safe to say that if you want to do your own thing, you will have to write. Emails Messages Posts Articles Video scripts Curriculums Landing pages, ads, captions Most people never learn or practice writing and wonder why they aren’t seeing the traction they want.",
+      "zh": "可以肯定地说，如果你想做自己想做的事，你就必须写作。电子邮件消息帖子文章视频脚本课程着陆页、广告、标题大多数人从未学习或练习写作，却不明白为什么自己没有获得想要的关注度。"
+    },
+    {
+      "id": 332,
+      "en": "Social media is the fast food of socialization. Porn is the fast food of intimacy. Video games are the fast food of achievement. Netflix is the fast food of entertainment. Meticulously tested combinations of digital fat, sugar, and salt that trigger your survival instincts.",
+      "zh": "社交媒体是社交领域的快餐。色情片是亲密关系的快餐。电子游戏是获得成就的快餐。Netflix 就像娱乐界的快餐。经过精心测试的数字脂肪、糖和盐的组合，可以激发你的生存本能。"
+    },
+    {
+      "id": 333,
+      "en": "My biggest fear is waking up to live the same life as everyone else over and over again. Doing work I don't care about for people I don't care about. Never understanding, always reacting. No energy or time to think, plan, build, or change. Stuck on the surface as decades pass by.",
+      "zh": "我最大的恐惧是醒来后发现自己过着和其他人一样的生活，日复一日。做着自己不在乎的工作，为自己不在乎的人工作。永远无法理解，永远只是被动应对。没有精力也没有时间去思考、计划、建设或改变。就这样停滞不前，几十年光阴荏苒。"
+    },
+    {
+      "id": 334,
+      "en": "Do everything in your power to maintain focus on the intersection of what's needed, what matters, and what you feel most drawn to learn and build. If it's not needed, doesn't matter, or you don't care about it, you are wasting your life.",
+      "zh": "尽你所能，专注于那些真正需要的、重要的，以及你最想学习和创造的东西的交集。如果某件事既不需要，也不重要，或者你根本不在乎，那你就是在浪费生命。"
+    },
+    {
+      "id": 335,
+      "en": "It’s pretty mind blowing. What started as a few “esoteric health” accounts on Twitter is turning into a US health reform. There no way in hell RFK got the info from mainstream sources. Passionate individuals have a lot of power if they share their ideas and discoveries.",
+      "zh": "真是令人难以置信。最初只是推特上几个“神秘健康”账号，如今却演变成一场美国医疗改革。罗伯特·肯尼迪绝不可能从主流媒体获得这些信息。充满热情的人如果分享自己的想法和发现，就能拥有很大的力量。"
+    },
+    {
+      "id": 336,
+      "en": "Most people haven't practiced thinking. When you talk to them, you aren't talking to them. You're talking to the TV. Social media. Their parents. Their teachers. Their insecurities and trauma. It's very robotic. The definition of inauthentic. Disconnect and think more.",
+      "zh": "大多数人都没有练习过思考。当你和他们说话时，你其实不是在和他们说话，你是在和电视、社交媒体、他们的父母、他们的老师、他们的不安全感和创伤说话。非常机械化，简直就是虚假的代名词。断开网络连接，多思考。"
+    },
+    {
+      "id": 337,
+      "en": "Most people are trapped in doing mode. Niching their attention down to menial tasks and pleasures without a second thought of what they lead to. They rarely allow themselves to be. So their actions are misaligned by default. They create a life they despise without knowing how.",
+      "zh": "大多数人都陷入了忙碌模式。他们将注意力集中在琐碎的任务和享乐上，却从不去思考这些行为会导致什么后果。他们很少允许自己真正地做自己。因此，他们的行为自然而然地就偏离了正轨。他们不知不觉地创造出了自己厌恶的生活。"
+    },
+    {
+      "id": 338,
+      "en": "If you want to make $1 million in 1 year, break it down. $1,000,000 / 12 = $83,333 per month $83,333 / 30 = $2,777 per day Land one $5000 client every other day. Or sell 18 $150 products a day. Thats 720 people to a page that converts at 2.5%. Build a product, distribute.",
+      "zh": "如果你想在一年内赚到100万美元，那就把目标分解开来。1,000,000 美元 / 12 = 每月 83,333 美元83,333 美元 / 30 = 每天 2,777 美元每隔一天拿下一个价值 5000 美元的客户。或者每天卖出 18 件单价 150 美元的产品。这意味着有 720 人访问了转化率为 2.5% 的页面。开发产品，然后进行分销。"
+    },
+    {
+      "id": 339,
+      "en": "Set aside 1 hour a day for the 2 most important people in your life: 1) You 2) The person you want to become You can't fill anyone else's cup if you don't have anything to pour.",
+      "zh": "每天抽出1小时陪伴生命中最重要的人：1）你2）你想成为的那种人如果你自己都没有东西可以倒，又怎么能给别人倒满杯子呢？"
+    },
+    {
+      "id": 340,
+      "en": "Do what works, in your own way, without getting in your own way.",
+      "zh": "做对你有效的事，用你自己的方式，但不要给自己设限。"
+    },
+    {
+      "id": 341,
+      "en": "What more people need to realize is that you were creative, excited, and free until your mind adopted its own limits and you became a know it all. You know where your future is headed. You know what you're doing today. You leave little room for discovery in the unknown.",
+      "zh": "更多人需要意识到，你曾经充满创造力、热情和自由，直到你的思维被局限，你变成了一个自以为是的人。你知道你的未来走向何方，你知道你今天在做什么，你几乎没有给探索未知留下任何空间。"
+    },
+    {
+      "id": 342,
+      "en": "Too much structure makes life mundane. Too much spontaneity makes life chaotic. Most of your quality of life stems from finding your own balance.",
+      "zh": "过多的条条框框会让生活变得单调乏味。过多的随性会让生活变得混乱。你的生活质量很大程度上取决于你能否找到自己的平衡点。"
+    },
+    {
+      "id": 343,
+      "en": "If you're lost, the answer is education. If you're educated, the answer is execution. If you're executing, the answer is persistence. If you're persisting, the answer is experimentation.",
+      "zh": "如果你迷失了方向，答案就在于教育。如果你受过教育，答案就是执行。如果你正在执行，答案是坚持不懈。如果你坚持不懈，答案就是实验。"
+    },
+    {
+      "id": 344,
+      "en": "How to clear your mind: Walk more. Read more. Write more. Listen more. Lift more. Strategize more. Build more. Scroll less. Indulge less. Criticize less. Ruminate less. Sit less. Procrastinate less. You lack clarity because you fill your mind with junk and let ideas go stale.",
+      "zh": "如何清空思绪：多走路。多读书。多写作。多倾听。多举重。多制定策略。多创造。少刷手机。少放纵自己。少批评别人。少胡思乱想。少久坐。少拖延。你缺乏清晰的思路，是因为你脑子里塞满了垃圾信息，让想法变得陈旧过时。"
+    },
+    {
+      "id": 345,
+      "en": "Blaming others does absolutely nothing for your life and puts you in a position with zero power to change your situation.",
+      "zh": "责怪他人对你的生活没有任何帮助，只会让你完全无力改变现状。"
+    },
+    {
+      "id": 346,
+      "en": "If you can hold a conversation about it, you can write about it. If you can't hold a conversation about it, you should write about it.",
+      "zh": "如果你能就某件事展开对话，你就能就某件事写出来。如果你无法就此事进行对话，那就应该把它写下来。"
+    },
+    {
+      "id": 347,
+      "en": "If you don’t know what to write, write about the ideas you want to gain more traction in the world. Politics, health, business, or a specific passion or hobby. Every sentence you write is a vote for which ideas become a part of society.",
+      "zh": "如果你不知道该写些什么，那就写写你希望在世界上获得更多关注的想法。可以是政治、健康、商业，也可以是你某个特定的爱好或兴趣。你写的每一个字，都是在为哪些想法能够成为社会的一部分投下一票。"
+    },
+    {
+      "id": 348,
+      "en": "The only things standing between where you are and where you want to be is belief, skill, and knowledge. Beliefs can be changed, skills can be trained, and knowledge can be acquired, but few people care about having a rich life. They find pleasure in the pain of staying the same.",
+      "zh": "阻碍你到达理想彼岸的唯一障碍是信念、技能和知识。信念可以改变，技能可以训练，知识可以获取，但很少有人真正渴望拥有充实的人生。他们乐于忍受停滞不前的痛苦。"
+    },
+    {
+      "id": 349,
+      "en": "Most people are so afraid of making mistakes that they make the biggest mistake of them all: not making mistakes.",
+      "zh": "大多数人害怕犯错，结果犯了最大的错误：不去犯错。"
+    },
+    {
+      "id": 350,
+      "en": "Ego is the storyteller. The interpreter. The thing that allows you to make sense of the world. You don't dissolve or kill the ego. You grow beyond the limits that keep it narrow and destructive. You expand yourself to the point of higher perspective and holistic storytelling.",
+      "zh": "自我就是故事讲述者，是诠释者，是让你理解世界的东西。你无法消除或扼杀自我，只能超越那些限制其狭隘和破坏性的局限，从而拓展视野，达到更高的视角和更全面的叙事境界。"
+    },
+    {
+      "id": 351,
+      "en": "No amount of thinking is going to fix the problem that is solved by doing.",
+      "zh": "光靠思考是解决不了问题的，行动才能解决问题。"
+    },
+    {
+      "id": 352,
+      "en": "The best creatives do everything in their power to minimize the time between inspiration and creation.",
+      "zh": "最优秀的创意人员会竭尽全力缩短灵感迸发到创作完成之间的时间。"
+    },
+    {
+      "id": 353,
+      "en": "Stop asking yourself what skill you should learn. Start learning the specific techniques necessary to build a project. Then, launch the project, note feedback, learn, fix mistakes, and do it again. The more quality projects you build, the more irreplaceable your skill stack.",
+      "zh": "不要再问自己应该学习什么技能了。开始学习构建项目所需的具体技术。然后，启动项目，记录反馈，学习，改正错误，再重复一遍。你打造的高质量项目越多，你的技能积累就越不可替代。"
+    },
+    {
+      "id": 354,
+      "en": "\"What skill should I learn\" = researching the same thing as everyone else wondering the same thing. \"What project am I building\" = a learning path that is completely unique to you, because you're creating it on the go.",
+      "zh": "“我应该学习什么技能”= 研究和其他人一样的问题。“我正在构建什么项目”= 一条完全属于你自己的独特学习路径，因为你是在不断创建它。"
+    },
+    {
+      "id": 355,
+      "en": "One meaningful project. One hour of focused work. One day at a time, without fail. If you're trying to make your part-time your full-time, this is the secret you're looking for.",
+      "zh": "一个有意义的项目。一小时专注工作。一天一天地过，从未间断。如果你想把兼职变成全职，这就是你一直在寻找的秘诀。"
+    },
+    {
+      "id": 356,
+      "en": "If you want a better understanding of your mind & reality, here are your study plans for the next year: - Spiral dynamics - Systems thinking - Structure VS content - Cybernetics - Self-bias and deception - Developmental psychology Your ability to think will climb a few levels.",
+      "zh": "如果你想更好地了解自己的思维和现实，以下是你未来一年的学习计划：螺旋动力学系统思维结构与内容控制论自我偏见和欺骗发展心理学你的思维能力将提升几个层次。"
+    },
+    {
+      "id": 357,
+      "en": "When you know what you don't want, it doesn't matter if you are crystal clear on what you want. You'll figure it out.",
+      "zh": "当你清楚自己不想要什么的时候，即使你对自己想要什么也并不那么清楚了。你最终会找到答案的。"
+    },
+    {
+      "id": 358,
+      "en": "I've reached the stage where I only want to be around people who take their craft seriously. People who've realized that constant complaining is destructive and useless. People who are focused on making the most of their next 24 hours. People who are clear on what they want.",
+      "zh": "我已经到了只想和那些认真对待自己工作的人在一起的阶段了。那些意识到持续抱怨毫无益处且具有破坏性的人；那些专注于充分利用接下来24小时的人；那些清楚自己想要什么的人。"
+    },
+    {
+      "id": 359,
+      "en": "Your 20s are the tutorial phase. You're fresh out of society's programming. You have the chance to start over, experiment, and explore. The worst thing you can do is stop learning, obey and end up 60 years old with the beliefs of your 20-year-old self.",
+      "zh": "你的二十几岁是学习阶段。你刚刚摆脱社会的束缚，有机会重新开始，尝试和探索。最糟糕的情况莫过于停止学习，墨守成规，最终六十岁时还保留着二十岁时的那些想法。"
+    },
+    {
+      "id": 360,
+      "en": "Your state of mind influences how you see the world. How you see the world influences what opportunities you act on. What you act on influences your quality of life. If you're always stressed and anxious, that will slowly drag you down until you decide to change it.",
+      "zh": "你的精神状态会影响你对世界的看法。你如何看待世界会影响你抓住哪些机会。你的行为会影响你的生活质量。如果你总是感到压力和焦虑，这会慢慢地把你拖垮，直到你决定改变为止。"
+    },
+    {
+      "id": 361,
+      "en": "When you're stressed, you regress into a version of your past self. Your mind closes up. It's incredibly difficult to zoom out and see that there are a few potential paths you can start to go down. If you're smart, you have faith in the path, and you step forward anyway.",
+      "zh": "压力过大时，你会退化成过去的自己。你的思维封闭了。很难跳出固有思维，看到你可以开始走的几条潜在道路。如果你足够聪明，你就会相信这条路，并且无论如何都要勇往直前。"
+    },
+    {
+      "id": 362,
+      "en": "A few of the simplest things you can do when you want to change your state: - Go on a walk - Journal all thoughts - Breath deep for 10 minutes - Read philosophy - Practice metacognition - Write your way out If you can crack open your mind a bit, you can start to squeeze out.",
+      "zh": "当你想改变你所在州的状况时，可以做以下几件最简单的事情：去散步记录所有想法深呼吸 10 分钟阅读哲学- 练习元认知用文字走出困境如果你能稍微敞开心扉，你就能开始挤出一些东西。"
+    },
+    {
+      "id": 363,
+      "en": "Work that is destructive to human health is bound to be replaced. Anything that forces you to stare at screens, sit under fluorescent lights, doesn't allow time for rest, encourages convenient food, etc. Tech and AI are can finally solve this problem, and it will happen fast.",
+      "zh": "有害于人类健康的工作注定会被取代。任何强迫你盯着屏幕、坐在荧光灯下、不给你休息时间、鼓励你吃方便食品等等的事情。科技和人工智能最终可以解决这个问题，而且很快就会实现。"
+    },
+    {
+      "id": 364,
+      "en": "Most things can be done quite well on a walk now: - Writing - Research - Meetings - Emails - Marketing - Admin work And as AI continues to develop more work becomes more feasible to do on a walk.",
+      "zh": "现在大多数事情都可以在散步时很好地完成：写作- 研究会议- 电子邮件- 营销- 行政工作随着人工智能的不断发展，越来越多的工作可以在散步时完成。"
+    },
+    {
+      "id": 365,
+      "en": "Surround yourself with people who make you want to be better. Not because they tell you to, but because their actions make you realize what's possible.",
+      "zh": "多和那些能激励你变得更好的人在一起。不是因为他们要求你这样做，而是因为他们的行动让你意识到什么是可能的。"
+    },
+    {
+      "id": 366,
+      "en": "Don't doubt the person who hates their current situation so much that it becomes an infinite source of motivation and focus.",
+      "zh": "不要怀疑那些极度厌恶现状，并将之转化为无限动力和专注力的人。"
+    },
+    {
+      "id": 367,
+      "en": "Again, it's free for personal use. Join the waitlist here and you'll receive access quite soon (possibly within 24 hours). We've rolled out over 23,000 invites so far.",
+      "zh": "再次强调，它是免费供个人使用的。在此加入候补名单，您很快就能获得访问权限（可能在 24 小时内）。我们目前已发出超过 23,000 份邀请。"
+    },
+    {
+      "id": 368,
+      "en": "AI making work optional will be a massive blessing and curse. Nobody wants to be on vacation forever. Early retirement is the opposite of the challenge your psyche craves for meaning. People who use it as an opportunity to fuel their passions will thrive.",
+      "zh": "人工智能让工作变得可有可无，这既是巨大的福音，也是巨大的诅咒。没有人想永远处于度假状态。提前退休与人们内心渴望的挑战和意义背道而驰。那些将其视为激发自身兴趣爱好的机会的人将会取得成功。"
+    },
+    {
+      "id": 369,
+      "en": "Most people wait to get lucky. Experimentation determines how lucky you can get. The worst thing you can do is stick with a tactic that isn't working (when there absolutely is something you can do that will get results). A lack of experimentation is a lack of intelligence.",
+      "zh": "大多数人都在等待好运降临。尝试决定你的运气如何。最糟糕的做法就是坚持使用无效的策略（而明明有其他方法可以取得成效）。缺乏实验精神就是缺乏智慧。"
+    },
+    {
+      "id": 370,
+      "en": "I'm bullish on the creator economy because (1) ideas are infinite (2) ideas shape the future (3) education becomes affordable and tailored to personality (4) encourages growth, uniqueness, and value. Being a creator isn't a job. It's a vessel to be yourself full-time.",
+      "zh": "我看好创作者经济，因为（1）创意是无限的（2）创意塑造未来（3）教育变得经济实惠，并能根据个性量身定制（4）鼓励成长、独特性和价值。创作不是一份工作，而是一种让你全心全意做自己的方式。"
+    },
+    {
+      "id": 371,
+      "en": "If you were to stick with this for 1 year, you would have: - 1095 posts on each platform - 104 threads / short YT videos - 52 newsletters / YT videos If you fail with that amount of volume, I don't know what to tell you.",
+      "zh": "如果你坚持这样做一年，你将拥有：每个平台上共有 1095 篇帖子- 104 个帖子/短 YouTube 视频- 52 份电子报/YouTube 视频如果你连这么大的数量都做不好，那我也不知道该说什么好了。"
+    }
+  ]
+}

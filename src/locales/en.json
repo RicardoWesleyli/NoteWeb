@@ -1,0 +1,48 @@
+{
+  "translation": {
+    "siteName": "PMGOO",
+    "searchPlaceholder": "Enter keywords to search...",
+    "changeQuote": "Change Quote",
+    "descriptionFallback": "Use userscripts to freely change the web",
+    "theme": {
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System",
+      "toggle": "Toggle Theme"
+    },
+    "language": {
+      "en": "English",
+      "zh": "中文",
+      "switch": "Switch Language"
+    },
+    "settings": {
+      "title": "Settings",
+      "preferences": "Preferences",
+      "categories": "Categories",
+      "links": "Links",
+      "themeLabel": "Theme",
+      "themeDescription": "Customize interface appearance",
+      "languageLabel": "Language",
+      "languageDescription": "Switch display language"
+    },
+    "categories": {
+      "all": "All",
+      "ai": "AI Tools",
+      "news": "News",
+      "community": "Community",
+      "dev": "Dev Tools",
+      "software": "Software",
+      "tools": "Tools",
+      "learn": "Learn",
+      "design": "Design"
+    },
+    "engines": {
+      "google": "Google",
+      "bing": "Bing",
+      "baidu": "Baidu",
+      "duckduckgo": "DuckDuckGo",
+      "github": "GitHub",
+      "stackoverflow": "Stack Overflow"
+    }
+  }
+}

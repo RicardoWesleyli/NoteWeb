@@ -1,0 +1,48 @@
+{
+  "translation": {
+    "siteName": "PMGOO",
+    "searchPlaceholder": "输入关键词搜索...",
+    "changeQuote": "换一句",
+    "descriptionFallback": "使用用户脚本自由地改变网络",
+    "theme": {
+      "light": "浅色",
+      "dark": "深色",
+      "system": "跟随系统",
+      "toggle": "切换主题"
+    },
+    "language": {
+      "en": "English",
+      "zh": "中文",
+      "switch": "切换语言"
+    },
+    "settings": {
+      "title": "设置",
+      "preferences": "偏好设置",
+      "categories": "分组管理",
+      "links": "链接管理",
+      "themeLabel": "主题",
+      "themeDescription": "自定义界面的外观风格",
+      "languageLabel": "语言",
+      "languageDescription": "切换界面显示的语言"
+    },
+    "categories": {
+      "all": "全部",
+      "ai": "AI工具",
+      "news": "新闻资讯",
+      "community": "技术社区",
+      "dev": "编程工具",
+      "software": "软件推荐",
+      "tools": "常用工具",
+      "learn": "学习资源",
+      "design": "设计灵感"
+    },
+    "engines": {
+      "google": "谷歌",
+      "bing": "必应",
+      "baidu": "百度",
+      "duckduckgo": "DuckDuckGo",
+      "github": "GitHub",
+      "stackoverflow": "Stack Overflow"
+    }
+  }
+}

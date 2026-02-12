@@ -1,0 +1,842 @@
+[
+  {
+    "id": "ai-1",
+    "name": "ChatGPT",
+    "url": "https://chat.openai.com",
+    "category": "ai",
+    "description": {
+      "zh": "OpenAI开发的强大语言模型",
+      "en": "Powerful language model developed by OpenAI"
+    }
+  },
+  {
+    "id": "ai-2",
+    "name": "Claude",
+    "url": "https://claude.ai",
+    "category": "ai",
+    "description": {
+      "zh": "Anthropic开发的AI助手",
+      "en": "AI assistant developed by Anthropic"
+    }
+  },
+  {
+    "id": "ai-3",
+    "name": "Gemini",
+    "url": "https://gemini.google.com",
+    "category": "ai",
+    "description": {
+      "zh": "Google的多模态AI模型",
+      "en": "Google's multimodal AI model"
+    }
+  },
+  {
+    "id": "ai-6",
+    "name": "DeepSeek",
+    "url": "https://www.deepseek.com",
+    "category": "ai",
+    "description": {
+      "zh": "深度求索开发的开源强模型",
+      "en": "Open-source strong model by DeepSeek"
+    }
+  },
+  {
+    "id": "ai-4",
+    "name": "Midjourney",
+    "url": "https://www.midjourney.com",
+    "category": "ai",
+    "description": {
+      "zh": "强大的AI绘画工具",
+      "en": "Powerful AI art generation tool"
+    }
+  },
+  {
+    "id": "ai-5",
+    "name": "Kimi",
+    "url": "https://kimi.moonshot.cn",
+    "category": "ai",
+    "description": {
+      "zh": "月之暗面开发的长文本AI助手",
+      "en": "Long-context AI assistant by Moonshot AI"
+    }
+  },
+  {
+    "id": "ai-10",
+    "name": "Suno",
+    "url": "https://suno.com",
+    "category": "ai",
+    "description": {
+      "zh": "AI音乐生成工具",
+      "en": "AI music generation tool"
+    }
+  },
+  {
+    "id": "ai-8",
+    "name": "Hugging Face",
+    "url": "https://huggingface.co",
+    "category": "ai",
+    "description": {
+      "zh": "AI模型和数据集的开源社区",
+      "en": "Open source community for AI models and datasets"
+    }
+  },
+  {
+    "id": "ai-7",
+    "name": "Poe",
+    "url": "https://poe.com",
+    "category": "ai",
+    "description": {
+      "zh": "快速体验多种AI模型",
+      "en": "Fast access to multiple AI models"
+    }
+  },
+  {
+    "id": "ai-11",
+    "name": "Coze",
+    "url": "https://www.coze.com",
+    "category": "ai",
+    "description": {
+      "zh": "新一代AI Bot开发平台",
+      "en": "Next-gen AI Bot development platform"
+    }
+  },
+  {
+    "id": "ai-9",
+    "name": "Civitai",
+    "url": "https://civitai.com",
+    "category": "ai",
+    "description": {
+      "zh": "Stable Diffusion模型分享社区",
+      "en": "Model sharing community for Stable Diffusion"
+    }
+  },
+  {
+    "id": "news-1",
+    "name": "36Kr",
+    "url": "https://36kr.com",
+    "category": "news",
+    "description": {
+      "zh": "关注互联网创业的新商业媒体",
+      "en": "New business media focusing on internet startups"
+    }
+  },
+  {
+    "id": "sw-1",
+    "name": "少数派",
+    "url": "https://sspai.com",
+    "category": "news",
+    "description": {
+      "zh": "高效工作生活指南",
+      "en": "Efficient work and life guide"
+    }
+  },
+  {
+    "id": "news-2",
+    "name": "IT之家",
+    "url": "https://www.ithome.com",
+    "category": "news",
+    "description": {
+      "zh": "数码科技新闻门户",
+      "en": "Digital technology news portal"
+    }
+  },
+  {
+    "id": "news-3",
+    "name": "Hacker News",
+    "url": "https://news.ycombinator.com",
+    "category": "news",
+    "description": {
+      "zh": "高质量的科技新闻社区",
+      "en": "High quality tech news community"
+    }
+  },
+  {
+    "id": "news-7",
+    "name": "The Verge",
+    "url": "https://www.theverge.com",
+    "category": "news",
+    "description": {
+      "zh": "涵盖未来科技的权威媒体",
+      "en": "Authoritative media covering future technology"
+    }
+  },
+  {
+    "id": "news-5",
+    "name": "InfoQ",
+    "url": "https://www.infoq.cn",
+    "category": "news",
+    "description": {
+      "zh": "促进软件开发领域知识与创新",
+      "en": "Facilitating software development knowledge and innovation"
+    }
+  },
+  {
+    "id": "news-8",
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com",
+    "category": "news",
+    "description": {
+      "zh": "关注初创企业和科技新闻",
+      "en": "Focus on startups and technology news"
+    }
+  },
+  {
+    "id": "news-6",
+    "name": "虎嗅",
+    "url": "https://www.huxiu.com",
+    "category": "news",
+    "description": {
+      "zh": "聚焦科技与创新的资讯平台",
+      "en": "Information platform focusing on tech and innovation"
+    }
+  },
+  {
+    "id": "news-4",
+    "name": "Solidot",
+    "url": "https://www.solidot.org",
+    "category": "news",
+    "description": {
+      "zh": "奇客的资讯，重要的东西",
+      "en": "Geek news, things that matter"
+    }
+  },
+  {
+    "id": "design-1",
+    "name": "Dribbble",
+    "url": "https://dribbble.com",
+    "category": "design",
+    "description": {
+      "zh": "设计师灵感社区",
+      "en": "Community for design inspiration"
+    }
+  },
+  {
+    "id": "design-2",
+    "name": "Behance",
+    "url": "https://www.behance.net",
+    "category": "design",
+    "description": {
+      "zh": "Adobe旗下的创意展示平台",
+      "en": "Creative showcase platform by Adobe"
+    }
+  },
+  {
+    "id": "design-4",
+    "name": "Figma",
+    "url": "https://www.figma.com",
+    "category": "design",
+    "description": {
+      "zh": "在线协作界面设计工具",
+      "en": "Online collaborative interface design tool"
+    }
+  },
+  {
+    "id": "design-3",
+    "name": "Pinterest",
+    "url": "https://www.pinterest.com",
+    "category": "design",
+    "description": {
+      "zh": "图片素材和灵感收集",
+      "en": "Image materials and inspiration collection"
+    }
+  },
+  {
+    "id": "design-7",
+    "name": "Unsplash",
+    "url": "https://unsplash.com",
+    "category": "design",
+    "description": {
+      "zh": "高质量免费无版权图片",
+      "en": "High quality free copyright-free images"
+    }
+  },
+  {
+    "id": "design-14",
+    "name": "Iconfont",
+    "url": "https://www.iconfont.cn",
+    "category": "design",
+    "description": {
+      "zh": "阿里巴巴矢量图标库",
+      "en": "Vector icon library by Alibaba"
+    }
+  },
+  {
+    "id": "design-15",
+    "name": "站酷 ZCOOL",
+    "url": "https://www.zcool.com.cn",
+    "category": "design",
+    "description": {
+      "zh": "设计师互动平台",
+      "en": "Designer interaction platform"
+    }
+  },
+  {
+    "id": "design-9",
+    "name": "Adobe Color",
+    "url": "https://color.adobe.com",
+    "category": "design",
+    "description": {
+      "zh": "Adobe专业的配色工具",
+      "en": "Professional color tool by Adobe"
+    }
+  },
+  {
+    "id": "design-8",
+    "name": "Coolors",
+    "url": "https://coolors.co",
+    "category": "design",
+    "description": {
+      "zh": "超快速的配色方案生成器",
+      "en": "The super fast color schemes generator"
+    }
+  },
+  {
+    "id": "design-10",
+    "name": "Color Hunt",
+    "url": "https://colorhunt.co",
+    "category": "design",
+    "description": {
+      "zh": "设计师的配色灵感库",
+      "en": "Color palettes for designers and artists"
+    }
+  },
+  {
+    "id": "design-17",
+    "name": "IconPark",
+    "url": "https://iconpark.oceanengine.com/official",
+    "category": "design",
+    "description": {
+      "zh": "字节跳动开源图标库",
+      "en": "Open source icon library by ByteDance"
+    }
+  },
+  {
+    "id": "design-6",
+    "name": "ArtStation",
+    "url": "https://www.artstation.com",
+    "category": "design",
+    "description": {
+      "zh": "游戏电影CG艺术家社区",
+      "en": "Community for game, film, media & entertainment artists"
+    }
+  },
+  {
+    "id": "design-5",
+    "name": "Awwwards",
+    "url": "https://www.awwwards.com",
+    "category": "design",
+    "description": {
+      "zh": "表彰最佳网页设计",
+      "en": "Recognizing the best web design"
+    }
+  },
+  {
+    "id": "design-18",
+    "name": "unDraw",
+    "url": "https://undraw.co/illustrations",
+    "category": "design",
+    "description": {
+      "zh": "免费开源矢量插画库",
+      "en": "Open source illustrations for any idea"
+    }
+  },
+  {
+    "id": "design-11",
+    "name": "BrandColors",
+    "url": "https://brandcolors.net",
+    "category": "design",
+    "description": {
+      "zh": "世界知名品牌颜色代码集合",
+      "en": "Official brand color codes collection"
+    }
+  },
+  {
+    "id": "design-12",
+    "name": "Nippon Colors",
+    "url": "https://nipponcolors.com",
+    "category": "design",
+    "description": {
+      "zh": "日本传统色系展示",
+      "en": "Traditional colors of Japan"
+    }
+  },
+  {
+    "id": "design-13",
+    "name": "WebGradients",
+    "url": "https://webgradients.com",
+    "category": "design",
+    "description": {
+      "zh": "180种线性渐变色集合",
+      "en": "Collection of 180 linear gradients"
+    }
+  },
+  {
+    "id": "design-16",
+    "name": "美叶",
+    "url": "https://www.meiye.art",
+    "category": "design",
+    "description": {
+      "zh": "优质设计灵感库",
+      "en": "High-quality design inspiration library"
+    }
+  },
+  {
+    "id": "dev-1",
+    "name": "GitHub",
+    "url": "https://github.com",
+    "category": "community",
+    "description": {
+      "zh": "全球最大的代码托管平台",
+      "en": "World's largest code hosting platform"
+    }
+  },
+  {
+    "id": "comm-3",
+    "name": "Stack Overflow",
+    "url": "https://stackoverflow.com",
+    "category": "community",
+    "description": {
+      "zh": "全球最大的程序员问答社区",
+      "en": "World's largest programmer Q&A community"
+    }
+  },
+  {
+    "id": "comm-1",
+    "name": "掘金",
+    "url": "https://juejin.cn",
+    "category": "community",
+    "description": {
+      "zh": "帮助开发者成长的社区",
+      "en": "Community helping developers grow"
+    }
+  },
+  {
+    "id": "comm-8",
+    "name": "CSDN",
+    "url": "https://www.csdn.net",
+    "category": "community",
+    "description": {
+      "zh": "专业开发者社区",
+      "en": "Professional developer community"
+    }
+  },
+  {
+    "id": "comm-2",
+    "name": "V2EX",
+    "url": "https://www.v2ex.com",
+    "category": "community",
+    "description": {
+      "zh": "创意工作者们的社区",
+      "en": "Community for creative workers"
+    }
+  },
+  {
+    "id": "comm-5",
+    "name": "Reddit",
+    "url": "https://www.reddit.com/r/programming",
+    "category": "community",
+    "description": {
+      "zh": "互联网的前沿阵地",
+      "en": "The front page of the internet"
+    }
+  },
+  {
+    "id": "comm-4",
+    "name": "Product Hunt",
+    "url": "https://www.producthunt.com",
+    "category": "community",
+    "description": {
+      "zh": "发现最新最好的科技产品",
+      "en": "Discover the latest and best tech products"
+    }
+  },
+  {
+    "id": "comm-9",
+    "name": "OSChina",
+    "url": "https://www.oschina.net",
+    "category": "community",
+    "description": {
+      "zh": "中文开源技术交流社区",
+      "en": "Chinese open source technology community"
+    }
+  },
+  {
+    "id": "comm-10",
+    "name": "51CTO",
+    "url": "https://www.51cto.com",
+    "category": "community",
+    "description": {
+      "zh": "数字化人才学习和成长社区",
+      "en": "Digital talent learning and growth community"
+    }
+  },
+  {
+    "id": "comm-11",
+    "name": "Aliyun Dev",
+    "url": "https://developer.aliyun.com",
+    "category": "community",
+    "description": {
+      "zh": "阿里云开发者社区",
+      "en": "Alibaba Cloud developer community"
+    }
+  },
+  {
+    "id": "comm-12",
+    "name": "Huawei Dev",
+    "url": "https://developer.huawei.com",
+    "category": "community",
+    "description": {
+      "zh": "华为开发者联盟",
+      "en": "Huawei Developer Alliance"
+    }
+  },
+  {
+    "id": "comm-7",
+    "name": "酷安",
+    "url": "https://www.coolapk.com",
+    "category": "community",
+    "description": {
+      "zh": "发现科技新生活",
+      "en": "Discover new tech life"
+    }
+  },
+  {
+    "id": "comm-6",
+    "name": "Dev.to",
+    "url": "https://dev.to",
+    "category": "community",
+    "description": {
+      "zh": "开发者分享知识的社区",
+      "en": "Community for developers to share knowledge"
+    }
+  },
+  {
+    "id": "dev-1-1",
+    "name": "GitHub",
+    "url": "https://github.com",
+    "category": "dev",
+    "description": {
+      "zh": "全球最大的代码托管平台",
+      "en": "World's largest code hosting platform"
+    }
+  },
+  {
+    "id": "dev-5",
+    "name": "Vercel",
+    "url": "https://vercel.com",
+    "category": "dev",
+    "description": {
+      "zh": "前端开发和部署平台",
+      "en": "Frontend development and deployment platform"
+    }
+  },
+  {
+    "id": "dev-6",
+    "name": "StackBlitz",
+    "url": "https://stackblitz.com",
+    "category": "dev",
+    "description": {
+      "zh": "在线即时IDE环境",
+      "en": "Instant online IDE environment"
+    }
+  },
+  {
+    "id": "dev-2",
+    "name": "CodePen",
+    "url": "https://codepen.io",
+    "category": "dev",
+    "description": {
+      "zh": "前端代码在线编辑分享",
+      "en": "Online code editing and sharing for front-end"
+    }
+  },
+  {
+    "id": "dev-3",
+    "name": "Can I Use",
+    "url": "https://caniuse.com",
+    "category": "dev",
+    "description": {
+      "zh": "Web前端兼容性查询",
+      "en": "Browser compatibility tables for web technologies"
+    }
+  },
+  {
+    "id": "dev-11",
+    "name": "Ant Design",
+    "url": "https://ant.design",
+    "category": "dev",
+    "description": {
+      "zh": "企业级的UI设计语言和React组件库",
+      "en": "Enterprise UI design language and React component library"
+    }
+  },
+  {
+    "id": "dev-10",
+    "name": "Element UI",
+    "url": "https://element-plus.org",
+    "category": "dev",
+    "description": {
+      "zh": "基于Vue.js的UI组件库",
+      "en": "Vue.js based UI component library"
+    }
+  },
+  {
+    "id": "dev-9",
+    "name": "Arco Design",
+    "url": "https://arco.design",
+    "category": "dev",
+    "description": {
+      "zh": "面向前端开发的设计体系平台",
+      "en": "Design system platform for frontend development"
+    }
+  },
+  {
+    "id": "dev-12",
+    "name": "TDesign",
+    "url": "https://tdesign.tencent.com",
+    "category": "dev",
+    "description": {
+      "zh": "腾讯设计出品的UI设计体系",
+      "en": "Tencent's UI design system"
+    }
+  },
+  {
+    "id": "dev-8",
+    "name": "JSON Crack",
+    "url": "https://jsoncrack.com",
+    "category": "dev",
+    "description": {
+      "zh": "可视化JSON数据结构",
+      "en": "Visualize JSON data structures"
+    }
+  },
+  {
+    "id": "dev-4",
+    "name": "RegExr",
+    "url": "https://regexr.com",
+    "category": "dev",
+    "description": {
+      "zh": "正则表达式在线测试工具",
+      "en": "Online tool to learn, build, & test Regular Expressions"
+    }
+  },
+  {
+    "id": "dev-7",
+    "name": "Carbon",
+    "url": "https://carbon.now.sh",
+    "category": "dev",
+    "description": {
+      "zh": "生成漂亮的代码图片",
+      "en": "Create and share beautiful images of your source code"
+    }
+  },
+  {
+    "id": "dev-13",
+    "name": "蓝湖",
+    "url": "https://lanhuapp.com",
+    "category": "dev",
+    "description": {
+      "zh": "设计稿管理和协作平台",
+      "en": "Design management and collaboration platform"
+    }
+  },
+  {
+    "id": "dev-14",
+    "name": "GitHub Pages",
+    "url": "https://pages.github.com",
+    "category": "dev",
+    "description": {
+      "zh": "为你的项目建立静态网站",
+      "en": "Websites for you and your projects"
+    }
+  },
+  {
+    "id": "dev-15",
+    "name": "Gitee Pages",
+    "url": "https://gitee.com/help/articles/4136",
+    "category": "dev",
+    "description": {
+      "zh": "基于Git的托管静态网站平台",
+      "en": "Git-based static website hosting platform"
+    }
+  },
+  {
+    "id": "dev-16",
+    "name": "FastMock",
+    "url": "https://www.fastmock.site",
+    "category": "dev",
+    "description": {
+      "zh": "在线模拟ajax请求",
+      "en": "Online ajax request simulation"
+    }
+  },
+  {
+    "id": "dev-19",
+    "name": "imgcook",
+    "url": "https://www.imgcook.com",
+    "category": "dev",
+    "description": {
+      "zh": "设计稿智能生成代码",
+      "en": "Intelligent code generation from design drafts"
+    }
+  },
+  {
+    "id": "dev-17",
+    "name": "The Favicon Finder",
+    "url": "https://realfavicongenerator.net",
+    "category": "dev",
+    "description": {
+      "zh": "根据网站获取网址图标",
+      "en": "Get website icon from URL"
+    }
+  },
+  {
+    "id": "dev-18",
+    "name": "App Icon Generator",
+    "url": "https://makeappicon.com",
+    "category": "dev",
+    "description": {
+      "zh": "移动应用图标生成工具",
+      "en": "Generate icons for mobile apps"
+    }
+  },
+  {
+    "id": "learn-1",
+    "name": "MDN Web Docs",
+    "url": "https://developer.mozilla.org",
+    "category": "learn",
+    "description": {
+      "zh": "Web开发者权威指南",
+      "en": "Authoritative guide for Web developers"
+    }
+  },
+  {
+    "id": "learn-7",
+    "name": "Bilibili",
+    "url": "https://www.bilibili.com/v/tech",
+    "category": "learn",
+    "description": {
+      "zh": "年轻人的学习网站",
+      "en": "Learning website for the young generation"
+    }
+  },
+  {
+    "id": "learn-4",
+    "name": "LeetCode",
+    "url": "https://leetcode.com",
+    "category": "learn",
+    "description": {
+      "zh": "程序员算法刷题平台",
+      "en": "Algorithm coding platform for programmers"
+    }
+  },
+  {
+    "id": "learn-2",
+    "name": "菜鸟教程",
+    "url": "https://www.runoob.com",
+    "category": "learn",
+    "description": {
+      "zh": "学的不仅是技术，更是梦想",
+      "en": "Learning not just technology, but dreams"
+    }
+  },
+  {
+    "id": "learn-5",
+    "name": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org",
+    "category": "learn",
+    "description": {
+      "zh": "免费学习编程的开源社区",
+      "en": "Free open source community to learn coding"
+    }
+  },
+  {
+    "id": "learn-6",
+    "name": "Roadmap.sh",
+    "url": "https://roadmap.sh",
+    "category": "learn",
+    "description": {
+      "zh": "开发者学习路线图",
+      "en": "Developer roadmaps"
+    }
+  },
+  {
+    "id": "learn-3",
+    "name": "Coursera",
+    "url": "https://www.coursera.org",
+    "category": "learn",
+    "description": {
+      "zh": "全球顶级大学在线课程",
+      "en": "Online courses from top universities worldwide"
+    }
+  },
+  {
+    "id": "tool-1",
+    "name": "Google",
+    "url": "https://google.com",
+    "category": "tools",
+    "description": {
+      "zh": "全球最大的搜索引擎",
+      "en": "World's largest search engine"
+    }
+  },
+  {
+    "id": "tool-2",
+    "name": "DeepL",
+    "url": "https://www.deepl.com",
+    "category": "tools",
+    "description": {
+      "zh": "准确的AI翻译工具",
+      "en": "Accurate AI translation tool"
+    }
+  },
+  {
+    "id": "tool-3",
+    "name": "Notion",
+    "url": "https://www.notion.so",
+    "category": "tools",
+    "description": {
+      "zh": "全能笔记和协作工作台",
+      "en": "All-in-one workspace for notes and collaboration"
+    }
+  },
+  {
+    "id": "tool-5",
+    "name": "Excalidraw",
+    "url": "https://excalidraw.com",
+    "category": "tools",
+    "description": {
+      "zh": "手绘风格的虚拟白板",
+      "en": "Virtual whiteboard with hand-drawn style"
+    }
+  },
+  {
+    "id": "tool-4",
+    "name": "TinyPNG",
+    "url": "https://tinypng.com",
+    "category": "tools",
+    "description": {
+      "zh": "智能WebP、PNG和JPEG压缩",
+      "en": "Smart WebP, PNG and JPEG compression"
+    }
+  },
+  {
+    "id": "tool-6",
+    "name": "Remove.bg",
+    "url": "https://www.remove.bg",
+    "category": "tools",
+    "description": {
+      "zh": "AI自动去除图片背景",
+      "en": "AI automatically removes image background"
+    }
+  },
+  {
+    "id": "tool-7",
+    "name": "Convertio",
+    "url": "https://convertio.co",
+    "category": "tools",
+    "description": {
+      "zh": "强大的在线文件转换器",
+      "en": "Powerful online file converter"
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ai",
+    "name": "AI工具",
+    "icon": "bot",
+    "color": "#10a37f"
+  },
+  {
+    "id": "news",
+    "name": "新闻资讯",
+    "icon": "newspaper",
+    "color": "#F56565"
+  },
+  {
+    "id": "design",
+    "name": "设计灵感",
+    "icon": "palette",
+    "color": "#D69E2E"
+  },
+  {
+    "id": "community",
+    "name": "技术社区",
+    "icon": "users",
+    "color": "#4299E1"
+  },
+  {
+    "id": "dev",
+    "name": "编程工具",
+    "icon": "code",
+    "color": "#805AD5"
+  },
+  {
+    "id": "learn",
+    "name": "学习资源",
+    "icon": "book-open",
+    "color": "#38A169"
+  },
+  {
+    "id": "tools",
+    "name": "常用工具",
+    "icon": "wrench",
+    "color": "#3182CE"
+  }
+]
