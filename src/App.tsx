@@ -5,7 +5,7 @@ import { DataProvider } from './contexts/DataProvider';
 function App() {
   return (
     <DataProvider>
-      <BrowserRouter>
+      <BrowserRouter basename={import.meta.env.BASE_URL}>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/category/:id" element={<Home />} />

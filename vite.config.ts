@@ -7,7 +7,7 @@ import { traeBadgePlugin } from 'vite-plugin-trae-solo-badge';
 export default defineConfig({
   // 如果部署到 https://<USERNAME>.github.io/<REPO>/，请将 base 设置为 '/<REPO>/'
   // 例如：base: '/NoteWeb/',
-  base: './', 
+  base: '/NoteWeb/', 
   build: {
     sourcemap: 'hidden',
   },
