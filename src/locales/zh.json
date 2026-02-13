@@ -23,7 +23,26 @@
       "themeLabel": "主题",
       "themeDescription": "自定义界面的外观风格",
       "languageLabel": "语言",
-      "languageDescription": "切换界面显示的语言"
+      "languageDescription": "切换界面显示的语言",
+      "wallpaper": "壁纸设置",
+      "backgroundType": "自定义背景",
+      "backgroundTypeDesc": "开启或关闭自定义背景图",
+      "wallpaperSource": "图片来源",
+      "wallpaperSourceDesc": "选择网络链接或本地图片",
+      "wallpaperContent": "设置图片",
+      "wallpaperContentDesc": "输入链接或上传文件",
+      "solidColor": "纯色",
+      "customWallpaper": "自定义",
+      "enable": "开启",
+      "disable": "关闭",
+      "chooseFile": "选择图片...",
+      "imageUrl": "网络图片",
+      "localImage": "本地上传",
+      "blur": "模糊度",
+      "blurDesc": "调节背景图片的模糊程度",
+      "apply": "应用",
+      "uploadTip": "点击或拖拽上传图片 (最大 10MB)",
+      "wallpaperSizeError": "图片大小超过 10MB，请使用更小的图片或网络链接"
     },
     "categories": {
       "all": "全部",
@@ -43,6 +62,50 @@
       "duckduckgo": "DuckDuckGo",
       "github": "GitHub",
       "stackoverflow": "Stack Overflow"
+    },
+    "toast": {
+      "settingsSaved": "设置已保存",
+      "settingsReset": "设置已重置",
+      "wallpaperUpdated": "壁纸已更新",
+      "wallpaperReset": "壁纸已重置",
+      "uploadSuccess": "上传成功",
+      "uploadError": "上传失败",
+      "themeChanged": "主题已切换为 {{theme}}",
+      "languageChanged": "语言已切换为 {{label}}"
+    },
+    "editor": {
+      "tabs": {
+        "links": "链接管理",
+        "categories": "分组管理"
+      },
+      "columns": {
+        "index": "#",
+        "name": "名称",
+        "url": "URL",
+        "category": "分类",
+        "icon": "图标",
+        "color": "颜色",
+        "action": "操作"
+      },
+      "buttons": {
+        "save": "保存生效",
+        "cancel": "取消更改",
+        "export": "导出 JSON",
+        "reset": "恢复出厂设置",
+        "add": "添加一行",
+        "tableMode": "表格模式",
+        "jsonMode": "源码模式 (JSON)"
+      },
+      "placeholders": {
+        "searchLinks": "搜索链接...",
+        "searchCategories": "搜索分类...",
+        "selectCategory": "选择分类...",
+        "selectIcon": "选择图标...",
+        "enterJson": "在此处粘贴或编辑 JSON 数据..."
+      },
+      "validation": {
+        "invalidJson": "无效的 JSON 格式"
+      }
     }
   }
 }

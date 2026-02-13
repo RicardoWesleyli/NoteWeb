@@ -7,12 +7,15 @@ import { motion, AnimatePresence } from 'framer-motion';
 import QuoteDisplay from '../components/QuoteDisplay/QuoteDisplay';
 import { useTranslation } from 'react-i18next';
 import * as LucideIcons from 'lucide-react';
+import { useTheme } from '../components/ThemeProvider';
+import clsx from 'clsx';
 
 const Home: React.FC = () => {
   const { categories, links } = useData();
   const [searchParams] = useSearchParams();
   const searchQuery = searchParams.get('q') || '';
   const { t } = useTranslation();
+  const { backgroundImage } = useTheme();
 
   // Helper to get icon component dynamically
   const getIconComponent = (iconName: string) => {
@@ -79,18 +82,31 @@ const Home: React.FC = () => {
                     key={category.id}
                     className="space-y-6"
                   >
-                    <div className="flex items-center gap-2 pb-3 border-b border-slate-200 dark:border-slate-800">
+                    <div className={clsx(
+                      "flex items-center gap-2 pb-3",
+                      backgroundImage 
+                        ? "border-b border-white/20 dark:border-white/10" 
+                        : "border-b border-slate-200 dark:border-slate-800"
+                    )}>
                       <div 
-                        className="p-1.5 rounded-lg"
-                        style={{ backgroundColor: `${category.color}15` }}
+                        className={clsx(
+                          "p-1.5 rounded-lg transition-colors",
+                          backgroundImage ? "bg-white/80 dark:bg-black/40 backdrop-blur-sm" : ""
+                        )}
+                        style={!backgroundImage ? { backgroundColor: `${category.color}15` } : {}}
                       >
                         <CategoryIcon 
                           size={18} 
                           style={{ color: category.color }} 
                         />
                       </div>
-                      <h2 className="text-lg font-bold text-slate-800 dark:text-slate-100">
-                        {t(`categories.${category.id}`)}
+                      <h2 className={clsx(
+                        "text-lg font-bold",
+                        backgroundImage 
+                          ? "text-slate-900 dark:text-white drop-shadow-sm" 
+                          : "text-slate-800 dark:text-slate-100"
+                      )}>
+                        {category.name}
                       </h2>
                     </div>
 

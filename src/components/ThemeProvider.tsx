@@ -11,11 +11,19 @@ interface ThemeProviderProps {
 interface ThemeProviderState {
   theme: Theme;
   setTheme: (theme: Theme) => void;
+  backgroundImage: string | null;
+  setBackgroundImage: (url: string | null) => void;
+  backgroundBlur: number;
+  setBackgroundBlur: (blur: number) => void;
 }
 
 const initialState: ThemeProviderState = {
   theme: 'system',
   setTheme: () => null,
+  backgroundImage: null,
+  setBackgroundImage: () => null,
+  backgroundBlur: 0,
+  setBackgroundBlur: () => null,
 };
 
 const ThemeProviderContext = createContext<ThemeProviderState>(initialState);
@@ -27,6 +35,14 @@ export function ThemeProvider({
 }: ThemeProviderProps) {
   const [theme, setTheme] = useState<Theme>(
     () => (localStorage.getItem(storageKey) as Theme) || defaultTheme
+  );
+  
+  const [backgroundImage, setBackgroundImage] = useState<string | null>(
+    () => localStorage.getItem('background-image') || null
+  );
+
+  const [backgroundBlur, setBackgroundBlur] = useState<number>(
+    () => parseInt(localStorage.getItem('background-blur') || '0', 10)
   );
 
   useEffect(() => {
@@ -60,6 +76,20 @@ export function ThemeProvider({
     setTheme: (theme: Theme) => {
       localStorage.setItem(storageKey, theme);
       setTheme(theme);
+    },
+    backgroundImage,
+    setBackgroundImage: (url: string | null) => {
+      if (url) {
+        localStorage.setItem('background-image', url);
+      } else {
+        localStorage.removeItem('background-image');
+      }
+      setBackgroundImage(url);
+    },
+    backgroundBlur,
+    setBackgroundBlur: (blur: number) => {
+      localStorage.setItem('background-blur', blur.toString());
+      setBackgroundBlur(blur);
     },
   };
 

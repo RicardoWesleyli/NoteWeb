@@ -6,6 +6,7 @@ import { useTranslation } from 'react-i18next';
 import BackToTop from '../BackToTop/BackToTop';
 import SettingsModal from '../Settings/SettingsModal';
 import Tooltip from '../Tooltip/Tooltip';
+import { useTheme } from '../ThemeProvider';
 
 interface LayoutProps {
   children: ReactNode;
@@ -15,10 +16,29 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
   const { t } = useTranslation();
   const [isSettingsOpen, setIsSettingsOpen] = useState(false);
   const mainScrollRef = useRef<HTMLDivElement>(null);
+  const { backgroundImage, backgroundBlur } = useTheme();
 
   return (
-    <div className="h-screen bg-[#F8FAFC] dark:bg-[#0A0A0A] font-sans text-slate-900 dark:text-slate-100 transition-colors duration-300 flex flex-col overflow-hidden">
-      <header className="flex-none z-50 bg-[#F8FAFC]/80 dark:bg-[#0A0A0A]/80 backdrop-blur-md border-b border-slate-200 dark:border-white/10 transition-colors duration-300">
+    <div className="h-screen bg-white dark:bg-[#0A0A0A] font-sans text-slate-900 dark:text-slate-100 transition-colors duration-300 flex flex-col overflow-hidden relative">
+      {/* Custom Background Wallpaper */}
+      {backgroundImage && (
+        <>
+          <div 
+            className="absolute inset-0 z-0 transition-all duration-300 ease-in-out"
+            style={{
+              backgroundImage: `url(${backgroundImage})`,
+              backgroundSize: 'cover',
+              backgroundPosition: 'center',
+              filter: `blur(${backgroundBlur}px)`,
+              transform: 'scale(1.02)' // Scale slightly to prevent white edges from blur
+            }}
+          />
+          {/* Overlay to improve readability */}
+          <div className="absolute inset-0 z-0 bg-white/60 dark:bg-black/40 backdrop-saturate-150 transition-colors duration-300" />
+        </>
+      )}
+
+      <header className="flex-none z-50 bg-white/80 dark:bg-[#0A0A0A]/80 backdrop-blur-md border-b border-slate-200 dark:border-white/10 transition-colors duration-300">
         <div className="max-w-[1400px] mx-auto px-4 h-16 flex items-center justify-between gap-4">
           {/* Left: Logo and Nav */}
           <div className="flex items-center gap-8">
@@ -50,7 +70,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
 
       <div 
         ref={mainScrollRef}
-        className="flex-1 w-full overflow-y-auto scrollbar-thin scrollbar-thumb-slate-200 dark:scrollbar-thumb-slate-700 scrollbar-track-transparent"
+        className="flex-1 w-full overflow-y-auto scrollbar-thin scrollbar-thumb-slate-200 dark:scrollbar-thumb-slate-700 scrollbar-track-transparent relative z-10"
       >
         <main className="max-w-[1400px] mx-auto px-4 py-8">
           {children}

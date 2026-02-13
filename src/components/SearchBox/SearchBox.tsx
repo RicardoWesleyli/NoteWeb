@@ -3,6 +3,7 @@ import { X, ChevronDown, Github } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 import clsx from 'clsx';
 import { motion, AnimatePresence } from 'framer-motion';
+import { useTheme } from '../ThemeProvider';
 
 // Icons
 const GoogleIcon = () => (
@@ -56,6 +57,7 @@ const SearchBox: React.FC = () => {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
   const { t } = useTranslation();
+  const { backgroundImage } = useTheme();
 
   // Close dropdown when clicking outside
   useEffect(() => {
@@ -135,7 +137,12 @@ const SearchBox: React.FC = () => {
 
         <input
           type="text"
-          className="block w-full pl-20 pr-10 py-3 bg-slate-100 dark:bg-[#1E1E1E] border border-transparent rounded-xl text-sm text-slate-900 dark:text-slate-100 placeholder-slate-500 dark:placeholder-slate-400 focus:outline-none focus:bg-white dark:focus:bg-[#1E1E1E] focus:border-blue-500 dark:focus:border-blue-400 focus:ring-2 focus:ring-blue-500/20 dark:focus:ring-blue-400/20 transition-all"
+          className={clsx(
+            "block w-full pl-20 pr-10 py-3 border rounded-xl text-sm transition-all focus:outline-none focus:ring-2 focus:ring-blue-500/20 dark:focus:ring-blue-400/20",
+            backgroundImage 
+              ? "bg-white/60 dark:bg-black/40 backdrop-blur-md border-white/20 dark:border-white/10 text-slate-900 dark:text-white placeholder-slate-600 dark:placeholder-slate-300 focus:bg-white/80 dark:focus:bg-black/60 focus:border-blue-500/50" 
+              : "bg-slate-100 dark:bg-[#1E1E1E] border-transparent text-slate-900 dark:text-slate-100 placeholder-slate-500 dark:placeholder-slate-400 focus:bg-white dark:focus:bg-[#1E1E1E] focus:border-blue-500 dark:focus:border-blue-400"
+          )}
           placeholder={t('searchPlaceholder')}
           value={query}
           onChange={(e) => setQuery(e.target.value)}
