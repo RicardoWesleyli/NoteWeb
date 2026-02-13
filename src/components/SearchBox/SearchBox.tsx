@@ -74,6 +74,7 @@ const SearchBox: React.FC = () => {
     e.preventDefault();
     if (query.trim()) {
       window.open(`${selectedEngine.url}${encodeURIComponent(query)}`, '_blank');
+      setQuery(''); // Clear input after search
     }
   };
 
