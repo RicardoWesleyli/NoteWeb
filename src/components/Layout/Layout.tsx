@@ -1,6 +1,6 @@
 import React, { ReactNode, useState, useRef } from 'react';
 import { Link } from 'react-router-dom';
-import { Compass, Settings } from 'lucide-react';
+import { Compass, Settings, Github } from 'lucide-react';
 import SearchBox from '../SearchBox/SearchBox';
 import { useTranslation } from 'react-i18next';
 import BackToTop from '../BackToTop/BackToTop';
@@ -55,6 +55,17 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
 
           {/* Right: Actions */}
           <div className="flex items-center gap-2 text-slate-600 dark:text-slate-400">
+            <Tooltip content="GitHub" position="bottom">
+              <a 
+                href="https://github.com/RicardoWesleyli/NoteWeb"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="p-2 rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-slate-900 dark:hover:text-slate-200 transition-all duration-200 flex items-center justify-center"
+                aria-label="GitHub"
+              >
+                <Github size={20} />
+              </a>
+            </Tooltip>
             <Tooltip content={t('settings.title')} position="bottom">
               <button 
                 onClick={() => setIsSettingsOpen(true)}
