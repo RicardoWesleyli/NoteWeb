@@ -3,7 +3,6 @@
 NoteWeb 是一个简洁、美观且功能强大的个人导航网站项目。它旨在帮助用户高效管理常用的网络资源，提供个性化的上网入口。
 
 ![NoteWeb Preview](./public/preview.png)
-*(注意：请确保添加预览图到 public/preview.png，或者删除此行)*
 
 ## ✨ 主要特性
 
