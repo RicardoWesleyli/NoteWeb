@@ -60,6 +60,16 @@
     }
   },
   {
+    "id": "ai-12",
+    "name": "豆包",
+    "url": "https://www.doubao.com/chat/",
+    "category": "ai",
+    "description": {
+      "zh": "字节跳动旗下AI智能助手",
+      "en": "AI assistant by ByteDance"
+    }
+  },
+  {
     "id": "ai-10",
     "name": "Suno",
     "url": "https://suno.com",
