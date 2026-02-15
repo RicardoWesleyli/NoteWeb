@@ -61,7 +61,8 @@
       "baidu": "Baidu",
       "duckduckgo": "DuckDuckGo",
       "github": "GitHub",
-      "stackoverflow": "Stack Overflow"
+      "stackoverflow": "Stack Overflow",
+      "translate": "Translation Tool"
     },
     "toast": {
       "settingsSaved": "Settings saved",
@@ -106,6 +107,37 @@
       "validation": {
         "invalidJson": "Invalid JSON format"
       }
+    },
+    "translate": {
+      "title": "Translation Tool",
+      "subtitle": "Smart Chinese-English Translation",
+      "inputLabel": "Input Text",
+      "inputPlaceholder": "Enter Chinese text to translate...",
+      "outputLabel": "Translation Result",
+      "outputPlaceholder": "Translation will appear here...",
+      "translate": "Translate",
+      "translating": "Translating...",
+      "copy": "Copy",
+      "copied": "Copied",
+      "copyError": "Copy failed",
+      "success": "Translation successful",
+      "error": "Translation failed, please try again",
+      "pleaseEnterText": "Please enter text to translate",
+      "tip": "Press Ctrl+Enter for quick translation",
+      "shortcut": "Ctrl+Enter",
+      "characters": "characters",
+      "chineseToEnglish": "Chinese → English",
+      "autoOff": "Auto Translate",
+      "autoOn": "Auto Translate On",
+      "autoTranslateOff": "Auto translation disabled",
+      "autoTranslateOn": "Auto translation enabled"
+    },
+    "common": {
+      "close": "Close",
+      "translatePlaceholder": "Enter text to translate...",
+      "original": "Original",
+      "translation": "Translation",
+      "useTranslation": "Use Translation"
     }
   }
 }

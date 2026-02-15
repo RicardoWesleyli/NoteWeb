@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { X, ChevronDown, Github } from 'lucide-react';
+import { X, ChevronDown, Github, Languages, ArrowRight, Copy, Check } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 import clsx from 'clsx';
 import { motion, AnimatePresence } from 'framer-motion';
@@ -43,38 +43,100 @@ const StackOverflowIcon = () => (
 );
 
 const ENGINES = [
-  { id: 'google', url: 'https://www.google.com/search?q=', icon: <GoogleIcon /> },
-  { id: 'bing', url: 'https://www.bing.com/search?q=', icon: <BingIcon /> },
-  { id: 'baidu', url: 'https://www.baidu.com/s?wd=', icon: <BaiduIcon /> },
-  { id: 'duckduckgo', url: 'https://duckduckgo.com/?q=', icon: <DuckDuckGoIcon /> },
-  { id: 'github', url: 'https://github.com/search?q=', icon: <Github size={16} /> },
-  { id: 'stackoverflow', url: 'https://stackoverflow.com/search?q=', icon: <StackOverflowIcon /> },
+  { id: 'google', url: 'https://www.google.com/search?q=', icon: <GoogleIcon />, type: 'search' },
+  { id: 'bing', url: 'https://www.bing.com/search?q=', icon: <BingIcon />, type: 'search' },
+  { id: 'baidu', url: 'https://www.baidu.com/s?wd=', icon: <BaiduIcon />, type: 'search' },
+  { id: 'duckduckgo', url: 'https://duckduckgo.com/?q=', icon: <DuckDuckGoIcon />, type: 'search' },
+  { id: 'github', url: 'https://github.com/search?q=', icon: <Github size={16} />, type: 'search' },
+  { id: 'stackoverflow', url: 'https://stackoverflow.com/search?q=', icon: <StackOverflowIcon />, type: 'search' },
+  { id: 'translate', url: 'translate', icon: <Languages size={16} />, type: 'translate' },
 ];
 
 const SearchBox: React.FC = () => {
   const [query, setQuery] = useState('');
   const [selectedEngine, setSelectedEngine] = useState(ENGINES[0]);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
+  const [isTranslatePopupOpen, setIsTranslatePopupOpen] = useState(false);
+  const [translatedText, setTranslatedText] = useState('');
+  const [isTranslating, setIsTranslating] = useState(false);
+  const [copied, setCopied] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
+  const translatePopupRef = useRef<HTMLDivElement>(null);
   const { t } = useTranslation();
   const { backgroundImage } = useTheme();
 
-  // Close dropdown when clicking outside
+  // Close dropdowns when clicking outside
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
       if (dropdownRef.current && !dropdownRef.current.contains(event.target as Node)) {
         setIsDropdownOpen(false);
       }
+      if (translatePopupRef.current && !translatePopupRef.current.contains(event.target as Node) && isTranslatePopupOpen) {
+        // Check if the click was on the translation button (to avoid immediate closing when opening)
+        // But since the button has e.stopPropagation(), this might not be strictly necessary if handled correctly
+        // However, the button is inside the form, and the popup is also inside the form?
+        // Let's just rely on stopPropagation in the toggle button
+        setIsTranslatePopupOpen(false);
+      }
     };
     document.addEventListener('mousedown', handleClickOutside);
     return () => document.removeEventListener('mousedown', handleClickOutside);
-  }, []);
+  }, [isTranslatePopupOpen]);
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
     if (query.trim()) {
-      window.open(`${selectedEngine.url}${encodeURIComponent(query)}`, '_blank');
-      setQuery(''); // Clear input after search
+      if (selectedEngine.type === 'translate') {
+        // Don't open new window for translation, just translate
+        handleTranslate(query);
+      } else {
+        window.open(`${selectedEngine.url}${encodeURIComponent(query)}`, '_blank');
+        setQuery(''); // Clear input after search
+      }
+    }
+  };
+
+  const handleTranslate = async (text: string) => {
+    if (!text.trim()) return;
+    
+    setIsTranslating(true);
+    setIsTranslatePopupOpen(true);
+    setTranslatedText('...'); // Show loading placeholder
+    
+    try {
+      // Always translate to English
+      const response = await fetch(`https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=en&dt=t&q=${encodeURIComponent(text)}`);
+      const data = await response.json();
+      
+      if (data && data[0]) {
+        const translated = data[0].map((item: any) => item[0]).join('');
+        setTranslatedText(translated);
+      } else {
+        throw new Error('Translation failed');
+      }
+    } catch (error) {
+      console.error('Translation error:', error);
+      // Fallback: simple error message in English
+      setTranslatedText(t('translate.error') || 'Translation failed');
+    } finally {
+      setIsTranslating(false);
+    }
+  };
+
+  // Auto-translate when popup opens
+  useEffect(() => {
+    if (isTranslatePopupOpen && query.trim()) {
+      handleTranslate(query);
+    }
+  }, [isTranslatePopupOpen]);
+
+  const handleCopyTranslation = async () => {
+    try {
+      await navigator.clipboard.writeText(translatedText);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+    } catch (error) {
+      console.error('Copy failed:', error);
     }
   };
 
@@ -142,14 +204,17 @@ const SearchBox: React.FC = () => {
             "block w-full pl-20 pr-10 py-3 border rounded-xl text-sm transition-all focus:outline-none focus:ring-2 focus:ring-blue-500/20 dark:focus:ring-blue-400/20",
             backgroundImage 
               ? "bg-white/60 dark:bg-black/40 backdrop-blur-md border-white/20 dark:border-white/10 text-slate-900 dark:text-white placeholder-slate-600 dark:placeholder-slate-300 focus:bg-white/80 dark:focus:bg-black/60 focus:border-blue-500/50" 
-              : "bg-slate-100 dark:bg-[#1E1E1E] border-transparent text-slate-900 dark:text-slate-100 placeholder-slate-500 dark:placeholder-slate-400 focus:bg-white dark:focus:bg-[#1E1E1E] focus:border-blue-500 dark:focus:border-blue-400"
+              : "bg-slate-100 dark:bg-[#1E1E1E] border-transparent text-slate-900 dark:text-slate-100 placeholder-slate-500 dark:placeholder-slate-400 focus:bg-white dark:focus:bg-[#1E1E1E] focus:border-blue-500 dark:focus:border-blue-400",
+            selectedEngine.type === 'translate' && "pr-24"
           )}
-          placeholder={t('searchPlaceholder')}
+          placeholder={selectedEngine.type === 'translate' ? (t('common.translatePlaceholder') || '输入要翻译的内容...') : t('searchPlaceholder')}
           value={query}
           onChange={(e) => setQuery(e.target.value)}
         />
         
-        {query && (
+
+        
+        {query && selectedEngine.type !== 'translate' && (
           <button
             type="button"
             onClick={clearSearch}
@@ -159,6 +224,83 @@ const SearchBox: React.FC = () => {
           </button>
         )}
       </div>
+
+      {/* Translation Popup */}
+      <AnimatePresence>
+        {isTranslatePopupOpen && (
+          <motion.div
+            ref={translatePopupRef}
+            initial={{ opacity: 0, y: -10, scale: 0.95 }}
+            animate={{ opacity: 1, y: 0, scale: 1 }}
+            exit={{ opacity: 0, y: -10, scale: 0.95 }}
+            transition={{ duration: 0.2 }}
+            className="absolute top-full left-0 right-0 mt-2 bg-white dark:bg-[#1E1E1E] rounded-xl shadow-2xl border border-slate-200/50 dark:border-white/5 overflow-hidden z-[100] backdrop-blur-xl origin-top"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <div className="p-4">
+              <div className="flex items-center justify-between mb-4">
+                <div className="flex items-center gap-2">
+                  <div className="p-1.5 rounded-lg bg-blue-50 dark:bg-blue-500/10 text-blue-600 dark:text-blue-400">
+                    <Languages size={18} />
+                  </div>
+                  <h3 className="text-base font-medium text-slate-700 dark:text-slate-200">{t('translate.title') || '翻译工具'}</h3>
+                </div>
+                <button
+                  type="button"
+                  onClick={() => setIsTranslatePopupOpen(false)}
+                  className="p-1 rounded-lg text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors"
+                >
+                  <X size={18} />
+                </button>
+              </div>
+              
+              <div className="space-y-4">
+                {/* Original Text */}
+                <div className="space-y-1.5">
+                  <div className="flex items-center justify-between px-1">
+                    <span className="text-xs font-medium text-slate-500 dark:text-slate-400 uppercase tracking-wider">{t('common.original') || '原文'}</span>
+                  </div>
+                  <div className="bg-slate-50 dark:bg-slate-800/50 rounded-xl p-4 border border-slate-100 dark:border-slate-800">
+                    <p className="text-sm text-slate-700 dark:text-slate-200 leading-relaxed">{query}</p>
+                  </div>
+                </div>
+
+                {/* Arrow */}
+                <div className="flex justify-center text-slate-300 dark:text-slate-600">
+                  <ArrowRight size={20} className="rotate-90" />
+                </div>
+
+                {/* Translated Text */}
+                <div className="space-y-1.5">
+                  <div className="flex items-center justify-between px-1">
+                    <span className="text-xs font-medium text-blue-600 dark:text-blue-400 uppercase tracking-wider">翻译成英文</span>
+                    <button
+                      type="button"
+                      onClick={handleCopyTranslation}
+                      className="flex items-center gap-1.5 text-xs text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
+                    >
+                      {copied ? <Check size={14} /> : <Copy size={14} />}
+                      <span>{copied ? (t('translate.copied') || '已复制') : (t('translate.copy') || '复制')}</span>
+                    </button>
+                  </div>
+                  <div className="bg-blue-50/50 dark:bg-blue-500/5 rounded-xl p-4 border border-blue-100 dark:border-blue-500/10 min-h-[80px]">
+                    {isTranslating ? (
+                      <div className="flex items-center gap-2 text-slate-400">
+                        <div className="w-4 h-4 border-2 border-blue-500/30 border-t-blue-500 rounded-full animate-spin" />
+                        <span className="text-sm">{t('translate.translating') || '翻译中...'}</span>
+                      </div>
+                    ) : (
+                      <p className="text-sm text-slate-700 dark:text-slate-200 leading-relaxed">{translatedText}</p>
+                    )}
+                  </div>
+                </div>
+              </div>
+
+
+            </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
     </form>
   );
 };

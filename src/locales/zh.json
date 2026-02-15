@@ -61,7 +61,8 @@
       "baidu": "百度",
       "duckduckgo": "DuckDuckGo",
       "github": "GitHub",
-      "stackoverflow": "Stack Overflow"
+      "stackoverflow": "Stack Overflow",
+      "translate": "翻译工具"
     },
     "toast": {
       "settingsSaved": "设置已保存",
@@ -106,6 +107,37 @@
       "validation": {
         "invalidJson": "无效的 JSON 格式"
       }
+    },
+    "translate": {
+      "title": "翻译工具",
+      "subtitle": "智能中英互译",
+      "inputLabel": "输入文本",
+      "inputPlaceholder": "请输入要翻译的中文文本...",
+      "outputLabel": "翻译结果",
+      "outputPlaceholder": "翻译结果将显示在这里...",
+      "translate": "翻译",
+      "translating": "翻译中...",
+      "copy": "复制",
+      "copied": "已复制",
+      "copyError": "复制失败",
+      "success": "翻译成功",
+      "error": "翻译失败，请重试",
+      "pleaseEnterText": "请输入要翻译的文本",
+      "tip": "按 Ctrl+Enter 快速翻译",
+      "shortcut": "Ctrl+Enter",
+      "characters": "字符",
+      "chineseToEnglish": "中文 → 英文",
+      "autoOff": "自动翻译",
+      "autoOn": "自动翻译开启",
+      "autoTranslateOff": "自动翻译已关闭",
+      "autoTranslateOn": "自动翻译已开启"
+    },
+    "common": {
+      "close": "关闭",
+      "translatePlaceholder": "输入要翻译的内容...",
+      "original": "原文",
+      "translation": "翻译",
+      "useTranslation": "使用翻译"
     }
   }
 }
