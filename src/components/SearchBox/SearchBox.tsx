@@ -58,6 +58,7 @@ const SearchBox: React.FC = () => {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const [isTranslatePopupOpen, setIsTranslatePopupOpen] = useState(false);
   const [translatedText, setTranslatedText] = useState('');
+  const [translatedTextZh, setTranslatedTextZh] = useState('');
   const [isTranslating, setIsTranslating] = useState(false);
   const [copied, setCopied] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
@@ -101,34 +102,38 @@ const SearchBox: React.FC = () => {
     
     setIsTranslating(true);
     setIsTranslatePopupOpen(true);
-    setTranslatedText('...'); // Show loading placeholder
+    setTranslatedText('...'); // Show loading placeholder (English)
+    setTranslatedTextZh('...'); // Show loading placeholder (Chinese)
     
     try {
-      // Always translate to English
-      const response = await fetch(`https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=en&dt=t&q=${encodeURIComponent(text)}`);
-      const data = await response.json();
-      
-      if (data && data[0]) {
-        const translated = data[0].map((item: any) => item[0]).join('');
-        setTranslatedText(translated);
-      } else {
+      const [enRes, zhRes] = await Promise.all([
+        fetch(`https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=en&dt=t&q=${encodeURIComponent(text)}`),
+        fetch(`https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&dt=t&q=${encodeURIComponent(text)}`)
+      ]);
+      const enData = await enRes.json();
+      const zhData = await zhRes.json();
+
+      if (enData && enData[0]) {
+        const enTranslated = enData[0].map((item: any) => item[0]).join('');
+        setTranslatedText(enTranslated);
+      }
+      if (zhData && zhData[0]) {
+        const zhTranslated = zhData[0].map((item: any) => item[0]).join('');
+        setTranslatedTextZh(zhTranslated);
+      }
+      if (!(enData && enData[0]) && !(zhData && zhData[0])) {
         throw new Error('Translation failed');
       }
     } catch (error) {
       console.error('Translation error:', error);
-      // Fallback: simple error message in English
       setTranslatedText(t('translate.error') || 'Translation failed');
+      setTranslatedTextZh(t('translate.error') || '翻译失败');
     } finally {
       setIsTranslating(false);
     }
   };
 
-  // Auto-translate when popup opens
-  useEffect(() => {
-    if (isTranslatePopupOpen && query.trim()) {
-      handleTranslate(query);
-    }
-  }, [isTranslatePopupOpen]);
+  
 
   const handleCopyTranslation = async () => {
     try {
@@ -291,6 +296,23 @@ const SearchBox: React.FC = () => {
                       </div>
                     ) : (
                       <p className="text-sm text-slate-700 dark:text-slate-200 leading-relaxed">{translatedText}</p>
+                    )}
+                  </div>
+                </div>
+
+                {/* Translated Text (Chinese) */}
+                <div className="space-y-1.5">
+                  <div className="flex items-center justify-between px-1">
+                    <span className="text-xs font-medium text-blue-600 dark:text-blue-400 uppercase tracking-wider">翻译成中文</span>
+                  </div>
+                  <div className="bg-blue-50/50 dark:bg-blue-500/5 rounded-xl p-4 border border-blue-100 dark:border-blue-500/10 min-h-[80px]">
+                    {isTranslating ? (
+                      <div className="flex items-center gap-2 text-slate-400">
+                        <div className="w-4 h-4 border-2 border-blue-500/30 border-t-blue-500 rounded-full animate-spin" />
+                        <span className="text-sm">{t('translate.translating') || '翻译中...'}</span>
+                      </div>
+                    ) : (
+                      <p className="text-sm text-slate-700 dark:text-slate-200 leading-relaxed">{translatedTextZh}</p>
                     )}
                   </div>
                 </div>
