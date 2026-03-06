@@ -44,7 +44,7 @@ const NavigationCard: React.FC<NavigationCardProps> = ({ link }) => {
            {/* Small Logo */}
           <div 
             className={clsx(
-              "w-14 h-14 rounded-xl flex-shrink-0 flex items-center justify-center shadow-sm overflow-hidden",
+              "w-12 h-12 rounded-xl flex-shrink-0 flex items-center justify-center shadow-sm overflow-hidden",
               backgroundImage 
                 ? "bg-white/80 dark:bg-white/10 backdrop-blur-sm" 
                 : "bg-white dark:bg-[#252525]"
