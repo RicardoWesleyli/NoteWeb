@@ -61,6 +61,7 @@ const SearchBox: React.FC = () => {
   const [translatedTextZh, setTranslatedTextZh] = useState('');
   const [isTranslating, setIsTranslating] = useState(false);
   const [copied, setCopied] = useState(false);
+  const [copiedZh, setCopiedZh] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
   const translatePopupRef = useRef<HTMLDivElement>(null);
   const { t } = useTranslation();
@@ -140,6 +141,16 @@ const SearchBox: React.FC = () => {
       await navigator.clipboard.writeText(translatedText);
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);
+    } catch (error) {
+      console.error('Copy failed:', error);
+    }
+  };
+
+  const handleCopyTranslationZh = async () => {
+    try {
+      await navigator.clipboard.writeText(translatedTextZh);
+      setCopiedZh(true);
+      setTimeout(() => setCopiedZh(false), 2000);
     } catch (error) {
       console.error('Copy failed:', error);
     }
@@ -304,6 +315,14 @@ const SearchBox: React.FC = () => {
                 <div className="space-y-1.5">
                   <div className="flex items-center justify-between px-1">
                     <span className="text-xs font-medium text-blue-600 dark:text-blue-400 uppercase tracking-wider">翻译成中文</span>
+                    <button
+                      type="button"
+                      onClick={handleCopyTranslationZh}
+                      className="flex items-center gap-1.5 text-xs text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
+                    >
+                      {copiedZh ? <Check size={14} /> : <Copy size={14} />}
+                      <span>{copiedZh ? (t('translate.copied') || '已复制') : (t('translate.copy') || '复制')}</span>
+                    </button>
                   </div>
                   <div className="bg-blue-50/50 dark:bg-blue-500/5 rounded-xl p-4 border border-blue-100 dark:border-blue-500/10 min-h-[80px]">
                     {isTranslating ? (
