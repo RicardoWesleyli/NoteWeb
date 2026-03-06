@@ -40,11 +40,11 @@ const NavigationCard: React.FC<NavigationCardProps> = ({ link }) => {
           : "bg-[#F1F4F9] dark:bg-[#1E1E1E] border-transparent dark:border-white/5 hover:border-slate-300 dark:hover:border-white/20"
       )}>
         {/* Info Row (Bottom) */}
-        <div className="flex gap-3 h-full items-center">
+        <div className="flex gap-2 h-full items-center">
            {/* Small Logo */}
           <div 
             className={clsx(
-              "w-12 h-12 rounded-xl flex-shrink-0 flex items-center justify-center shadow-sm overflow-hidden",
+              "w-14 h-14 rounded-xl flex-shrink-0 flex items-center justify-center shadow-sm overflow-hidden",
               backgroundImage 
                 ? "bg-white/80 dark:bg-white/10 backdrop-blur-sm" 
                 : "bg-white dark:bg-[#252525]"
@@ -54,7 +54,7 @@ const NavigationCard: React.FC<NavigationCardProps> = ({ link }) => {
                <img 
                  src={faviconUrl} 
                  alt={link.name} 
-                 className="w-8 h-8 object-contain rounded-full" 
+                 className="w-10 h-10 object-contain rounded-full" 
                  onError={() => setIconError(true)}
                />
              ) : (
